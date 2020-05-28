@@ -1,0 +1,30 @@
+what,where,why,how,when,text,id
+used,APT37,,,,APT37 has used an audio capturing utility known as SOUNDWAVE that captures microphone input., T1123 
+known,audio capturing utility,,,,APT37 has used an audio capturing utility known as SOUNDWAVE that captures microphone input., T1123 
+captures,microphone input,,,,APT37 has used an audio capturing utility known as SOUNDWAVE that captures microphone input., T1123 
+capturing,audio,,,,Bandook has modules that are capable of capturing audio., T1123 
+perform,voice recording,,,,Cobian RAT has a feature to perform voice recording on the victimâs machine., T1123 
+listen,victims ' conversations,,systemâs microphone,,DarkComet can listen in to victims' conversations through the systemâs microphone., T1123 
+performing,audio captures,,,,Derusbi is capable of performing audio captures., T1123 
+capture,microphone data,,,,DOGCALL can capture microphone data from the victim's machine., T1123 
+capture,audio victim machine,,,,EvilGrab has the capability to capture audio from a victim machine., T1123 
+record,audio,,using existing hardware recording devices,,Flame can record audio using any existing hardware recording devices., T1123 
+using,existing hardware recording devices,,,,Flame can record audio using any existing hardware recording devices., T1123 
+existing,hardware recording devices,,,,Flame can record audio using any existing hardware recording devices., T1123 
+record,sound,,using input audio devices,,InvisiMole can record sound using input audio devices., T1123 
+using,input audio devices,,,,InvisiMole can record sound using input audio devices., T1123 
+captured,audio,,,,Janicab captured audio and sent it out to a C2 server., T1123 
+sent,Janicab,C2 server,,,Janicab captured audio and sent it out to a C2 server., T1123 
+capture,microphone recordings,,,,jRAT can capture microphone recordings., T1123 
+captures,audio,,,,Machete captures audio from the computerâs microphone., T1123 
+record,sounds,,,,MacSpy can record the sounds from microphones on a computer., T1123 
+perform,microphone recording,,,,Micropsia can perform microphone recording., T1123 
+capture,audio feeds,,,,NanoCore can capture audio feeds from the system., T1123 
+record,system microphone audio,,,,PowerSploit's Get-MicrophoneAudio Exfiltration module can record system microphone audio., T1123 
+record,sound,,microphone,,Pupy can record sound with the microphone., T1123 
+capture,data,,,,Remcos can capture data from the systemâs microphone., T1123 
+uses,Skype API,record audio video calls,,,T9000 uses the Skype API to record audio and video calls., T1123 
+record,audio video calls,,,,T9000 uses the Skype API to record audio and video calls., T1123 
+writes,encrypted data,directory,,,It writes encrypted data to directory, T1123 
+encrypted,data,,,,It writes encrypted data to directory, T1123 
+perform,audio capture,,,,VERMIN can perform audio capture., T1123 

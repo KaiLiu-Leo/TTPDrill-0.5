@@ -1,0 +1,610 @@
+abuse
+accept
+access
+accompany
+accomplish
+achieve
+acquire
+act
+activate
+ad
+add
+adjust
+advance
+aid
+aim
+airgap
+allow
+allow access
+alter - alter  altered
+analyz - analyze 
+api - apis 
+appear - appear  appeared appears
+append - appended  appending appends
+appli - applies  applying
+archiv - archive  archived
+ask - asked  asking
+assembl - assemble 
+assign - assigned 
+assist - assist 
+associ - associated 
+attach - attach  attached attachments
+attack - attacker 
+attempt - attempt  attempted attempting attempts
+authent - authenticate  authenticated authenticating
+auto elev - auto elevate 
+auto-elev - auto-elevate 
+autom - automate  automated
+avoid - avoid  avoids
+backdat - backdated 
+base - based 
+base32-encod - base32-encoded 
+base32
+base64 - base64 
+base64-encod - base64-encoded 
+baselin - baselined 
+batch - batch 
+beacon - beacons 
+becom - become  becomes
+begin - beginning  begins
+belief - believes 
+believ - believed 
+belong - belonging  belongs
+bind - binding  binds
+blend - blend 
+block - block 
+bootkit - bootkits 
+break - break  breaking
+broken - broken 
+brows - browse  browsed browses browsing
+brute - brute 
+build - build 
+built - built 
+bundl - bundled 
+bypass - bypass  bypassed bypasses bypassing
+bytecod - bytecode 
+cach - cached 
+call - call  called calling calls
+call back - call back 
+call-back - call-back 
+callback - callback 
+captur - capture  captured captures capturing
+carri - carry 
+center - center 
+chain - chain 
+chang - change  changes changing
+check - check  checked checking checks
+check pres - check presence 
+choos - choose  chooses
+chosen - chosen 
+circumv - circumvent 
+classifi - classify 
+clean - clean  cleaned
+clean up - clean up 
+clear - clear  cleared clearing clears
+click - click  clicking
+clone - clone 
+close - closes 
+cloud - cloud 
+code - coded 
+collect - collect  collected collecting collection collects
+combin - combine  combined
+commingl - commingle  commingling
+commun - communicate  communicated communicates communicating
+compil - compile  compiled
+complet - completes 
+compos - composed 
+compress - compress  compressed compresses compressing
+compromis - compromise  compromised compromising
+comput - computed 
+concaten - concatenating 
+conceal - conceal  concealed
+conduct - conduct  conducted conducts
+configur - configure  configured configures configuring
+confus - confuse 
+connect - connect  connected connects
+consid - consider 
+consist - consists 
+contact - contact  contacted
+contain - contain  contained containing contains
+content - content 
+continu - continue  continued continuing
+control - control  controlled controls
+convert - converting  converts
+copi - copied  copies copy copying
+correspond - corresponding 
+cover - cover 
+crack - crack  cracked cracking
+craft - craft  crafte
+crawl - crawls 
+creat - create  created creates creating
+custom - customized 
+data - data 
+deactiv - deactivate 
+debug - debugged  debugging
+deceiv - deceive 
+decod - decode  decoded decodes
+decompress - decompress  decompressed decompresses
+decreas - decrease 
+decrypt - decrypt  decrypted decrypting decrypts
+defin - defined 
+degrad - degrade 
+delet - delete  deleted deletes deleting delets
+deliev - deliever 
+deliv - deliver  delivered delivering
+demand - demand  demanded demands
+deni - deny 
+deobfusc - deobfuscate  deobfuscates deobfuscating
+depend - depend  depending
+deploy - deploy  deployed deploys
+deriv - derive  derived
+design - designed 
+destroy - destroy  destroyed destroying destroys
+detach - detached 
+detect - detect  detected detecting detects
+deter - deter 
+determin - determine  determines
+develop - develop  developed
+direct - direct  directed
+disabl - disable  disabled disables disabling
+disallow - disallow 
+disconnect - disconnects 
+discov - discover  discovered discovers
+discoveri - discovery 
+disguis - disguise  disguised
+disk - disk 
+display - display  displayed displays
+distinguish - distinguish 
+distribut - distribute  distributed distributing
+divert - divert 
+domain - domain 
+done - done 
+double click - double click 
+double-click - double-click 
+download - download  downloaded downloading downloads
+drive - drive  drives
+driven - driven 
+drop - drop  dropped dropping drops
+dump - dump  dumped dumping
+duplic - duplicate  duplicates
+edit - edit  edited editing
+elaps - elapsed 
+elev - elevate  elevating
+elimin - eliminate 
+emb - embed  embeds
+embed - embedded 
+employ - employ  employed employing employs
+emul - emulate  emulating
+enabl - enable  enabled enables enabling
+encapsul - encapsulate  encapsulated encapsulates encapsulating
+encod - encode  encoded encodes encoding
+encount - encounters 
+encrypt - encrypt  encrypted encrypting encrypts
+end - end 
+enforc - enforce 
+engin - engineer 
+enhanc - enhance 
+ensu - ensuing 
+ensur - ensure  ensured ensures ensuring
+enter - enter 
+entic - entice  enticed
+enumer - enumerate  enumerated enumerates enumerating
+escal - escalate  escalating
+establish - establish  established establishes establishing
+estim - estimate 
+evad - evade  evading
+evict - evicted 
+examin - examine 
+exceed - exceed 
+exchang - exchange 
+execut - executable  execute executed executes executing execution
+exfil - exfil  exfilling
+exfiltr - exfiltrate  exfiltrated exfiltrates exfiltrating
+exist - exist  existing exists
+exit - exit  exiting
+expand - expand 
+expect - expected 
+exploit - exploit  exploited exploiting exploits
+export - export  exported
+expos - expose  exposed exposing
+extend - extended 
+extract - extract  extracted extracting extracts
+face - facing 
+facilit - facilitate 
+fail - failed  fails
+fake - faked 
+fall - falls 
+featur - features  featuring
+fetch - fetch 
+file - files 
+filter - filter 
+find - find  finding finds
+finish - finishes 
+fix - fixed 
+flow - flow 
+flush - flushed 
+folder - folder 
+follow - followed  following
+forc - force  forced forcing
+forg - forged 
+form - forms 
+format - format  formatted
+forward - forwarded  forwarding
+found - found 
+front - fronting 
+fulfil - fulfill 
+function - function 
+gain - gain  gained gaining
+gain access - gain access 
+gain insight - gain insight 
+gain-access - gain-access 
+gain-insight - gain-insight 
+gap - gapped 
+gather - gather  gathered gathering gathers
+gave - gave 
+gener - generate  generated generates generating
+get - get  gets
+get inform - get information 
+get list - get list 
+give - give 
+given - given 
+go - goes 
+grab - grab  grabbing grabs
+grant - grant  granted
+guardrail - guardrail 
+guess - guess  guessing
+gzip - gzipped 
+handl - handle  handles
+hardcod - hardcoded 
+harvest - harvest  harvested harvesting harvests
+hash - hashed 
+help - help 
+hidden - hidden 
+hide - hide  hides hiding
+highlight - highlight 
+hijack - hijack  hijacked hijacking hijacks
+hinder - hinder 
+hit - hit 
+hold - holding 
+hollow - hollowing  hollows
+hook - hook  hooked hooking hooks
+host - host  hosted hosting
+identfi - identfy 
+identifi - identified  identifies identify identifying
+imag - image 
+imit - imitate 
+imperson - impersonate  impersonating
+implement - implement  implementing implements
+includ - include  included includes including
+incorpor - incorporate  incorporated
+increas - increase 
+indic - indicated  indicating
+infect - infect  infected infecting infects
+infer - infer 
+inflat - inflate 
+influenc - influenced 
+inherit - inherit 
+inhibit - inhibit 
+initi - initiate 
+inject - inject  injected injecting injects
+input - input 
+insert - insert  inserted inserts
+inspect - inspecting 
+instal - install  installed installer installing installs
+instruct - instruct 
+integr - integrated 
+intend - intended 
+interact - interact  interacted interacting interacts
+intercept - intercept  intercepted intercepting
+interfer - interfere 
+interrog - interrogate 
+interrupt - interrupt 
+introduc - introduce  introduced
+investig - investigated 
+invok - invoke  invoking
+involv - involving 
+issu - issue  issued issues
+join - joined 
+keep - keep 
+keyboard - keyboard 
+kill - kill  killing kills
+know - know  knowing
+known - known 
+lateral mov - lateral movement 
+launch - launch  launche launched launches launching
+lead - lead 
+leak - leaked 
+learn - learn 
+leav - leaving 
+legitim - legitimate 
+levarag - levarage 
+leverag - leverage  leveraged leverages leveraging
+limit - limit  limiting
+link - link  linked
+list - list  listed listing lists
+listen - listen  listening listens
+load - load  loaded loading loads
+locat - locate  located locates
+log - log  logged logging logs
+login - login 
+look - look  looked looking looks
+loop - loops 
+lost - lost 
+lure - lure  lured lures luring
+made - made 
+maintain - maintain  maintained maintaining maintains
+maintain access - maintain access 
+make - make  makes making
+manag - manage  managed managing
+mangl - mangle 
+manipul - manipulate  manipulated manipulating
+map - map  mapped
+mark - marks 
+mask - mask  masking
+masquerad - masquerade  masqueraded masquerading
+match - match  matches matching
+may - may 
+meant - meant 
+meet - meet  meets
+messag - message 
+migrat - migrate 
+mimic - mimic  mimics
+mimick - mimicking 
+mine - mine 
+minim - minimize 
+mislead - mislead 
+mitig - mitigate 
+modif - modification 
+modifi - modified  modifies modify modifying
+modifiy - modifiy 
+monitor - monitor  monitoring monitors
+mount - mount  mounted mounting
+move - move  moved moving
+name - name  named naming
+navig - navigate 
+need - need  needed
+notifi - notified 
+obfusc - obfuscate  obfuscated obfuscates
+object - objects 
+obscur - obscure  obscured
+observ - observe  observed
+obtain - obtain  obtained obtaining obtains
+occur - occurring  occurs
+open - open  opened opening opens
+oper - operate  operated operates operating
+oppos - opposed 
+order - ordered 
+orient - oriented 
+overwrit - overwrite  overwrites overwriting
+overwritten - overwritten 
+overwrot - overwrote 
+own - owned 
+pa - pass 
+pack - pack  packed packs
+pad - pad 
+paid - paid 
+par - parses 
+pars - parse  parsing
+pass - passed 
+password - password 
+patch - patch  patches
+pay - pay 
+payload - payload 
+peer - peer 
+perform - perform  performed performing performs
+persist - persist  persisting persists
+pertain - pertaining 
+ping - ping 
+place - place  placed places
+plant - plant  planted
+plug - plugged 
+point - point 
+poison - poison  poisoned
+portopen - portopening 
+poss - possesses 
+possess - possessed 
+post - post  posted posting
+preced - preceded 
+predefin - predefined 
+predict - predict 
+preload - preload 
+prepar - prepares 
+present - presented  presents
+preserv - preserve 
+press - pressed  pressing
+pretend - pretend 
+prevent - prevent  preventing
+print - print 
+probe - probe  probing
+proceed - proceed  proceeded
+process - processes 
+produc - produced  produces
+profil - profile 
+program - programmed 
+prohibit - prohibit 
+prompt - prompt  prompted prompts
+propag - propagate  propagates
+protect - protect  protected
+provid - provide  provided provides providing
+proxi - proxy 
+proxy authent - proxy authenticate 
+proxy execut - proxy execute 
+pull - pull  pulls
+purchas - purchased 
+push - pushed 
+put - puts 
+pythonã£â£ã¦â€™ã£â¢ã¢â¢ã£â£ã¢â‚¬å¡ã£â¢ã¢â‚¬å¡ã¢â¬ã£â£ã¢â‚¬å¡ã£â¢ã¢â‚¬å¾ã¢â¢ - pythonÃ£Â£Ã¦â€™Ã£Â¢Ã¢Â¢Ã£Â£Ã¢â‚¬Å¡Ã£Â¢Ã¢â‚¬Å¡Ã¢Â¬Ã£Â£Ã¢â‚¬Å¡Ã£Â¢Ã¢â‚¬Å¾Ã¢Â¢s 
+queri - queried  queries query querying
+ran - ran 
+rang - ranges 
+reach - reach 
+read - read  reading reads
+reboot - reboot  rebooted
+receiv - receive  received receives receiving
+recompil - recompile 
+record - record  recorded recording records
+recov - recover 
+recur - recurring 
+redirect - redirect  redirected
+reduc - reduce 
+referenc - referenced 
+regain - regain  regained
+regist - register  registered registering registers
+registri - registry 
+reinstal - reinstall 
+relat - related 
+relaunch - relaunching 
+relay - relay  relayed relays
+reli - relied  relies
+reload - reload 
+remain - remain 
+remedi - remediate 
+remot - remote  remoting
+remote execut - remote execute 
+remov - removable  remove removed removes removing
+renam - rename  renamed renames renaming
+render - render 
+repack - repacked 
+replac - replace  replaced replaces replacing
+replic - replicate 
+report - reported  reports
+request - request  requests
+requir - require  required requires requiring
+resembl - resembling 
+resid - resides 
+resili - resilient 
+resolv - resolve 
+respond - respond 
+restart - restart 
+restor - restore 
+restrict - restrict  restricted restricting
+resum - resume 
+retriev - retrieve  retrieved retrieves retrieving
+return - return 
+reus - reuse 
+reveal - reveal 
+revers - reverse  reversed
+revok - revoked 
+rewrit - rewrite 
+rotat - rotated  rotating
+rout - routes 
+run - run  running runs
+save - save  saved saves saving
+scan - scan  scanned scanning scans
+schedul - schedule  scheduled schedules scheduling
+scrape - scrapes 
+script - scripting  scripts
+search - search  searched searches searching
+secur - secured 
+see - see 
+seen - seen 
+segment - segment 
+select - select  selected selecting
+sell - sell 
+send - send  sending sends
+sent - sent 
+serv - serve 
+set - set  sets setting
+shadow - shadow 
+share - share  shared sharing
+shell - shells 
+shorten - shortened 
+show - show  showed showing
+shown - shown 
+shut - shut  shutting
+side - side 
+sideload - sideload 
+sign - sign  signed signing signs
+simul - simulate  simulating
+skip - skipping 
+sled - sled 
+snif - sniffing 
+sniff - sniff 
+solicit - solicit 
+spawn - spawn  spawned spawning spawns
+spearphis - spearphising 
+spearphish - spearphish  spearphished spearphishing
+special - specializing 
+specifi - specified  specifies
+spider - spider 
+split - split  splits splitting
+spoof - spoof  spoofed
+spray - spraying 
+spread - spread  spreading spreads
+stage - stage  staged stages
+start - start  starting starts
+stay - stays 
+steal - steal  stealing steals
+stole - stole 
+stolen - stolen 
+stomp - stomped 
+stop - stop  stopped stops
+store - store  stored stores storing
+stream - stream  streams
+submit - submitted 
+subscrib - subscribe 
+subvert - subvert  subverting
+suffix - suffixed 
+suggest - suggesting 
+suit - suite 
+suppli - supply 
+support - support  supported supports
+suspend - suspended 
+tabl - tables 
+tag - tags 
+tailor - tailored 
+taint - taint 
+take - take  takes taking
+taken - taken 
+target - target  targeted targeting targets
+termin - terminate  terminates
+test - test  tested tests
+thwart - thwart 
+timestomp - timestomp  timestomped
+timestop - timestop 
+took - took 
+tracerout - traceroute 
+track - track  tracked
+transfer - transfer  transferred transfers
+transmit - transmit  transmitting
+travers - traverse  traverses traversing
+tri - tries  try
+trick - trick  tricking
+trigger - trigger  triggered
+trust - trust  trusted
+tunnel - tunnel  tunneled
+turn - turning 
+undergo - undergoes 
+undermin - undermining 
+understand - understand 
+undo - undo 
+undo chang - undo change 
+uninstal - uninstall  uninstalls
+unmap - unmap 
+unmapp - unmapp 
+unpack - unpacks 
+updat - update  updated
+upgrad - upgrade 
+upload - upload  uploaded uploading uploads
+us - uses 
+use - use  used using
+user - user 
+util - utilities  utilize utilized utilizes utilizing
+vari - vary 
+vault - vault 
+verifi - verified  verify
+version - versioning 
+victim - victim 
+view - view  viewing
+virtual - virtualized 
+visit - visited  visiting visits
+wait - wait 
+want - wants 
+watch - watch  watching
+weapon - weaponized 
+what - what 
+wipe - wipe  wiping
+wish - wishes 
+write - write  writes writing
+written - written 
+zip - zip  zipped

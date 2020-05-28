@@ -1,0 +1,233 @@
+access
+access control lists
+access controls
+access tokens
+account username
+accounts
+actions
+ad infrastructure
+ad objects
+adversary controlled code
+adversary tool
+anti virus
+antivirus
+api calls
+application
+application whitelisting
+application whitelisting defenses
+application whitelisting policies
+application whitelisting solutions
+applicationwhitelisting
+applocker
+arbitrary files
+audio tracks
+authentication
+authentication values
+backdoor
+banking sites
+behavior
+binaries
+browser application vulnerability
+browser security settings
+brute force attacks
+c2 communication
+certificate
+checks
+clipboard contents
+cmd
+code
+code execution
+com object
+com scriptlets sct
+command
+command control
+command control communications
+command control traffic
+command prompt
+compromised host
+computer components
+configuration information
+connection loss
+content
+content script
+control panelitem files cpl
+cookies
+credential
+credentials keys
+data
+data length
+data threshold alerts
+data transfer
+defenders
+defenses
+defenses detection analysis
+destination
+detection
+dictionary
+directory
+disvover command less conspicuous command
+dlls
+document
+drivers
+email reader
+email restriction
+end system
+event
+evidence
+execuation
+executables
+exploitation
+external remote services
+file analysis tools
+file extension whitelisting
+file hash
+file
+files interestwhere interactive command shells
+firewall restrictions
+firewall
+firmware
+firmware updates
+forensic investigators
+forest environments
+functionalities
+functionality equivalent regsvr32
+groups
+hard drives
+hashes
+highly monitored api functions
+host
+host information
+hostname ip address mappings
+hta files
+http
+http sessions
+https traffic
+images
+information
+information based file directories
+information remote system
+installed software infromation
+interests
+javascript
+jscript vbscript
+kerberoasting
+kerberos
+keylogger
+keys
+lateral movement
+lateral movementopportunities windows multi domain
+legitimate program
+library shared object
+line brute force cracking
+link
+list
+locality information
+login credentials
+macro
+malcious tools
+malicious code
+malicious dll
+malware
+memory process
+messages
+microsoft office 2016
+msi files
+name services
+network
+network connections
+network data tranfer alert
+network resources
+network share connections
+ntunmapviewofsection
+operating system
+pass ticket
+password
+password updates
+persistence
+personal information
+plain text strings
+plaintext credentials
+plist
+powershell commands
+powershell scripts
+privileges
+process
+process doppelgnging
+process monitoring mechanisms
+process whitelisting
+process's memory
+programs
+proxies
+queued apc functions
+rapport
+receipt
+recovery programs
+registry
+registry keys
+remote access tools
+remote exploitation
+remote machines
+remote system information
+remote systems
+replication associated metadata tech sid history injection tech
+resource
+restricted information
+restrictions
+running process
+sandboxes
+schemas
+scripting
+security mechanisms
+security policies
+security software information
+security system
+security tools
+sensitive data
+services
+session
+setthreadcontext
+sid history injection
+signature based detections
+signature validation
+signature validation restrictions
+signature validation tools
+size
+social media
+software
+source
+specify code
+ssh connection
+ssl client certificates
+ssps
+static indicator scanning tools
+sysinternals
+system
+system administrators
+system configuration information
+system information
+system resources
+tech exfiltration alternative protocol tech
+techniques
+text files
+tgts
+token
+tools
+traces
+traffic pattern
+trust controls
+understanding common software running systems
+users
+vbscript
+video clips
+virtualprotectex
+vme artifacts
+vpns
+web server
+whitelisting
+whitelisting defenses
+whitelisting mechanisms
+whitelisting procedures
+whitelisting tools
+windows 10
+windows api
+zip file

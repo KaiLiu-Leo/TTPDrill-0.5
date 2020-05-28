@@ -1,0 +1,913 @@
+id,bow
+t1074,Exfiltrate data
+t1074,Exfiltrate file
+t1185,change content
+t1185,modify behavior
+t1185,intercept information
+t1185,inherit cookies
+t1185,inherit http sessions
+t1185,inherit ssl client certificates
+t1185,redirect http
+t1185,redirect https traffic
+t1185,change content
+t1185,modify behavior
+t1185,intercept information
+t1185,inherit cookies
+t1185,inherit http sessions
+t1185,inherit ssl client certificates
+t1185,redirect http
+t1185,redirect https traffic
+t1185,change content
+t1185,modify behavior
+t1185,intercept information
+t1185,inherit cookies
+t1185,inherit http sessions
+t1185,inherit ssl client certificates
+t1185,redirect http
+t1185,redirect https traffic
+t1185,change content
+t1185,modify behavior
+t1185,intercept information
+t1185,inherit cookies
+t1185,inherit http sessions
+t1185,inherit ssl client certificates
+t1185,redirect http
+t1185,redirect https traffic
+t1185,change content
+t1185,modify behavior
+t1185,intercept information
+t1185,inherit cookies
+t1185,inherit http sessions
+t1185,inherit ssl client certificates
+t1185,redirect http
+t1185,redirect https traffic
+t1005,find files
+t1005,gather information
+t1005,collect information
+t1025,find files of interest interactive command shells
+t1025,find cmd
+t1025,use files of interest interactive command shells
+t1025,use cmd
+t1039,find files
+t1039,collect sensitive data
+t1115,grab clipboard contents
+t1213,mine information
+t1001,make difficult disvover command
+t1001,make communication less conspicuous
+t1001,hide command
+t1001,make difficult disvover command
+t1001,make communication less conspicuous
+t1001,hide command
+t1001,make difficult disvover command
+t1001,make communication less conspicuous
+t1001,hide command
+t1001,make difficult disvover command
+t1001,make communication less conspicuous
+t1001,hide command
+t1008,maintain command and control
+t1008,avoid data transfer
+t1024,hide command and control traffic
+t1026,bypass firewall restrictions
+t1026,avoid data threshold alerts
+t1032 ,conceal command and control traffic
+t1065 ,bypass proxies
+t1065 ,bypass firewalls
+t1090,manage command and control communications
+t1090,reduce network connections
+t1090,provide resiliency connection loss
+t1092,transfer command
+t1095,hide c2 communication
+t1104,collect host information
+t1104,update tool
+t1104,upload file
+t1104,redirect host
+t1105 ,stage adversary tool
+t1105 ,copy file
+t1172,hiding destination
+t1172,disguise destination
+t1188,disguise source
+t1188,identify source
+t1111,intercept security mechanisms
+t1111,intercept systems
+t1111,intercept services
+t1111,intercept network resources
+t1111,intercept password
+t1111,bypass security mechanisms
+t1111,bypass systems
+t1111,bypass services
+t1111,bypass network resources
+t1111,bypass password
+t1111,gain access security mechanisms
+t1111,gain access systems
+t1111,gain access services
+t1111,gain access network resources
+t1111,gain access password
+t1111,obtain security mechanisms
+t1111,obtain systems
+t1111,obtain services
+t1111,obtain network resources
+t1111,obtain password
+t1111,proxy authentication
+t1111,predict authentication values
+t1141,prompt users
+t1141,collect credential
+t1142,collect credentials
+T1167,find keys
+t1171,obtain passwords
+t1171,access code
+t1171,execute code
+t1171,poison name services
+t1174,harvest credentials
+t1208,expose plaintext credentials
+t1003 ,perform lateral movement
+t1003 ,access restricted information
+t1081,password 
+t1110,crack hashes
+t1187,gain access hashes
+t1187,gain access plaintext credentials
+t1187,reuse off line brute force cracking
+t1187,load resource
+t1212,execute adversary controlled code
+t1212,gain access credentials
+t1212,circumvent process
+t1212,gain access systems
+t1214,looking credentials
+t1214,search credentials
+t1214,use credentials
+t1040,access data
+t1040,capture data
+t1040,capture credentials
+t1014,hide programs
+t1014,hide files
+t1014,hide network connections
+t1014,hide services
+t1014,hide drivers
+t1027,discover 
+t1027,analyze 
+t1027,hide plain text strings
+t1027,evade signature based detections
+t1027,evade whitelisting mechanisms
+t1027,hide messages
+t1027,hide code
+t1027,hide images
+t1027,hide audio tracks
+t1027,hide video clips
+t1027,hide text files
+t1027,hide powershell commands
+t1027,execute code
+t1036,bypass tools
+t1036,bypass defenders
+t1036,bypass system administrators
+t1036,deceive tools
+t1036,deceive defenders
+t1036,deceive system administrators
+t1036,tricking user
+t1093,evade defenses and detection analysis
+t1096,evade defenses
+t1096,evade static indicator scanning tools
+t1096,evade anti virus
+t1096,evade defenses
+t1096,evade static indicator scanning tools
+t1096,evade anti virus
+t1099,mimic files
+t1099,mimic forensic investigators
+t1099,mimic file analysis tools
+t1099,do not appear conspicuous files
+t1099,do not appear conspicuous forensic investigators
+t1099,do not appear conspicuous file analysis tools
+t1099,hide malware
+t1099,hide malcious tools
+t1099,masquerading malware
+t1099,masquerading malcious tools
+t1099,disguise malware
+t1099,disguise malcious tools
+t1112,hide configuration information
+t1112,remove information
+t1112,interact registry
+t1112,hide keys
+t1126,remove network share connections
+t1126,clean up traces
+t1149,flows application whitelisting
+t1149,bypassed application whitelisting
+t1186,perform process doppelg??nging
+t1186,avoids highly monitored api functions
+t1186,avoids ntunmapviewofsection
+t1186,avoids virtualprotectex
+t1186,avoids setthreadcontext
+t1186,evade defense
+t1186,evade detection
+t1221,conceal code
+t1221,payloads 
+t1221,fetched 
+t1221,executed 
+t1006,bypasses access controls
+t1009,increase size
+t1009,change file hash
+t1073,load dll
+t1116,bypass security policies
+t1118,proxy execution code
+t1118,bypass process whitelisting
+t1130,degrade security of that system
+t1130,collect login credentials
+t1130,intercepting information
+t1130,sign code
+t1130,sign signature validation tools
+t1130,sign sysinternals
+t1130,sign antivirus
+t1130,bypass code
+t1130,bypass signature validation tools
+t1130,bypass sysinternals
+t1130,bypass antivirus
+t1130,install certificate
+t1134,evade detection
+t1134,copy access tokens
+t1134,steal token
+t1134,create process
+t1140,decode remote access tool
+t1170,proxy execution files
+t1170,proxy execution javascript
+t1170,proxy execution vbscript
+t1170,execution code
+t1170,bypass application whitelisting solutions
+t1191,load dlls
+t1191,load com scriptlets  sct
+t1191,load applocker
+t1191,load whitelisting defenses
+t1191,execute dlls
+t1191,execute com scriptlets  sct
+t1191,execute applocker
+t1191,execute whitelisting defenses
+t1191,bypass dlls
+t1191,bypass com scriptlets  sct
+t1191,bypass applocker
+t1191,bypass whitelisting defenses
+t1196,execute commands
+t1196,bypass application
+t1196,bypass file extension whitelisting
+t1197,perform  exfiltration over alternative protocol 
+t1207,inject ad infrastructure
+t1207,replicate credentials and keys
+t1207,alter replication and other associated metadata
+t1207,delete replication and other associated metadata
+t1207,perform     manipulate  sid history injection      ad objects    accounts   access control lists   schemas
+t1211,execute adversary controlled code
+t1222,modifying files
+t1222,replacing files
+t1222,or deleting files
+t1223,conceal malicious code
+t1223,bypass application whitelisting
+t1223,bypass systems
+t1497,determine sandboxes
+t1497,avoid operating sandboxes
+t1497,obtain system information
+t1497,search vme artifacts
+t1497,combine checks
+t1497,determine 
+t1497,gather evidence
+t1085,execution code
+t1085,triggering security tools
+t1085,execute control panelitem files   cpl
+t1085,execute scripts
+t1085,execute javascript
+t1117,execution code
+t1117,triggering security tools
+t1117,bypass process whitelisting
+t1117,execute dlls
+t1117,register com object
+t1170,execution  hta files
+t1170,execution javascript
+t1170,execution vbscript
+t1170,bypass application whitelisting solutions
+t1170,bypasses browser security settings
+t1216,execution files
+t1216,execution signature validation restrictions
+t1216,execution application whitelisting solutions
+t1216,bypass files
+t1216,bypass signature validation restrictions
+t1216,bypass application whitelisting solutions
+t1216,execution 
+t1218,execution files
+t1218,execution files
+t1218,execution applicationwhitelisting
+t1218,execution signature validation
+t1218,execute files
+t1218,execute files
+t1218,execute applicationwhitelisting
+t1218,execute signature validation
+t1218,bypass files
+t1218,bypass files
+t1218,bypass applicationwhitelisting
+t1218,bypass signature validation
+t1218,launch msi files
+t1218,execution code
+t1218,launch msi files
+t1218,execute dlls
+t1218,input dll
+t1218,run powershell scripts
+t1218,execute functionality equivalent to regsvr32
+t1218,execute dll
+t1220,execute arbitrary files
+t1220,bypassing application whitelisting defenses
+t1220,execute javascript
+t1220,invoke jscript or vbscript
+t1220,invoke jscript or vbscript
+t1220,invoke jscript or vbscript
+t1064,aid 
+t1064,perform 
+t1064,bypass process monitoring mechanisms
+t1118,execution code
+t1118,bypass process whitelisting
+t1127,execution code
+t1127,bypass application whitelist policies
+t1127,execution code
+t1127,bypass application whitelisting policies
+t1127,execution code
+t1127,bypass application whitelist policies
+t1127,execution code
+t1127,bypass application whitelist policies
+t1127,execution dll
+t1127,bypass application whitelisting solutions
+t1152,execute code
+t1152,bypass whitelisting
+t1108,use external remote services
+t1108,use vpns
+t1108,use access
+t1108,use access
+t1108,maintain external remote services
+t1108,maintain vpns
+t1108,maintain access
+t1108,maintain access
+t1108,maintain external remote services
+t1108,maintain vpns
+t1108,maintain access
+t1108,maintain access
+t1198,subvert trust controls
+t1198,bypass security policies
+t1198,mislead operating system
+t1198,mislead whitelisting tools
+t1198,mislead code
+t1198,classify operating system
+t1198,classify whitelisting tools
+t1198,classify code
+t1198,mislead operating system
+t1198,mislead whitelisting tools
+t1198,mislead code
+t1198,classify operating system
+t1198,classify whitelisting tools
+t1198,classify code
+t1198,enable code execution
+t1150,point code
+t1150,execute code
+t1150,bypass whitelisting procedures
+t1055,allow access process's memory
+t1055,allow access system resources
+t1055,allow access network resources
+t1055,evade process's memory
+t1055,evade system resources
+t1055,evade network resources
+t1055,executed queued apc functions
+t1055,invoke code
+t1055,redirect process
+t1055,load library  shared object
+t1055,load library  shared object
+t1055,load library  shared object
+t1055,load library  shared object
+t1055,attach running process
+t1055,modify it running process
+t1055,access memory of the process
+t1055,access data
+t1055,read memory of the process
+t1055,read data
+t1055,write memory of the process
+t1055,write data
+t1055,access system resources
+t1124,execute file information
+t1124,execute file locality information
+t1124,gather information
+t1124,gather locality information
+t1124,dicover information
+t1124,dicover locality information
+t1012,gather system information
+t1012,gather installed software infromation
+t1012,gather system configuration information
+T1016,gather remote system information
+T1016,discover remote system information
+t1018,get listing systems
+t1018,get listing hostname ip address mappings
+t1018,discover systems
+t1018,discover hostname ip address mappings
+t1018,gain insight systems
+t1018,gain insight hostname ip address mappings
+t1018,gather information remote system
+t1018,acquire information remote system
+t1033,retrieve account username
+t1033,querying information
+t1049,query information
+t1057,get information
+t1057,gain understanding of common software running on systems
+t1063,obtain security software information
+t1082,get information based on file directories
+t1082,identfy information based on file directories
+t1082,acquire information based on file directories
+t1087,enumerate groups
+t1087,enumerate users
+t1010,get information keylogger
+t1046,acquire information
+t1083,gather information file
+t1083,gather information directory
+t1083,interact windows api
+t1120,enhance awareness system
+t1120,enhance awareness network
+t1135,access file directories system 
+t1135,query remote system 
+t1135,query shared drive 
+t1135,lateral movement 
+t1135,collection 
+t1201,create list
+t1201,create dictionary
+t1201,create brute force attacks
+t1201,launch list
+t1201,launch dictionary
+t1201,launch brute force attacks
+t1217,reveal learn personal information banking sites interests social media
+t1217,reveal learn compromised host
+t1482,identify Lateral Movement opportunities in Windows multi domain
+t1482,identify forest environments
+t1482,conduct sid history injection
+t1482,conduct pass the ticket
+t1482,conduct kerberoasting
+t1047,interact systems
+t1047,gathering information
+t1047,execution files
+t1059,interact systems
+t1059,execute software
+t1061,search information
+t1061,execute files
+t1086,perform actions
+t1086,discovery information
+t1086,execution code
+t1086,download executables
+t1086,run executables
+t1086,connect remote systems
+t1086,proxy execution code
+t1086,bypass process whitelisting
+t1086,run specify code
+t1106,execute binaries
+t1106,execute binaries
+t1129,execute code
+t1173,enabled windows 10
+t1173,enabled microsoft office 2016
+t1173,enabled registry keys
+t1173,execute commands
+t1173,execute execution
+t1173,deliver commands
+t1173,deliver execution
+t1173,avoiding commands
+t1173,avoiding execution
+t1204,exploit browser or application vulnerability
+t1072,execution code
+t1072,gather information
+t1072,wipe hard drive
+T1154,register code
+t1029 ,blend traffic pattern
+t1002,minimize data length
+t1022,hide information
+t1022,transfer information
+t1030,avoid network data tranfer alert
+t1192,download malware
+t1192,avoid defenses
+t1192,download application
+t1192,download document
+t1192,download executable
+t1192,download zip file
+t1192,download executable
+t1192,interact email reader
+t1192,exploit end system
+t1192,verify receipt
+t1194,generate rapport
+t1194,get rapport
+t1194,bypass email restriction
+t1195 ,gain execution
+t1195 ,add code
+t1199 ,gain network
+t1199 ,gain system
+t1189 ,display OR run content OR script
+t1189 ,display OR run content OR script
+t1193 ,gain execuation
+t1091 ,execute code
+t1017,move systems
+t1017,gather information
+t1017,wiping hard drives
+t1075,authenticate user
+t1075,perform actions
+t1076,stealing session
+t1076,hijack session
+t1076,lead it
+t1097,used kerberos
+t1097,enables tgts
+t1155,interact ssh connection
+t1155,move remote machines
+t1155,launch techniques
+t1175,expose functionalities
+t1210,execute code
+t1210,detect or contain remote exploitation
+t1210,achieve exploitation
+t1004,load dlls
+t1004,execute executables
+t1023,execute tools
+t1023,look legitimate program
+t1023,executed tools
+t1060,execute malware
+t1060,maintain remote access tools
+t1084,subscribe event
+t1084,evade code
+t1084,subscribe event
+t1084,evade code
+t1101,add ssps
+t1163,hide code
+t1164,include link
+t1164,provide link
+t1180,maintain malware
+t1180,run malware
+t1019,perform 
+t1019,assist 
+t1019,perform 
+t1019,assist 
+t1019,perform 
+t1019,assist 
+t1019,install firmware updates
+t1031,persist malware
+t1031,interact windows api
+t1031,interrupt functionality
+t1031,enable services
+t1031,execute recovery programs
+t1031,execute commands
+t1067,diverting execution
+t1067,divert execution
+t1128,execution code
+t1137,execute code
+t1137,obtain code
+t1137,execute code
+t1137,obtain code
+t1137,include macro
+t1137,include macro
+t1159,load plist
+t1209,establish 
+t1501,establish access
+t1501,execute commands
+t1100,use web server
+t1098,performing password updates
+t1109,compromise computer components
+t1109,install firmware
+t1122,insert code
+t1037,execute tools
+t1013,load code
+t1034,resolve executable
+t1050,execute 
+t1050,escalate privileges
+t1015,get use command prompt
+t1015,get use backdoor
+t1179,load and execute code
+t1179,masking execution
+t1038,load malicious dll
+t1179,capture api calls
+t1068,execute adversary controlled code
+t1068,circumvent restrictions
+t1169,execute commands
+t1169,spawn processes
+t1178,enable impersonation users
+t1178,enable impersonation groups
+t1206,escalate privileges
+t1206,make scripting
+t1058,point executable
+t1058,gain persistence
+t1058,point executable
+t1058,gain persistence
+t1058,point executable
+t1058,gain persistence
+t1166,running code
+t1189,Drive by Compromise
+t1190,Exploit Public-Facing Application
+t1133,External Remote Services
+t1200,Hardware Additions
+t1091,Replication Through Removable Media
+t1193,Spearphishing Attachment
+t1192,Spearphishing Link
+t1194,Spearphishing via Service
+t1195,Supply Chain Compromise
+t1199,Trusted Relationship
+t1078,Valid Accounts
+t1155,AppleScript
+t1191,CMSTP
+t1059,Command-Line Interface
+t1223,Compiled HTML File
+t1196,Control Panel Items
+t1173,Dynamic Data Exchange
+t1106,Execution through API
+t1129,Execution through Module Load
+t1203,Exploitation for Client Execution
+t1061,Graphical User Interface
+t1118,InstallUtil
+t1152,Launchctl
+t1168,Local Job Scheduling
+t1177,LSASS Driver
+t1170,Mshta
+t1086,PowerShell
+t1121,Regsvcs/Regasm
+t1117,Regsvr32
+t1085,Rundll32
+t1053,Scheduled Task
+t1064,Scripting
+t1035,Service Execution
+t1218,Signed Binary Proxy Execution
+t1216,Signed Script Proxy Execution
+t1153,Source
+t1151,Space after Filename
+t1072,Third-party Software
+t1154,Trap
+t1127,Trusted Developer Utilities
+t1204,User Execution
+t1047,Windows Management Instrumentation
+t1028,Windows Remote Management
+t1220,XSL Script Processing
+t1156,.bash_profile and .bashrc
+t1015,Accessibility Features
+t1098,Account Manipulation
+t1182,AppCert DLLs
+t1103,AppInit DLLs
+t1138,Application Shimming
+t1131,Authentication Package
+t1197,BITS Jobs
+t1067,Bootkit
+t1176,Browser Extensions
+t1042,Change Default File Association
+t1109,Component Firmware
+t1122,Component Object Model Hijacking
+t1136,Create Account
+t1038,DLL Search Order Hijacking
+t1157,Dylib Hijacking
+t1133,External Remote Services
+t1044,File System Permissions Weakness
+t1158,Hidden Files and Directories
+t1179,Hooking
+t1062,Hypervisor
+t1183,Image File Execution Options Injection
+t1215,Kernel Modules and Extensions
+t1159,Launch Agent
+t1160,Launch Daemon
+t1152,Launchctl
+t1161,LC_LOAD_DYLIB Addition
+t1168,Local Job Scheduling
+t1162,Login Item
+t1037,Logon Scripts
+t1177,LSASS Driver
+t1031,Modify Existing Service
+t1128,Netsh Helper DLL
+t1050,New Service
+t1137,Office Application Startup
+t1034,Path Interception
+t1150,Plist Modification
+t1205,Port Knocking
+t1013,Port Monitors
+t1163,Rc.common
+t1164,Re-opened Applications
+t1108,Redundant Access
+t1060,Registry Run Keys / Startup Folder
+t1053,Scheduled Task
+t1180,Screensaver
+t1101,Security Support Provider
+t1058,Service Registry Permissions Weakness
+t1166,Setuid and Setgid
+t1023,Shortcut Modification
+t1198,SIP and Trust Provider Hijacking
+t1165,Startup Items
+t1019,System Firmware
+t1501,Systemd Service
+t1209,Time Providers
+t1154,Trap
+t1078,Valid Accounts
+t1100,Web Shell
+t1084,Windows Management Instrumentation Event Subscription
+t1004,Winlogon Helper DLL
+t1134,Access Token Manipulation
+t1015,Accessibility Features
+t1182,AppCert DLLs
+t1103,AppInit DLLs
+t1138,Application Shimming
+t1088,Bypass User Account Control
+t1038,DLL Search Order Hijacking
+t1157,Dylib Hijacking
+t1068,Exploitation for Privilege Escalation
+t1181,Extra Window Memory Injection
+t1044,File System Permissions Weakness
+t1179,Hooking
+t1183,Image File Execution Options Injection
+t1160,Launch Daemon
+t1050,New Service
+t1034,Path Interception
+t1150,Plist Modification
+t1013,Port Monitors
+t1053,Scheduled Task
+t1058,Service Registry Permissions Weakness
+t1166,Setuid and Setgid
+t1178,SID-History Injection
+t1165,Startup Items
+t1169,Sudo
+t1206,Sudo Caching
+t1078,Valid Accounts
+t1100,Web Shell
+t1134,Access Token Manipulation
+t1009,Binary Padding
+t1197,BITS Jobs
+t1088,Bypass User Account Control
+t1146,Clear Command History
+t1191,CMSTP
+t1116,Code Signing
+t1500,Compile After Delivery
+t1223,Compiled HTML File
+t1109,Component Firmware
+t1122,Component Object Model Hijacking
+t1196,Control Panel Items
+t1207,DCShadow
+t1140,Deobfuscate/Decode Files or Information
+t1089,Disabling Security Tools
+t1038,DLL Search Order Hijacking
+t1073,DLL Side-Loading
+t1480,Execution Guardrails
+t1211,Exploitation for Defense Evasion
+t1181,Extra Window Memory Injection
+t1107,File Deletion
+t1222,File Permissions Modification
+t1006,File System Logical Offsets
+t1144,Gatekeeper Bypass
+t1484,Group Policy Modification
+t1158,Hidden Files and Directories
+t1147,Hidden Users
+t1143,Hidden Window
+t1148,HISTCONTROL
+t1183,Image File Execution Options Injection
+t1054,Indicator Blocking
+t1066,Indicator Removal from Tools
+t1070,Indicator Removal on Host
+t1202,Indirect Command Execution
+t1130,Install Root Certificate
+t1118,InstallUtil
+t1152,Launchctl
+t1149,LC_MAIN Hijacking
+t1036,Masquerading
+t1112,Modify Registry
+t1170,Mshta
+t1126,Network Share Connection Removal
+t1096,NTFS File Attributes
+t1027,Obfuscated Files or Information
+t1150,Plist Modification
+t1205,Port Knocking
+t1186,Process Doppelg?nging
+t1093,Process Hollowing
+t1055,Process Injection
+t1108,Redundant Access
+t1121,Regsvcs/Regasm
+t1117,Regsvr32
+t1014,Rootkit
+t1085,Rundll32
+t1064,Scripting
+t1218,Signed Binary Proxy Execution
+t1216,Signed Script Proxy Execution
+t1198,SIP and Trust Provider Hijacking
+t1045,Software Packing
+t1151,Space after Filename
+t1221,Template Injection
+t1099,Timestomp
+t1127,Trusted Developer Utilities
+t1078,Valid Accounts
+t1497,Virtualization/Sandbox Evasion
+t1102,Web Service
+t1220,XSL Script Processing
+t1098,Account Manipulation
+t1139,Bash History
+t1110,Brute Force
+t1003,Credential Dumping
+t1081,Credentials in Files
+t1214,Credentials in Registry
+t1212,Exploitation for Credential Access
+t1187,Forced Authentication
+t1179,Hooking
+t1056,Input Capture
+t1141,Input Prompt
+t1208,Kerberoasting
+t1142,Keychain
+t1171,LLMNR NBT NS Poisoning and Relay
+t1040,Network Sniffing
+t1174,Password Filter DLL
+t1145,Private Keys
+t1167,Securityd Memory
+t1111,Two Factor Authentication Interception
+t1087,Account Discovery
+t1010,Application Window Discovery
+t1217,Browser Bookmark Discovery
+t1482,Domain Trust Discovery
+t1083,File and Directory Discovery
+t1046,Network Service Scanning
+t1135,Network Share Discovery
+t1040,Network Sniffing
+t1201,Password Policy Discovery
+t1120,Peripheral Device Discovery
+t1069,Permission Groups Discovery
+t1057,Process Discovery
+t1012,Query Registry
+t1018,Remote System Discovery
+t1063,Security Software Discovery
+t1082,System Information Discovery
+t1016,System Network Configuration Discovery
+t1049,System Network Connections Discovery
+t1033,System Owner/User Discovery
+t1007,System Service Discovery
+t1124,System Time Discovery
+t1497,Virtualization/Sandbox Evasion
+t1155,AppleScript
+t1017,Application Deployment Software
+t1175,Distributed Component Object Model
+t1210,Exploitation of Remote Services
+t1037,Logon Scripts
+t1075,Pass the Hash
+t1097,Pass the Ticket
+t1076,Remote Desktop Protocol
+t1105,Remote File Copy
+t1021,Remote Services
+t1091,Replication Through Removable Media
+t1051,Shared Webroot
+t1184,SSH Hijacking
+t1080,Taint Shared Content
+t1072,Third-party Software
+t1077,Windows Admin Shares
+t1028,Windows Remote Management
+t1123,Audio Capture
+t1119,Automated Collection
+t1115,Clipboard Data
+t1213,Data from Information Repositories
+t1005,Data from Local System
+t1039,Data from Network Shared Drive
+t1025,Data from Removable Media
+t1074,Data Staged
+t1114,Email Collection
+t1056,Input Capture
+t1185,Man in the Browser
+t1113,Screen Capture
+t1125,Video Capture
+t1043,Commonly Used Port
+t1092,Communication Through Removable Media
+t1090,Connection Proxy
+t1094,Custom Command and Control Protocol
+t1024,Custom Cryptographic Protocol
+t1132,Data Encoding
+t1001,Data Obfuscation
+t1172,Domain Fronting
+t1483,Domain Generation Algorithms
+t1008,Fallback Channels
+t1188,Multi-hop Proxy
+t1104,Multi-Stage Channels
+t1026,Multiband Communication
+t1079,Multilayer Encryption
+t1205,Port Knocking
+t1219,Remote Access Tools
+t1105,Remote File Copy
+t1071,Standard Application Layer Protocol
+t1032,Standard Cryptographic Protocol
+t1095,Standard Non-Application Layer Protocol
+t1065,Uncommonly Used Port
+t1102,Web Service
+t1020,Automated Exfiltration
+t1002,Data Compressed
+t1022,Data Encrypted
+t1030,Data Transfer Size Limits
+t1048,Exfiltration Over Alternative Protocol
+t1041,Exfiltration Over Command and Control Channel
+t1011,Exfiltration Over Other Network Medium
+t1052,Exfiltration Over Physical Medium
+t1029,Scheduled Transfer
+t1485,Data Destruction
+t1486,Data Encrypted for Impact
+t1491,Defacement
+t1488,Disk Content Wipe
+t1487,Disk Structure Wipe
+t1499,Endpoint Denial of Service
+t1495,Firmware Corruption
+t1490,Inhibit System Recovery
+t1498,Network Denial of Service
+t1496,Resource Hijacking
+t1494,Runtime Data Manipulation
+t1489,Service Stop
+t1492,Stored Data Manipulation
+t1493,Transmitted Data Manipulation
+tA0001,Initial Access
+tA0002,Execution
+tA0003,Persistence access
+tA0004,Privilege Escalation
+tA0005,Defense Evasion
+tA0006,Credential Access
+tA0007,Discovery
+tA0008,Lateral Movement
+tA0009,Collection
+tA0010,Exfiltration
+tA0011,Command and Control
+tA0040,Impact

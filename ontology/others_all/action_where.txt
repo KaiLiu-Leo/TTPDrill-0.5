@@ -1,0 +1,594 @@
+object
+user input
+name
+registry
+user
+dll search order hijacking
+software update
+SID history injection
+brute force login
+root certificate
+accessibility program
+thread process
+security software
+SAM
+javascript
+malware
+whitelist process
+login credential
+IP address
+domain trust relationship
+dll
+portal
+email data
+trust provider component
+target path
+rainbow table
+powersploit
+interprocess communication IPC
+binary
+script
+dcshadow
+root certificate
+message
+port knock
+memory legitimate process
+screenshot
+sandbox
+Shortcut Modification Directory
+endpoint system
+network share
+exploit code
+language specific semantic
+nbt ns poison relay
+hooking
+kerberos authentication
+file permission
+software
+binary
+screen
+msiexec.exe
+system firmware update
+token
+security settings
+boot sectors
+GPO modification
+portable executable
+PE
+Kerberos Ticket Granting Ticket
+scripting language
+system temperature
+browser security setting
+boot area
+bypass user account control
+bypass UAC
+UAC
+user account control
+txf
+source code repository
+elf binary
+decryption key
+software packing
+tool
+script
+kerberos ticket
+location of an executable
+share connection
+launch daemon
+captured file
+common system utility
+utility
+character
+domain level group
+web service
+packet
+service configuration
+logon session
+authentication mechanisms
+tgt
+malicious software
+launch agent
+programming error
+domain trusts
+development tool
+ifeo mechanisms
+browser
+code signing
+commands
+software weakenss
+local system
+video
+structure exception handling
+vbscript
+login item
+VBScript
+administrator share
+hashes
+outlook form
+static indicator scanning tool
+whitelisting tool
+fallback
+desktop support
+audio device
+tools
+rat
+password filter DLL
+lsass.exe drivers
+program
+system setting
+privilege escalation and persistence
+running window
+virtual machine environment  vme
+built in windows command line utility reg
+keystrokes
+tracker.exe
+removable media
+vulnerabilities
+creddump7
+open source code
+primary user
+network interface
+targets
+weakness
+registry
+credential access techniques
+windows api
+social media account
+metasploit
+office visual basic for applications  vba  macro
+attributes
+c2 traffic
+.hta file
+home page
+certificates
+permissions
+permissions setting
+anti virus
+golden tickets
+key
+open application windows
+actions
+portions of file
+permission groups
+named pipe
+pathname
+ZZZZZZZZZZZZZ
+keystroke
+dynamic data exchange  dde  execution
+upx
+email with file attachment
+group policy objects  gpos
+signature validation restriction
+credential dumping
+local account
+password hash
+sensor settings
+proc
+settings
+remote preloading
+space after filename
+bash_profile file
+file type
+file
+tool
+pointer
+binaries
+password spraying
+.lnk or .scf file
+systemd functionality
+glitch
+information
+services ticket
+passwords
+drive size
+remote file shares
+network connection
+rootkit
+authoritative source
+payloads
+windows registry
+target specific values
+application vulnerability
+time providers
+file system
+security policy
+loadable kernel modules  lkms
+template injection
+php script
+DGA
+this technology
+logs
+service unit file
+input prompt
+link
+token input
+txf transaction
+sethc.exe program
+communication
+DLL
+service
+signature validation tool
+image
+trap
+powershell script
+USP
+hashed credentials
+certificate
+setuid and setgid bits
+service packs
+ptrace system call
+spearphishing
+authentication
+llmnr
+sip
+operating system patches
+URL
+local file systems
+system time
+hidden files
+cloned certificate
+macro
+credential access
+websites
+valid accounts
+name of  process
+malware file
+malicious version dylibs
+counterfeit product
+user activity
+msbuild
+file extension
+process memory
+set of users
+muli stage channel
+command and control channel
+audio recordings
+microsoft common line transformation utility binary
+privilege escalation
+shared section of memory
+invoke psimage
+source
+warm data links  notifications when a data item changes
+tty_ticket
+histcontrol
+code signing certificates
+deamon
+sensor
+registry key value
+active directory  ad  data
+domain admin
+executable
+rdp
+icons
+vbr
+objects and schemas
+outlook rule
+techniques for name service resolution poisoning
+private key
+sysinternals
+privileges
+documents
+executable file
+install root certificate
+path to a malicious dll
+commonly used ports
+keylogger
+hash
+securityd memory
+user account control
+domain generation algorithms  dgas
+credentialing mechanisms
+misconfiguration
+apc queue
+dll side loading
+whitelisting
+user rights
+this technique port monitors
+hooking mechanisms
+rdp session hijacking
+normal.dotm template
+wmi scripts
+defenses
+event
+token stealing
+windows management instrumentation
+hardware
+updated version
+name service
+browser bookmarks
+dylib
+and psattack
+security software discovery
+existing token
+cpu
+destination
+empire
+vulnerability
+ssh
+span port
+COM object
+sudoers file configuration
+data
+command
+open source projects
+employee
+command and control  c2  communications
+modified
+information repositories
+applocker
+hardware architecture
+filetype
+reg.exe
+obfuscated files or information
+forced authentication
+defensive tool
+payload
+memory location
+rc.common file
+security tools
+jscript
+time zone
+code stub
+windows api calls
+scripts
+library
+weaknesses
+network share drive
+C2 traffic
+control panel items
+network configuration
+process whitelisting tool
+imagepath
+script
+ads
+domain account
+this functionality
+responder
+authentication attempt
+bug
+password policy
+bootkits
+bashrc file
+keychain
+protocol traffic
+cmstp.exe
+file extensions
+remote service
+module
+remote host service
+local host file
+windows utilities
+antivirus
+security support provider
+integrity of security solutions
+email payload
+trusted directory
+communication channels
+defense
+files
+the krbtgt hash
+windbg.exe
+application whitelist
+media firmware
+dde
+operating system
+operating system version
+access
+folder name
+traffic
+sip and trust provider
+command and control server
+[pid]
+document
+execution
+security mechanism
+applescript
+powershell
+hypervisor
+TGT
+mem
+service name
+vpn login
+setsuid flag
+utilities
+gatekeeper
+process
+i
+bios
+funcname registry value
+network resource
+registry keys
+transactions consisting of strings
+password hashes
+input capture
+hostname
+dcom
+systeminfo
+tainted share content
+location
+kerberos
+windows native api
+function registry value
+user accounts
+data execution prevention
+regsvcs and regasm
+dnx.exe
+screensaver setting
+remote access software
+ssps
+artifacts
+open windows
+pubprn.vbs
+hardware token
+image file
+credential
+standard authentication steps
+registry key values
+shortcut
+TGS
+web script
+shellcode
+dlls
+web browser
+distribution mechanisms
+api function calls
+utilities  regsvcs and regasm
+backdoors
+patches
+regsvr32.exe
+c2 communication
+powershell commands
+non standard data encoding system
+environment variable
+network shares
+software vulnerability
+login
+bits execution
+peripheral devices
+process injection
+brute force
+right to left override  rtlo or rlo  character  u+202e
+rundll32.exe
+program loading
+process monitoring mechanism
+remote access tool
+access token
+dlfcn application programming interface  api
+LNK based directory
+system firmware
+command line batch script
+access tokens
+host locations
+credentials
+platform
+computer accessories
+plist file
+personal webmail service
+netsh.exe
+directory
+malicious payload
+third party software
+programs
+agent
+ifeo
+uefi
+systems
+replaced file
+clipboard data
+adversary controlled dll
+folders and drives
+or other logical identifier
+Remote access tool
+steganography
+nbnspoof
+hot data links   duplications of changes to a data item
+off line brute force cracking
+channel
+session
+mpress
+Masquerading
+token manipulation
+pth
+configuration
+dylibs
+network traffic
+frequency of mouse click
+user authentication credentials
+whitelisting procedure
+<tech> user execution <\tech>
+application whitelisting solution
+Kerberos Ticket Granting Service Ticket
+proxy
+registry key
+o port
+com objects
+network
+apcs
+timestomping
+windows service binaries
+windows admin share
+mshta.exe
+rcsi.exe
+requests
+bits upload functionalities
+cdb.exe
+dcsync
+hard drive
+mimikatz
+service binpath
+remote services
+component object model  com
+ntlmv2 hash
+memory addresses
+valid account
+code
+protection mechanisms
+service executable
+open scripting architecture  osa  language scripts
+connection
+timestamps of a file
+code execution
+comamnd
+windows application programming interface  api
+whitelisting application
+open application
+bypass user account control
+environmental keying
+screen capture
+security tool
+system's gui
+alias
+common service
+events
+name of an executable
+autorun feature
+cobalt strike's payload
+whitelist policy
+shared location
+token
+autostart mechanism
+bits
+microsoft office documents
+indicators
+firmware
+sid history
+file system permissions weakness
+directories
+security warning
+digital signatures
+launchctl
+memory
+macros
+content
+operating system API
+application whitelisting defense
+password
+hidden files and directories
+attachment
+malicious extensions
+net
+installutil
+operating system hotfixes
+video recording
+Web Shell
+entry point for a binary
+adversary chain
+speed of mouse click
+command line interfaces
+suspended process
+development environment
+system
+email address
+remote system
+webcam
+username
+vme artifact
+passwords and hashes
+system image
+wmi
+fan of the system
+RAT
+configuration location
+connected computer
+guardrails
+program  hh.exe

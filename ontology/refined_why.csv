@@ -1,0 +1,752 @@
+id,what,where
+t1001,make difficult,disvover command
+t1001,hide,command
+t1001,make communication,less conspicuous
+t1002,minimize,data length
+t1003,harvest,hash
+t1003,obtain,account credential
+t1003,harvest,account credential
+t1003,obtain,password
+t1003,harvest,password
+t1003,obtain,hash
+t1004,execute,executable
+t1004,execute,dll
+t1004,load,executable
+t1004,load,dll
+t1005,gather,information
+t1005,find,files
+t1005,collect,information
+t1006,bypass,access control
+t1007,discover,running service
+t1008,maintain,command and control
+t1008,avoid,data transfer threshold
+t1009,avoid,hash based blacklist
+t1009,avoid,static anti virus signature
+t1009,increase,size
+t1009,change,file hash
+t1010,give information context,keylogger
+t1011,exfiltrate,data
+t1012,gather,system information
+t1012,gather,system configuration information
+t1012,gather,installed software infromation
+t1013,load,code
+t1013,load,dll
+t1014,hide,network connection
+t1014,hide,service
+t1014,hide,files
+t1014,hide,driver
+t1014,hide,program
+t1015,use,backdoor
+t1015,get,backdoor
+t1015,execute,replaced file
+t1015,get,command prompt
+t1015,use,command prompt
+t1016,gather,remote system information
+t1016,discover,remote system information
+t1017,wipe,hard drive
+t1017,gather,information
+t1017,move laterally,system
+t1018,gain insight,systems
+t1018,gain insight,hostname ip address mapping
+t1018,discover,hostname ip address mapping
+t1018,gather,information remote system
+t1018,get listing,systems
+t1018,acquire,information remote system
+t1018,get listing,hostname ip address mapping
+t1018,discover,systems
+t1019,perform,malicious activity
+t1019,maintain,persistence
+t1019,assist,malicious activity
+t1019,install,firmware update
+t1021,move laterally,system
+t1022,transfer,information
+t1022,hide,information
+t1023,execute,tool
+t1023,look,legitimate program
+t1024,hide,command and control traffic
+t1025,find,files of interest
+t1026,bypass,data threshold alerts
+t1026,avoid,data threshold alerts
+t1026,avoid,firewall restriction
+t1026,bypass,firewall restriction
+t1027,make diffficult,discovery
+t1027,evade,signature based detection
+t1027,hide,command
+t1027,make diffficult,analysis
+t1027,evade,defense
+t1027,evade,whitelisting mechanism
+t1028,interact,remote system
+t1028,move laterally,sytem
+t1028,remote execute,code
+t1029,blend traffic pattern,normal activity
+t1030,avoid,network data tranfer alert
+t1031,make difficult,detection analysis
+t1031,execute,program
+t1031,execute,command
+t1032,conceal,command and control traffic
+t1033,querying,information
+t1033,retrieve,account username
+t1034,maintain,persistence
+t1034,escalate,privilege
+t1035,execute,dll
+t1035,execute,binary
+t1035,execute,payload
+t1036,evade,defenses
+t1036,deceive,system administrator
+t1036,blend,environment
+t1036,deceive,defender
+t1037,execute,program
+t1037,move laterally,system
+t1037,execute,tool
+t1038,maintain,persistence
+t1038,load,malicious dll
+t1038,escalate,privilege
+t1039,find,file
+t1039,collect,sensitive data
+t1040,access,data
+t1040,capture,data
+t1040,capture,credential
+t1040,access,traffic packet
+t1040,access,credential
+t1040,capture,traffic packet
+t1041,exfiltrate,data
+t1042,execute,command
+t1044,execute,untrusted code
+t1044,gain,persistence
+t1044,escalate,privilege
+t1045,evade,defense
+t1045,avoid,signature based detection
+t1046,acquire,information
+t1047,execute,file
+t1047,interact,system
+t1047,interact,local system
+t1047,perform,lateral movement
+t1047,gather,information
+t1047,interact,remote system
+t1049,get list,network connection
+t1050,execute,service
+t1050,escalate,privilege
+t1050,maintain,persistence
+t1051,execute,tool
+t1051,execute,content
+t1051,execute,rat
+t1051,upload,remote access tool
+t1051,execute,program
+t1051,execute,code
+t1051,upload,rat
+t1052,exfiltrate,data
+t1053,execute,program at system startup
+t1053,gain,system privilege
+t1053,conduct remote execution,lateral movement
+t1053,run,process under the context of a specified account
+t1054,prevent,central analysis
+t1054,block,event
+t1054,block,indicator
+t1055,redirect process,malicious code
+t1055,intercept,api call
+t1055,evade,detection
+t1055,redirect process,network resource
+t1055,allow access,system resource
+t1055,redirect process,system resource
+t1055,redirect process,process memory
+t1055,"allow access , evade",detection
+t1055,redirect process,detection
+t1055,allow access,network resource
+t1055,allow,access malicious code
+t1055,evade,access malicious code
+t1055,evade,process memory
+t1055,evade,system resource
+t1055,evade,network resource
+t1055,allow,access process memory
+t1056,transmit,user credential
+t1056,obtain,credential
+t1056,transmit,credential
+t1056,capture,user credential
+t1056,acquire,credential
+t1056,capture,credential
+t1056,inspect,user input field
+t1056,maintain,network access
+t1057,get,information
+t1057,gain,understanding of common software running on systems
+t1058,gain,persistence
+t1058,point,executable
+t1059,interact,system
+t1059,execute,code
+t1059,execute,command
+t1059,execute,software
+t1060,execute,malwarel
+t1060,execute,remote access tool
+t1060,maintain,persistence
+t1061,search,file
+t1061,execute,information
+t1061,search,information
+t1061,execute,file
+t1062,persist,system
+t1062,hide,existence
+t1063,obtain,security software information
+t1064,download,payload
+t1064,launch,payload
+t1064,aid,operation
+t1064,execute,file
+t1064,bypass,process monitoring mechanism
+t1064,perform,action
+t1064,execute,payload
+t1064,launch,file
+t1064,download,file
+t1065,bypass,proxy
+t1065,bypass,firewall
+t1066,remove,indicator
+t1067,divert,execution
+t1067,persist,system
+t1068,execute,adversary controlled code
+t1068,escalate,privilege
+t1069,enumerate,permission group
+t1069,enumerate,permission
+t1070,make difficult,forensic analysis and incident response
+t1070,cause unreported,event
+t1071,avoid,detection
+t1072,move laterally,remote system
+t1072,wipe,hard drive
+t1072,remote execute,code
+t1073,mask,action
+t1073,load,dll
+t1074,exfiltrate,data
+t1074,exfiltrate,file
+t1075,bypass,authentication step
+t1075,authenticate,user
+t1076,move laterally,system
+t1077,move laterally,system
+t1078,gain,access
+t1078,bypass,access control
+t1078,gain,persistence access
+t1078,gain,remote access
+t1078,connect,remote environment
+t1079,,
+t1080,execute code,remote system
+t1081,password,
+t1082,acquire,information file directories
+t1082,identfy,information based on file directories
+t1082,get,information based on file directories
+t1083,gather information,directory
+t1083,interact,windows api
+t1083,gather,file information
+t1084,execute,code
+t1084,subscribe,event
+t1084,evade,detection
+t1085,proxy execute,code
+t1085,avoid trigger,security tool
+t1086,execute, command
+t1086,download, command
+t1086,run, command
+t1086,execute, script
+t1086,download, script
+t1086,run, script
+t1086,execute,action
+t1086,download,action
+t1086,run,action
+t1086,discovery,action
+t1086,discovery,executable/command/script
+t1086,execute/download/run,code
+t1086,perform,action
+t1086,perform,code
+t1086,execute/download/run,information
+t1086,discovery,information
+t1086,perform,information
+t1086,execute,command
+t1086,execute,command
+t1086,perform,script
+t1086,discovery,code
+t1087,enumerate,users
+t1087,enumerate,groups
+t1088,perform,task under administrator level permission without promting user
+t1089,avoid detection,security tool
+t1090,manage,command and control communications
+t1090,provide resiliency,connection loss
+t1090,reduce,network connections
+t1091,execute,code
+t1092,transfer,command
+t1093,evade,detection analysis
+t1093,evade,defenses
+t1094,hide,c2 communication
+t1095,hide,c2 communication
+t1096,evade,anti virus
+t1096,evade,defenses
+t1096,evade,static indicator scanning tools
+t1097,move laterraly,system
+t1098,maintain access,permission level
+t1098,maintain access,credential
+t1099,do not appear conspicuous,file analysis tool
+t1099,hide,tool
+t1099,mimic,file
+t1099,do not appear conspicuous,forensic investigator
+t1099,hide,malware
+t1100,use,redundant access
+t1100,use,persistance
+t1100,use,web server as gateway
+t1101,add,ssps
+t1102,hide,c2 command
+t1102,relay,c2 command
+t1102,relay,command and control command
+t1103,escalate,privilege
+t1103,obtain,persistence
+t1104,redirect,host
+t1104,collect,host information
+t1104,update,tool
+t1104,upload,file
+t1105,stage,adversary tool
+t1105,bring tool,victim network
+t1106,execute,binaries
+t1107,keep low,adversary footprint
+t1108,gain access,valid account technique
+t1108,maintain,access
+t1108,retain,access
+t1108,use,external remote services technique
+t1109,maintain,persistence
+t1109,evade,integrity check
+t1109,execute,code
+t1109,evade,host software based defenses
+t1110,crack,hashes
+t1110,avoid,account lockout
+t1110,access,account
+t1111,provide,temporary authentication value
+t1111,predict,temporary authentication value
+t1111,gain access,system
+t1111,intercept,security mechanism
+t1111,obtain,password
+t1111,bypass,security mechanism
+t1111,gain access,service
+t1111,proxy,authentication
+t1111,gain access,network resources
+t1112,hide/ remove,payload/command
+t1112,aid in,payload/command
+t1112,conceal,configuration information
+t1112,conceal,information
+t1112,hide/ remove,information
+t1112,aid in,information
+t1112,conceal,payload/command
+t1112,aid in,configuration information
+t1112,conceal,persistence/execution
+t1112,hide/ remove,persistence/execution
+t1112,hide/ remove,configuration information
+t1112,aid in,persistence/execution
+t1113,capture,information
+t1113,gather,information
+t1113,gather,screenshot
+t1113,capture,screenshot
+t1114,collect,information
+t1114,interact,exchange server
+t1114,acquire,information
+t1115,grab,clipboard contents
+t1116,bypass,security policy
+t1116,masquerade,toos as legitimate
+t1116,masquerade,malware
+t1117,avoid trigger,security tool
+t1117,bypass,process whitelisitng
+t1117,establish,persistence
+t1117,execute,dll
+t1117,proxy execute,code
+t1118,bypass,process whitelisting
+t1118,proxy execution,code
+t1119,gather,information
+t1120,enhance awareness,network
+t1120,enhance awareness,system
+t1121,bypass,process whitelisting
+t1121,proxy execution,code
+t1122,maintain,persistence
+t1122,insert,code
+t1124,execute file,locality information
+t1124,gather,information
+t1124,gather,locality information
+t1124,execute file,information
+t1124,dicover,locality information
+t1124,dicover,information
+t1126,clean up,trace
+t1127,execute,code
+t1127,bypass,application whitelisting
+t1128,,cobalt strike's payload
+t1128,execute,code
+t1129,load,dll
+t1129,execute,code
+t1129,load,module
+t1130,bypass,sysinternals
+t1130,bypass,signature validation tool
+t1130,collect,login credential
+t1130,provide,man in the middle capability
+t1130,bypass,antivirus
+t1130,sign,malicious code
+t1130,avoid,security warnings prompting users
+t1130,intercept,ssl communication
+t1130,intercept,information transmitted over secure tls
+t1131,execute,code
+t1133,gain,access
+t1133,persist,network
+t1134,authenticate,remote system
+t1134,elevate,security context from the administrator level to the system level
+t1134,impersonate,logged on user's security context
+t1134,create,new process running under the security context of the impersonated user
+t1135,access,directories
+t1135,perform,lateral movement
+t1135,query,remote system
+t1135,access,file
+t1135,perform,collection
+t1135,query,shared drive
+t1135,access,system
+t1136,maintain,persistence
+t1137,include,macro
+t1137,execute,dll
+t1137,obtain,
+t1137,obtain,persistence
+t1137,execute,code
+t1138,disable,structure exception handling
+t1138,use,bypass user account control
+t1138,inject,
+t1138,use,uac
+t1138,inject,injectdll
+t1138,disable,disableseh
+t1138,use,redirectexe
+t1138,install,backdoor
+t1138,intercept,getprocaddress
+t1138,intercept,memory addresse
+t1138,disable,disablenx
+t1138,disable,data execution prevention
+t1138,inject,dlls into processes
+t1138,elevate,privilege
+t1138,disable,defense
+t1139,get,potential credential
+t1140,deobfuscate,file
+t1140,decode,file
+t1141,collect,credential
+t1141,prompt,users
+t1142,collect,credential
+t1143,conceal,malicious activity
+t1144,bypass,gatekeeper defense
+t1145,decrypte,file
+t1145,authenticate,ssh
+t1145,authenticate,remote service
+t1145,capture,privatekey password
+t1146,evade,defense
+t1146,prevent,commands appearing in logs
+t1146,hide,commands appearing logs
+t1147,evade,defense
+t1148,hide,trace
+t1149,bypass,application whitelisting
+t1150,execute,code
+t1150,bypass,whitelisting procedure
+t1150,point,code
+t1151,double click,file
+t1152,execute,code
+t1152,bypass,whitelisting
+t1153,execute,program
+t1154,execute,code
+t1155,launch,techniques
+t1155,present,fake dialog box
+t1155,interact,ssh connection
+t1155,move,remote machines
+t1156,gain,persistence
+t1156,execute,binary
+t1157,gain,persistence
+t1157,escalate,privilege
+t1158,hide,file
+t1158,hide,folder
+t1158,evade,system analysis
+t1158,maintain,persistence
+t1159,load,plist
+t1160,escalate,privilege
+t1160,load,plist
+t1161,avoid,signature check
+t1162,maintain,persistence
+t1162,execute,code
+t1163,maintain,persistence
+t1163,hide,code
+t1164,provide,link to executable
+t1164,include,link to executable
+t1164,specify,application to reopen
+t1165,register,persistence mechanism
+t1165,escalate,priviledge
+t1166,run,code
+t1167,find,key
+t1168,execute,command
+t1168,run,rprocess under the context of a specific account
+t1168,perform,lateral movement
+t1168,execute,script
+t1168,gain,"root privileges,"
+t1168,perform,execution
+t1168,execute,program
+t1168,maitain,persistence
+t1169,spawn,processe
+t1169,execute,command
+t1170,bypass,bypass browser security setting
+t1170,bypass,application whitelisting solution
+t1170,proxy execution,code
+t1171,obtain,palaintext password
+t1171,poison,name service
+t1171,execute,code
+t1172,hiding,destination
+t1172,disguise,destination
+t1173,deliver,command
+t1173,execute,command
+t1173,avoiding,vba macro execution
+t1174,harvest,credential
+t1174,obtain,credential
+t1175,move laterally,system
+t1175,escalate,privilege
+t1176,maintain,persistence
+t1176,maintain,command&control
+t1176,steal,credential
+t1176,steal,information
+t1176,browse,website
+t1176,use,rat installer
+t1177,execute,code
+t1178,impersonate,user
+t1178,impersonate,group
+t1179,conceal,file
+t1179,conceal,registry key
+t1179,hide,malware
+t1179,hide,file
+t1179,conceal,process
+t1179,hide,registry key
+t1179,maintain,persistence
+t1179,redirect,code flow
+t1179,reveal,user authentication credential
+t1179,load,code
+t1179,execute,code
+t1179,conceal,malware
+t1179,hide,process
+t1180,run,malware
+t1180,maintain,malware
+t1181,avoid,data execution prevention  dep
+t1181,bypass,writeprocessmemory
+t1181,bypass,use of highly monitored api calls
+t1181,avoid,writeprocessmemory
+t1181,avoid,createremotethread
+t1181,bypass,createremotethread
+t1181,bypass,protection mechanism
+t1181,bypass,data execution prevention  dep
+t1181,elevate,privilege
+t1181,allow access,process's memory
+t1181,avoid,protection mechanism
+t1181,avoid,use of highly monitored api calls
+t1182,escalate,privilege
+t1182,load,malicious dll
+t1182,obtain,persistence
+t1183,escalate,privilege
+t1183,obtain,persistence
+t1183,evade,defense
+t1183,maintain,persistence
+t1184,move laterally,system
+t1185,modify,behavior
+t1185,modify,information
+t1185,intercept,cookies
+t1185,redirect,https traffic
+t1185,modify,content
+t1185,inherit,http sessions
+t1185,change,information
+t1185,intercept,ssl client certificates
+t1185,inherit,ssl client certificates
+t1185,inherit,cookies
+t1185,change,content
+t1185,intercept,http sessions
+t1185,change,behavior
+t1185,redirect,http
+t1186,avoid use of,ntunmapviewofsection
+t1186,evade,detection
+t1186,avoid use of,virtualprotectex
+t1186,avoid use of,setthreadcontext
+t1186,avoid use of,highly monitored api function
+t1186,evade,defense
+t1187,gain access,user account hash
+t1187,load,resource
+t1188,disguise,source
+t1189,display,content
+t1189,run,content
+t1189,display,script
+t1189,run,script
+t1190,cause,unintended or unanticipated behavior
+t1191,load,dlls
+t1191,execute,com scriptlets  sct
+t1191,execute,dlls
+t1191,execute,command
+t1191,bypass,whitelisting defenses
+t1191,load,com scriptlets  sct
+t1191,bypass,bypass user account control technique
+t1191,load,command
+t1191,bypass,applocker
+t1192,download,application
+t1192,download,zip file
+t1192,download,malware
+t1192,download,document
+t1192,download,executable
+t1192,interact,email reader
+t1192,avoid,defense
+t1192,interact,embeded image
+t1192,exploit,end system
+t1192,verify,receipt
+t1193,gain,execuation
+t1193,hide,executable extension
+t1194,click,link
+t1194,generate get,rapport
+t1194,open,attachment
+t1195,gain,execution
+t1195,add,code
+t1196,bypass,file extension whitelisting
+t1196,bypass,application
+t1196,execute,command
+t1197,download,malicious code
+t1197,execute,malicious code
+t1197,clean up,malicious code
+t1198,mislead,operating system
+t1198,bypass,security policy
+t1198,mislead,whitelisting tool
+t1198,subvert,trust control
+t1199,gain access,system
+t1199,gain access,network
+t1200,install,wireless access
+t1200,break,man in the middle encryption
+t1200,inject,keystroke
+t1200,tapp,network
+t1200,add,wireless access
+t1200,monitor,network
+t1200,read,kernel memory
+t1201,launch,brute force attack
+t1201,launch,dictionary
+t1201,create list of,common password
+t1202,evade,evasion
+t1202,perform,execution
+t1203,execute,code
+t1204,exploit,application vulnerability
+t1204,bait,user into clicking
+t1204,exploit,browser vulnerability
+t1204,execute,code
+t1205,enable,port
+t1205,hide,open port
+t1206,escalate,privilege without user password
+t1207,obstruct,backdoor
+t1207,"perform,establish",forensic analysis
+t1207,obstruct,forensic analysis
+t1207,obstruct,sid history injection
+t1207,"perform,establish",sid history injection
+t1207,"perform,establish",backdoor
+t1208,escalate,privilege
+t1208,expose,plaintext credentials
+t1208,perform,lateral movement
+t1208,enable,persistance
+t1209,establish,persistence
+t1210,execute,code
+t1210,move laterally,system
+t1211,execute,adversary controlled code
+t1212,gain access,systems
+t1212,circumvent,process
+t1212,execute,adversary controlled code
+t1212,gain access,credentials
+t1213,mine,information
+t1214,search,credentials
+t1214,use,credentials
+t1214,looking,credentials
+t1215,hide,process
+t1215,hide,file
+t1215,enable,root access
+t1215,provide,backdoor
+t1215,maintain,persistence
+t1215,hide,network activity
+t1215,evade,defense
+t1215,tamper,log
+t1215,provide,root access
+t1215,enable,backdoor
+t1216,bypass,signature validation restriction
+t1216,proxy execute,files
+t1216,bypass,application whitelisting solution
+t1217,learn,personal information
+t1217,learn,social media
+t1217,learn,banking sites
+t1217,reveal,compromised host
+t1217,reveal,interests
+t1217,reveal,banking sites
+t1217,learn,interests
+t1217,learn,compromised host
+t1217,reveal,social media
+t1217,reveal,personal information
+t1218,run,powershell script
+t1218,bypass,signature validation restriction
+t1218,bypass,application whitelisting solution
+t1218,execute,file
+t1218,execute,dll
+t1218,input dll,process
+t1218,inject dll,process
+t1218,execute,dll
+t1218,launch,msi file
+t1219,establish,redendant access
+t1219,establish,c2 channel
+t1219,establish,reverse connection
+t1219,establish,interactive rdp
+t1220,bypass,application whitelisting
+t1221,evade,static detection
+t1221,conceal,code
+t1221,enable,execution
+t1221,enable,payload fetched
+t1222,enable replacement enable deletion,file
+t1222,enable modification,file
+t1222,evade,dacls
+t1223,bypass,application whitelisting
+t1223,conceal,malicious code
+t1480,evade,anti virus detection
+t1480,evade,reverse engineering
+t1480,avoid packaging,decryption key
+t1480,evade,crowdsourcing of information
+t1480,avoid send,decryption key
+t1480,evade,sandbox detection
+t1480,prevent,exposure of capabilities
+t1480,help protect,ttps
+t1480,evade,detection
+t1481,hide,c2 command
+t1481,relay,c2 command
+t1482,identify,forest environments
+t1482,conduct,pass the ticket
+t1482,conduct,kerberoasting
+t1482,conduct,sid history injection
+t1482,identify,lateral movement opportunities windows multi domain
+t1483,dynamic identification,destination
+t1484,implement,create account technique
+t1484,implement,remote file copy technique
+t1484,implement,disabling security tool technique
+t1484,implement,scheduled task technique
+t1484,subvert,discretionary access control
+t1484,implement,service execution technique
+t1484,achieve,ad backdoor
+t1484,escalate,privilege
+t1485,interrupt,availability
+t1485,make irrecoverable,data
+t1486,interrupt,availability
+t1486,make inaccessable,data
+t1487,interrupt,availability
+t1488,interrupt,availability
+t1488,make irrecoverable,data
+t1489,make unavailable,service
+t1490,prevent,recovery
+t1491,spread,propaganda
+t1491,deliver,message intimidation
+t1491,claim,intrusion credit
+t1492,hide,activity
+t1493,hide,activity
+t1494,effect,business process
+t1494,effect,decision making
+t1494,manipulate,user underting
+t1494,manipulate,business process
+t1494,manipulate,decision making
+t1494,effect,user underting
+t1496,mine,cryptocurrency
+t1496,solve,rource intensive task
+t1497,conceal,core function
+t1497,avoid detection,tool
+t1497,disengage,victim
+t1497,avoid detection,activity
+t1497,avoid operating,temporary sandbox
+t1498,exhaust,network bandwidth
+t1498,block,availability
+t1499,exhaust,resource
+t1499,crash,system
+t1499,exhaust,system resource
+t1499,block,availability
+t1500,make difficult,discovery
+t1500,make difficult,analysis
+t1501,establish,access
+t1501,execute,commands

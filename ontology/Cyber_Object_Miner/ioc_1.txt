@@ -1,0 +1,1021 @@
+
+!.
+"%system%\intnets.exe"
+"180ax" = "%userprofile%\local settings\temp\180ax.exe"
+"2search" = "%programfiles%\2search\main.exe"
+"7dfdf6841b48c0155a0217e4a9fbffa653671031" = &lt;encoded value&gt;
+"[file path]" = "%windir%\vcmnet11.exe"
+"[random file name]" = "%windir%\[random file name].exe"
+"[random name]" = "%windir%\system\[random name].exe"
+"aapp" = "%system%\adprot"
+"abox"="%windir%\abox.exe"
+"adprot" = "%system%\adprot.exe"
+"adroarupdate" = "[path adware]"
+"adsalert" = "%programfiles%\pcprivacysoftware\adsalert\adsalert.exe"
+"adstartup" = "%system%\adstartup.exe"
+"c:\%program files%2search": "%programfiles%\2search"
+"c:\%program files%im names" = "%programfiles%\im names"
+"clsid" = "{0b90aa1b-f649-44c3-9fd3-736c332cbbcf}"
+"forceshow" = "rundll32.exe &lt;path file&gt;,forceshowbar"
+"goicfboogidikkejccmclpieicihhlpo ijbaca" = "ruboskizo s.l."
+"guarnset" = "%system%\guarnset.exe"
+"improcess" = "%programfiles%\im names\im-svr.exe""[name]" = "[value]"
+"intnets" = "%system%\intnets.exe"
+"loginsessiondisable" = "1"
+"ngpw36" = "%system%\ngpw36.exe"
+"sac" = "%programfiles%\180searchassistant\sac.exe"
+"sain" = "%programfiles%\180search assistant\sain.exe"
+"salm" = "[path file]\"salm.exe"
+"sau" = "%programfiles%\180search assistant\sau.exe"
+"search bar" = "
+"search page" = "
+"searchassistant" = "
+"searchassistant" = "dev.ntcor.com/search.html"
+"searchassistant" = "http:/ /www.abx4.com/side.php"
+"startpage" = "
+"svchost" = "%programfiles%\2search\svchost.exe"
+"sysinfer" = "%system%\sysinfer.exe"
+"syssfitb"="%windows%\syssfitb.exe"
+"wast" = "[path adware]"
+"yahoostock" = "&lt;path executable&gt;"
+"{727d45c4-2bd1-41d2-b54e-97deaf06ad9a}"
+"{727d45c4-2bd1-41d2-b54e-97deaf06ad9a}" = "search agent"
+"{765e6b09-6832-4738-bdbe-25f226ba2ab0} " = "adult links"
+"{965e6b07-6832-4738-bdbe-25f226ba2ab0}" = "adult links"
+"{bdf6ce3d-f5c5-4462-9814-3c8eac330ca8}" = ""
+"{c4ca6559-2cf1-48b6-96b2-8340a06fd129}" = "toolbar ruboskizo"
+%currentfolder%\adsupport.exe
+%programfiles%\007 anti-spyware
+%programfiles%\007 anti-spyware\007-anti-spyware.exe
+%programfiles%\007 anti-spyware\asdb.dat
+%programfiles%\007 anti-spyware\asfile.dll
+%programfiles%\007 anti-spyware\ashitapi.dll
+%programfiles%\007 anti-spyware\askdll.dll
+%programfiles%\007 anti-spyware\asupdate.dll
+%programfiles%\007 anti-spyware\autoupdate.exe
+%programfiles%\007 anti-spyware\clientdf.dll
+%programfiles%\007 anti-spyware\license.txt
+%programfiles%\007 anti-spyware\lsr.lsr
+%programfiles%\007 anti-spyware\md5.dll
+%programfiles%\007 anti-spyware\networkas2.dll
+%programfiles%\007 anti-spyware\regdefend.ini
+%programfiles%\007 anti-spyware\scanft.dll
+%programfiles%\007 anti-spyware\scangi.dll
+%programfiles%\007 anti-spyware\update
+%programfiles%\007 anti-spyware\zlib1.dll
+%programfiles%\180search assistant\hsr.dll
+%programfiles%\180search assistant\sac.exe
+%programfiles%\180search assistant\sain.exe
+%programfiles%\180search assistant\sau.dll
+%programfiles%\180search assistant\sau.exe
+%programfiles%\180search assistant\sau.log
+%programfiles%\180search assistant\sauau.dat
+%programfiles%\180search assistant\sauhook.dll
+%programfiles%\180searchassistant\saaphook.dll
+%programfiles%\180searchassistant\sac_[3 random letters].dat
+%programfiles%\180searchassistant\sac_[3 random letters]_update.dat
+%programfiles%\180searchassistant\sacau.dat
+%programfiles%\180searchassistant\sachook.dll
+%programfiles%\180searchassistant\sackyf.dat
+%programfiles%\180searchassistant\saiehook.dll
+%programfiles%\180searchassistant\saishook.dll
+%programfiles%\180searchassistant\salm.dat
+%programfiles%\180searchassistant\salm.exe
+%programfiles%\180searchassistant\salm_[3 random letters].dat
+%programfiles%\180searchassistant\salmau_update.dat
+%programfiles%\180searchassistant\salmhook.dll
+%programfiles%\1stantivirus\app.exe
+%programfiles%\1stantivirus\drv\securedisk.dcc
+%programfiles%\1stantivirus\drv\xpdriver.sys
+%programfiles%\1stantivirus\extensions.pkg
+%programfiles%\1stantivirus\program.info
+%programfiles%\1stantivirus\uninstall.exe
+%programfiles%\1stantivirus\update.exe
+%programfiles%\2search\2search.dll
+%programfiles%\2search\date.dat
+%programfiles%\2search\defaultne.txt
+%programfiles%\2search\get.exe
+%programfiles%\2search\getst.exe
+%programfiles%\2search\main.exe
+%programfiles%\2search\plugin.dll
+%programfiles%\2search\svchost.exe
+%programfiles%\2search\uninstall.exe
+%programfiles%\3wplayer\3wplayer.exe
+%programfiles%\3wplayer\minime.exe
+%programfiles%\3wplayer\settings.ini
+%programfiles%\3wplayer\settings.stp
+%programfiles%\3wplayer\skincrafterdll.dll
+%programfiles%\3wplayer\skins\stylish.skf
+%programfiles%\3wplayer\test.gif
+%programfiles%\3wplayer\unins000.dat
+%programfiles%\3wplayer\unins000.exe
+%programfiles%\411ferret\basis.xml
+%programfiles%\411ferret\cache
+%programfiles%\411ferret\ferret_logo.bmp
+%programfiles%\411ferret\install.log
+%programfiles%\411ferret\nav.bmp
+%programfiles%\411ferret\toolbar.crc
+%programfiles%\411ferret\toolbar.inf
+%programfiles%\411ferret\version.txt
+%programfiles%\4shared desktop\desktop32.dll
+%programfiles%\4shared desktop\ssleay32.dll
+%programfiles%\811 toolbar\setup-monitor.exe
+%programfiles%\811 toolbar\toolbar.dll
+%programfiles%\adlcontrolcomp.xml
+%programfiles%\advanced driver updater
+%programfiles%\advanced driver updater\adu.exe
+%programfiles%\advanced driver updater\aduuninstall.exe
+%programfiles%\advanced driver updater\chinese_rcp.ini
+%programfiles%\advanced driver updater\chinese_uninst.ini
+%programfiles%\advanced driver updater\danish_rcp.ini
+%programfiles%\advanced driver updater\danish_uninst.ini
+%programfiles%\advanced driver updater\difxapi.dll
+%programfiles%\advanced driver updater\difxapi64.dll
+%programfiles%\advanced driver updater\dutch_rcp.ini
+%programfiles%\advanced driver updater\dutch_uninst.ini
+%programfiles%\advanced driver updater\eng_rcp.ini
+%programfiles%\advanced driver updater\eng_uninst.ini
+%programfiles%\advanced driver updater\finnish_rcp_fi.ini
+%programfiles%\advanced driver updater\finnish_uninst_fi.ini
+%programfiles%\advanced driver updater\french_rcp.ini
+%programfiles%\advanced driver updater\french_uninst.ini
+%programfiles%\advanced driver updater\german_rcp.ini
+%programfiles%\advanced driver updater\german_uninst.ini
+%programfiles%\advanced driver updater\greek_uninst_el.ini
+%programfiles%\advanced driver updater\install_left_image.bmp
+%programfiles%\advanced driver updater\isxdl.dll
+%programfiles%\advanced driver updater\italian_rcp.ini
+%programfiles%\advanced driver updater\italian_uninst.ini
+%programfiles%\advanced driver updater\japanese_rcp.ini
+%programfiles%\advanced driver updater\japanese_uninst.ini
+%programfiles%\advanced driver updater\korean_uninst_ko.ini
+%programfiles%\advanced driver updater\norwegian_rcp.ini
+%programfiles%\advanced driver updater\norwegian_uninst.ini
+%programfiles%\advanced driver updater\polish_uninst_pl.ini
+%programfiles%\advanced driver updater\portugese_uninst_pt.ini
+%programfiles%\advanced driver updater\portuguese_rcp.ini
+%programfiles%\advanced driver updater\portuguese_uninst.ini
+%programfiles%\advanced driver updater\russian_rcp_ru.ini
+%programfiles%\advanced driver updater\russian_uninst_ru.ini
+%programfiles%\advanced driver updater\spanish_rcp.ini
+%programfiles%\advanced driver updater\spanish_uninst.ini
+%programfiles%\advanced driver updater\swedish_rcp.ini
+%programfiles%\advanced driver updater\swedish_uninst.ini
+%programfiles%\advanced driver updater\tps.ico
+%programfiles%\advanced driver updater\traditionalcn_uninst_zh-tw.ini
+%programfiles%\advanced driver updater\turkish_uninst_tr.ini
+%programfiles%\advanced driver updater\unins000.dat
+%programfiles%\advanced driver updater\unins000.exe
+%programfiles%\advanced driver updater\unins000.msg
+%programfiles%\advanced driver updater\unrar.dll
+%programfiles%\advanced driver updater\updater
+%programfiles%\advanced driver updater\updater\amd64helper
+%programfiles%\advanced driver updater\updater\amd64helper\difxapi.dll
+%programfiles%\advanced driver updater\updater\amd64helper\driverupdatehelper64.exe
+%programfiles%\advanced driver updater\updater\amd64helper\driverupdatehelper64.manifest
+%programfiles%\advanced driver updater\updater\extract
+%programfiles%\advanced driver updater\updater\extract\7z.dll
+%programfiles%\advanced driver updater\updater\extract\7z.exe
+%programfiles%\advanced driver updater\updater\extract\copying.txt
+%programfiles%\advanced driver updater\updater\extract\history.txt
+%programfiles%\advanced driver updater\updater\extract\license.txt
+%programfiles%\advanced driver updater\updater\extract\readme.txt
+%programfiles%\advanced fix\regcleandll.dll
+%programfiles%\advanced fix\unins000.exe
+%programfiles%\advancedcleaner free\acu.dat
+%programfiles%\advancedcleaner free\antivlog.dat
+%programfiles%\advancedcleaner free\appact.dat
+%programfiles%\advancedcleaner free\appdb\appbase.xml
+%programfiles%\advancedcleaner free\appdb\profiles.dat
+%programfiles%\advancedcleaner free\appdb\prowords.dat
+%programfiles%\advancedcleaner free\appv.dat
+%programfiles%\advancedcleaner free\atl71.dll
+%programfiles%\advancedcleaner free\img\button.gif
+%programfiles%\advancedcleaner free\img\button2.gif
+%programfiles%\advancedcleaner free\img\header.gif
+%programfiles%\advancedcleaner free\img\logo.gif
+%programfiles%\advancedcleaner free\img\spacer.gif
+%programfiles%\advancedcleaner free\img\top1.jpg
+%programfiles%\advancedcleaner free\img\top2.jpg
+%programfiles%\advancedcleaner free\img\top_line.gif
+%programfiles%\advancedcleaner free\inststat.exe
+%programfiles%\advancedcleaner free\lapv.dat
+%programfiles%\advancedcleaner free\license.rtf
+%programfiles%\advancedcleaner free\manual.url
+%programfiles%\advancedcleaner free\mfc71.dll
+%programfiles%\advancedcleaner free\msvcp71.dll
+%programfiles%\advancedcleaner free\msvcr71.dll
+%programfiles%\advancedcleaner free\naglinks.dat
+%programfiles%\advancedcleaner free\readme.rtf
+%programfiles%\advancedcleaner free\report.dat
+%programfiles%\advancedcleaner free\req.dat
+%programfiles%\advancedcleaner free\request.dat
+%programfiles%\advancedcleaner free\support.url
+%programfiles%\advancedcleaner free\tasks.dat
+%programfiles%\advancedcleaner free\transformer.dat
+%programfiles%\advancedcleaner free\uadc.exe
+%programfiles%\advancedcleaner free\uadc.url
+%programfiles%\advancedcleaner free\uadc.xml
+%programfiles%\advancedcleaner free\uadccw.exe
+%programfiles%\advancedcleaner free\unins000.dat
+%programfiles%\advancedcleaner free\unins000.exe
+%programfiles%\advancedcleaner free\uninstall.ico
+%programfiles%\advancedcleaner free\uninstallpage.html
+%programfiles%\advancedcleaner free\upser.dat
+%programfiles%\antispyware\antispyware.exe
+%programfiles%\antispyware\data\block.reg
+%programfiles%\antispyware\data\block_un.reg
+%programfiles%\antispyware\data\desc.dat
+%programfiles%\antispyware\data\files.dat
+%programfiles%\antispyware\data\registry.dat
+%programfiles%\antispyware\default.xml
+%programfiles%\antispyware\explorermenu.dll
+%programfiles%\antispyware\ieplugin.dll
+%programfiles%\antispyware\ignore.xml
+%programfiles%\antispyware\modules\explorermenu123.dll
+%programfiles%\antispyware\modules\ieplugin59.dll
+%programfiles%\antispyware\quarantine
+%programfiles%\antispyware\quarantine.xml
+%programfiles%\antispyware\settings.xml
+%programfiles%\antispyware\uninstall.exe
+%programfiles%\antispyware\update.exe
+%programfiles%\axpfixer\axpfixer.exe
+%programfiles%\axpfixer\axpfixer.exe.local
+%programfiles%\axpfixer\axpfixerskin.dll
+%programfiles%\axpfixer\database.dat
+%programfiles%\axpfixer\license.txt
+%programfiles%\axpfixer\mfc71.dll
+%programfiles%\axpfixer\mfc71enu.dll
+%programfiles%\axpfixer\msvcp71.dll
+%programfiles%\axpfixer\msvcr71.dll
+%programfiles%\axpfixer\uninstall.exe
+%programfiles%\im names\1.exe
+%programfiles%\im names\im-svr.exe
+%programfiles%\im names\imnames.exe
+%programfiles%\im names\main.exe
+%programfiles%\killspy.net\app.exe
+%programfiles%\killspy.net\drv\securedisk.dcc
+%programfiles%\killspy.net\drv\xpdriver.sys
+%programfiles%\killspy.net\extensions.pkg
+%programfiles%\killspy.net\logs\1144058126.log
+%programfiles%\killspy.net\program.info
+%programfiles%\killspy.net\uninstall.exe
+%programfiles%\killspy.net\update.exe
+%programfiles%\pcprivacysoftware.com\adsalert\adsalert.chm
+%programfiles%\pcprivacysoftware.com\adsalert\adsalert.exe
+%programfiles%\pcprivacysoftware.com\adsalert\include\activity.log
+%programfiles%\pcprivacysoftware.com\adsalert\include\block.adf
+%programfiles%\pcprivacysoftware.com\adsalert\include\cookies.adf
+%programfiles%\pcprivacysoftware.com\adsalert\include\datafile.adf
+%programfiles%\pcprivacysoftware.com\adsalert\include\deep.adf
+%programfiles%\pcprivacysoftware.com\adsalert\include\deleting.nfo
+%programfiles%\pcprivacysoftware.com\adsalert\include\desc.nfo
+%programfiles%\pcprivacysoftware.com\adsalert\include\folder.nfo
+%programfiles%\pcprivacysoftware.com\adsalert\include\internet.adf
+%programfiles%\pcprivacysoftware.com\adsalert\license.txt
+%programfiles%\pcprivacysoftware.com\adsalert\readme.txt
+%programfiles%\pcprivacysoftware.com\adsalert\unins000.dat
+%programfiles%\pcprivacysoftware.com\adsalert\unins000.exe
+%programfiles%\scorpionsaver services\adpeakproxy.dll
+%programfiles%\scorpionsaver services\adpeakproxy.exe
+%programfiles%\scorpionsaver services\adpeakregisterlsp.exe
+%programfiles%\scorpionsaver services\adpeakregisterlsp.ini
+%programfiles%\scorpionsaver services\installbat.dll
+%programfiles%\scorpionsaver services\installdll.dll
+%programfiles%\scorpionsaver services\microsoft.deployment.windowsinstaller.dll
+%programfiles%\scorpionsaver services\microsoft.deployment.windowsinstaller.xml
+%programfiles%\scorpionsaver services\pcproxydll.dll
+%programfiles%\search settings protection\searchsettingsprotection.exe
+%programfiles%\search settings protection\uninstall.exe
+%programfiles%\the guard\the007guard.ocx
+%programfiles%\the guard\the007installer.exe
+%programfiles%\zangoclient\zanuhook.dll
+%system%\&lt;random&gt;.dll
+%system%\&lt;random&gt;a.xml
+%system%\&lt;random&gt;b.xml
+%system%\&lt;random&gt;c.exe
+%system%\&lt;random&gt;d.exe
+%system%\&lt;random&gt;e.xml
+%system%\&lt;random&gt;f.exe
+%system%\*.dat
+%system%\007guard.exe
+%system%\2searchinstaller.exe
+%system%\[original file name]
+%system%\adbar.dll
+%system%\adprot.exe
+%system%\adupdater.exe
+%system%\feeds\1.dat
+%system%\feeds\2.dat
+%system%\feeds\3.dat
+%system%\feeds\4.dat
+%system%\feeds\feed.dst
+%system%\hotplkug.dll
+%system%\mswinsck.ocx
+%system%\n.dll
+%system%\ngpw36.exe
+%system%\ngpw36.exe.exe
+%system%\ngsh33.dll
+%system%\ngsw31.dll
+%system%\pacifisy.dll
+%system%\sngpw38.exe
+%system%\tasks\advanceddriverupdater_updates
+%system%\tasks\advanceddriverupdaterrunatstartup
+%system%\tcpservice2.exe
+%system%\twain_16.dll
+%system%\unpack.exe
+%system%\wstart.dll
+%systemdrive%\documents settings\all users\start menu\programs\180search assistant\180search assistant.com.url
+%systemdrive%\documents settings\all users\start menu\programs\180search assistant\uninstall 180search assistant instructions.lnk
+%systemdrive%\documents settings\autovm\application data\4shared desktop\errors.log
+%systemdrive%\documents settings\autovm\application data\microsoft\internet explorer\quick launch\4shared desktop.lnk
+%systemdrive%\documents settings\autovm\cookies\autovm@4shared[2].txt
+%systemdrive%\documents settings\autovm\desktop\4shared desktop.lnk
+%systemdrive%\programdata\microsoft\windows\start menu\programs\advanced driver updater
+%systemdrive%\programdata\microsoft\windows\start menu\programs\advanced driver updater\advanced driver updater.lnk
+%systemdrive%\users\abhinav\appdata\local\microsoft\windows\temporary internet files\content.ie5\j84pbvey
+%systemdrive%\users\abhinav\appdata\local\microsoft\windows\temporary internet files\content.ie5\jmcpjgj1
+%systemdrive%\users\abhinav\appdata\local\microsoft\windows\temporary internet files\content.ie5\vekxj06l
+%systemdrive%\users\abhinav\appdata\local\microsoft\windows\temporary internet files\content.ie5\zqv3cfwo
+%systemdrive%\users\abhinav\appdata\local\temp\advanceddriverupdater
+%systemdrive%\users\abhinav\appdata\roaming\systweak
+%systemdrive%\users\abhinav\appdata\roaming\systweak\adu
+%systemdrive%\users\abhinav\appdata\roaming\systweak\adu\advanced driver updater
+%systemdrive%\users\abhinav\appdata\roaming\systweak\adu\advanced driver updater\backup
+%systemdrive%\users\abhinav\appdata\roaming\systweak\adu\advanced driver updater\download
+%systemdrive%\users\trinity\appdata\roaming\systweak\adu\advanced driver updater\download.dat
+%systemdrive%\users\trinity\appdata\roaming\systweak\adu\advanced driver updater\exc.xml
+%systemdrive%\users\trinity\appdata\roaming\systweak\adu\advanced driver updater\log_09-18-2015.log
+%systemroot%\rkhit.sys
+%temp%\180sainstallernusalm.exe
+%temp%\adpeakproxy.log
+%temp%\adpeakproxyr.log
+%temp%\adpeakregisterlsp.ini.log
+%temp%\sporder.dll
+%userprofile%\application data\axpfixer
+%userprofile%\application data\cmedia\cmedia.dat
+%userprofile%\application data\cmedia\cmedia.dll
+%userprofile%\application data\cmedia\feed.xml
+%userprofile%\application data\cmedia\g.fla
+%userprofile%\application data\desktopicon\[file name].exe
+%userprofile%\application data\im-names\exclusion_aol.ini
+%userprofile%\application data\im-names\exclusion_msn.ini
+%userprofile%\application data\im-names\exclusion_yahoo.ini
+%userprofile%\application data\microsoft\internet explorer\quick launch\[file name].lnk
+%userprofile%\application data\microsoft\internet explorer\quick launch\axpfixer.lnk
+%userprofile%\application data\microsoft\internet explorer\quick launch\start killspy.net.lnk
+%userprofile%\desktop\007 anti-spyware.lnk
+%userprofile%\desktop\[file name].lnk
+%userprofile%\desktop\adsalert.lnk
+%userprofile%\desktop\advancedcleaner free.lnk
+%userprofile%\desktop\antispyware.lnk
+%userprofile%\desktop\casino.url
+%userprofile%\desktop\free website.url
+%userprofile%\desktop\get $10 free zodiac casino.url
+%userprofile%\desktop\guardster.url
+%userprofile%\desktop\high rollers club casino.url
+%userprofile%\desktop\killspy.net.lnk
+%userprofile%\desktop\killspy.net.pkg
+%userprofile%\desktop\sportsbook.url
+%userprofile%\local settings\application data\microsoft\internet explorer\quick launch\adsalert.lnk
+%userprofile%\local settings\temp\180ax.exe
+%userprofile%\local settings\temp\180ax.log
+%userprofile%\local settings\temp\uadc_0001_[eight random characters]\installer.exe
+%userprofile%\start menu\[file name].lnk
+%userprofile%\start menu\adsalert.lnk
+%userprofile%\start menu\programs\007 anti-spyware
+%userprofile%\start menu\programs\007 anti-spyware\007 anti-spyware.lnk
+%userprofile%\start menu\programs\007 anti-spyware\uninstall 007 anti-spyware.lnk
+%userprofile%\start menu\programs\antispyware\antispyware.lnk
+%userprofile%\start menu\programs\killspy.net\start killspy.net.lnk
+%userprofile%\start menu\programs\killspy.net\uninstall killspy.net.lnk
+%userprofile%\start menu\programs\pcprivacysoftware.com\adsalert\adsalert.lnk
+%userprofile%\start menu\programs\pcprivacysoftware.com\adsalert\help adsalert.lnk
+%userprofile%\start menu\programs\pcprivacysoftware.com\adsalert\order adsalert.lnk
+%userprofile%\start menu\programs\pcprivacysoftware.com\adsalert\readme adsalert.lnk
+%userprofile%\start menu\programs\pcprivacysoftware.com\adsalert\uninstall.lnk
+%userprofile%\start menu\programs\startup\antispyware.lnk
+%userrofile%\start menu\programs\killspy.net\register killspy.net.lnk
+%windir%\007 anti-spyware uninstaller.exe
+%windir%\[random file name].exe
+%windir%\artmmp.ini
+%windir%\clientinstaller.log
+%windir%\fleok\
+%windir%\morpheus_internet_accelerator2.exe
+%windir%\prefetch\advancedfix_setup.exe-20d94195.pf
+%windir%\prefetch\advancedfix_setup.tmp-237f1c35.pf
+%windir%\program files\ice age
+%windir%\salm.exe
+%windir%\salm.log
+%windir%\salm[random letters].dat
+%windir%\salm_gdf.dat
+%windir%\salm_kyf.dat
+%windir%\salmhook.dll
+%windir%\serviceprofiles\localservice\appdata\local\~fontcache-s-1-5-21-1888540949-2634025639-1978879958-1000.dat
+%windir%\serviceprofiles\networkservice\appdata\locallow
+%windir%\sngpw36.exe
+%windir%\sngpw38.exe
+%windir%\sngsh33.dll
+%windir%\system\qb.exe
+%windir%\system\qbtool.exe
+%windir%\system\qbuninstaller.exe
+%windir%\tasks\advanceddriverupdater_updates.job
+%windir%\vcmnet11.exe
+%windir%\zodiac.ico
+*.hottestgames.net
+1.10
+1.93
+2.04c
+2.04e
+2.04g
+92.05.24.5lo.2.23
+: qqface
+?\%programfiles%\killspy.net\drv\xpdriver.sys"
+[http://]editprofile.myspace.com/index.cfm?fuseaction=blog.view[removed]
+[http://]editprofile.myspace.com/index.cfm?fuseaction=user.homecomments[removed]
+[removed].
+[windows]
+\browser helper objects\{941ca48c-3984-4e7d-aaf8-8755ed76eb50}
+\browser helper objects\{c370527a-24a7-4583-be01-72e59000eb17}
+\distribution units\{99410cde-6f16-42ce-9d49-3807f78f0287}
+\explorer\browser helper objects\{21b4acc4-8874-4aec-aeac-f567a249b4d4}
+\hao3344.com"
+\internetaccelerator.exe
+\stats\{727d45c4-2bd1-41d2-b54e-97deaf06ad9a}
+\stats\{a096a159-4e58-45a9-8ee6-b11466851181}
+\uninstall\180ax
+\uninstall\msbb
+\uninstall\ncase
+\uninstall\sac
+\uninstall\sain
+\uninstall\salm
+\uninstall\sau
+\{0ac49246-419b-4ee0-8917-8818daad6a4e}
+\{21b4acc4-8874-4aec-aeac-f567a249b4d4}
+\{2b0eceac-f597-4858-a542-d966b49055b9}
+\{3db932a2-ece3-4d5c-9b64-a77c1bc6341f}
+\{5b6689b5-c2d4-4dc7-bfd1-24ac17e5fcda}
+\{68bf4626-d66b-4383-a6af-62e57e9b6cd4}
+\{7b178417-3cda-444f-94ff-312c0a3a78a8}
+\{99410cde-6f16-42ce-9d49-3807f78f0287}
+\{ddea2e1d-8555-45e5-af09-ec9aa4ea27ad}
+\{f1f1e775-1b21-454d-8d38-7c16519969e5}
+abc
+account.mdb
+ada virus disini !
+adolf hitler
+adpeak service
+adpeakproxy
+adshook.dll
+advancedxpfixer.com
+adware.lop
+ah ah ah ah ah therese ah ah ah ah ah
+andreas
+april 14, 2002
+april 16, 2002
+april 17, 2002
+attachment:
+autoexec macro
+behavior
+body:
+c:\documents settings\administrator\application data\microsoft\internet explorer\quick launch\start 1stantivirus.lnk
+c:\documents settings\administrator\application data\microsoft\internet explorer\quick launch\start spydeface.lnk
+c:\documents settings\administrator\desktop\1stantivirus.lnk
+c:\documents settings\administrator\desktop\1stantivirus.pkg
+c:\documents settings\administrator\desktop\spydeface.lnk
+c:\documents settings\administrator\desktop\spydeface.pkg
+c:\documents settings\administrator\start menu\programs\1stantivirus\start 1stantivirus.lnk
+c:\documents settings\all users\application data\apc\data\appdata\administrator.txt
+c:\documents settings\all users\application data\apc\winapc.dll
+c:\documents settings\all users\desktop\axpfixer.lnk
+c:\documents settings\all users\start menu\programs\3wplayer\3wplayer.lnk
+c:\documents settings\all users\start menu\programs\3wplayer\uninstall 3wplayer.lnk
+c:\documents settings\all users\start menu\programs\advancedcleaner free\advancedcleaner homepage.lnk
+c:\documents settings\all users\start menu\programs\advancedcleaner free\advancedcleaner online manual.lnk
+c:\documents settings\all users\start menu\programs\advancedcleaner free\advancedcleaner online support.lnk
+c:\documents settings\all users\start menu\programs\advancedcleaner free\advancedcleaner.lnk
+c:\documents settings\all users\start menu\programs\advancedcleaner free\uninstall advancedcleaner.lnk
+c:\program files\common files\{3839df00-0d3f-1033-0729-050001}\888.dll
+c:\program files\common files\{3839df00-0d3f-1033-0729-050001}\uninstall.dll
+c:\program files\common files\{d8e9df00-0d3f-1033-0729-050001}\system.dll
+c:\program files\common files\{d8e9df00-0d3f-1033-0729-050001}\update.exe
+c:\program files\spydeface\app.exe
+c:\program files\spydeface\drv\securedisk.dcc
+c:\program files\spydeface\extensions.pkg
+c:\program files\spydeface\logs\1144150040.log
+c:\program files\spydeface\logs\1144150054.log
+c:\program files\spydeface\program.info
+c:\program files\spydeface\uninstall.exe
+c:\program files\spydeface\update.exe
+c:\windows\system32\ijl11.dll
+changes internet explorer homepage "http:// www.turbonxx.com"
+command.com /c deltree c: /y
+computer.
+copies qabar.dll %windir%\system32\
+description:
+displayname
+displayname:
+displays advertisements internet explorer.
+drivecleaner
+faq script control
+february 13, 2007 11:47:52
+february 13, 2007 11:54:22
+february 19, 2002
+february 21, 2002
+february 27, 2002
+go.bmp
+hati-hati !!
+hkey_all_users\software\adroarplugin
+hkey_all_users\software\advancedcleaner free
+hkey_all_users\software\microsoft\windows\currentversion\explorer\menuorder\start menu2\programs\3wplayer
+hkey_all_users\software\microsoft\windows\currentversion\explorer\menuorder\start menu\programs\3wplayer
+hkey_all_users\software\pcprivacysoftware\adsalert
+hkey_all_users\software\pcprivacysoftware\adsalert\settings
+hkey_classes_root\"luckytoolbar.luckytoolbarobj.1" = "888bar"
+hkey_classes_root\"luckytoolbar.luckytoolbarobj.a\clsid" = "{c004dec2-2623-438e-9ca2-c9043ab28508}"
+hkey_classes_root\180sainstaller.180sainstaller
+hkey_classes_root\180sainstaller.180sainstaller.1
+hkey_classes_root\\adroar.band.1
+hkey_classes_root\adroar.band
+hkey_classes_root\adultbar.adultbar
+hkey_classes_root\adultbar.adultbar.1
+hkey_classes_root\adultsearch.adultsearch
+hkey_classes_root\adultsearch.adultsearch.1
+hkey_classes_root\allch.ieobj.1\
+hkey_classes_root\allch.ieobj\
+hkey_classes_root\appid\stub.dll
+hkey_classes_root\appid\{f6bdb4e5-d6aa-4d1f-8b67-bcb0f2246e21}
+hkey_classes_root\appid\{fe13c80c-919e-4c81-b002-81ea258da804}
+hkey_classes_root\bho8.adlog
+hkey_classes_root\bho8.adlog.1
+hkey_classes_root\btb.ietoolbar
+hkey_classes_root\btb.ietoolbar.1
+hkey_classes_root\clsid\{0b90aa1b-f649-44c3-9fd3-736c332cbbcf}
+hkey_classes_root\clsid\{12f02779-6d88-4958-8ad3-83c12d86adc7}
+hkey_classes_root\clsid\{22b9a67d-e689-44b6-b775-0e8fe84b4f9b}
+hkey_classes_root\clsid\{3836a9db-b135-4046-901c-46111761647d}
+hkey_classes_root\clsid\{4508e20c-acad-11d2-9fc0-00550076e06f}
+hkey_classes_root\clsid\{5c015aa7-3392-4044-90cc-8e95019cfff1}
+hkey_classes_root\clsid\{727d45c4-2bd1-41d2-b54e-97deaf06ad9a}
+hkey_classes_root\clsid\{765e6b09-6832-4738-bdbe-25f226ba2ab0}
+hkey_classes_root\clsid\{941ca48c-3984-4e7d-aaf8-8755ed76eb50}
+hkey_classes_root\clsid\{965e6b07-6832-4738-bdbe-25f226ba2ab0}
+hkey_classes_root\clsid\{9896231a-c487-43a5-8369-6ec9b0a96cc0
+hkey_classes_root\clsid\{a096a159-4e58-45a9-8ee6-b11466851181}
+hkey_classes_root\clsid\{ae21a223-c4ca-43d7-9764-4fc6df529f4d}
+hkey_classes_root\clsid\{b10031b2-f184-4803-9a88-d239c0641d70}
+hkey_classes_root\clsid\{bc00e47f-1016-25dd-e208-74a12348f178}
+hkey_classes_root\clsid\{bdf6ce3d-f5c5-4462-9814-3c8eac330ca8}
+hkey_classes_root\clsid\{c004dec2-2623-438e-9ca2-c9043ab28508}\"inprocserver32" = "c:\program files\common files\{3839df00-0d3f-1033-0729-050001}\888.dll"
+hkey_classes_root\clsid\{c004dec2-2623-438e-9ca2-c9043ab28508}\"versionindependentprogid" = "luckytoolbar.luckytoolbarobj."
+hkey_classes_root\clsid\{c090dcd2-0339-4c3f-8441-302449b3ed74}
+hkey_classes_root\clsid\{d6fc35d1-04ab-4d40-94cf-2e5ae4d0f8d2}
+hkey_classes_root\clsid\{dd1bca06-f674-424d-a08e-42da97c4d5dd}
+hkey_classes_root\clsid\{ddc319c4-499f-49cc-80a8-6bf11cbf0923}
+hkey_classes_root\clsid\{e9147a0a-a866-4214-b47c-da821891240f}
+hkey_classes_root\clsid\{fac6e0e1-5d45-4907-bc00-302d702dcc73}
+hkey_classes_root\clsid\{xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx}
+hkey_classes_root\component categories\{7dd95801-9882-11cf-9fa9-00aa006c42c4}
+hkey_classes_root\cpr.iehelperop
+hkey_classes_root\googlecatch.clsiespy
+hkey_classes_root\ieenhancer.ieehncrobj
+hkey_classes_root\iesearch.clsiespy
+hkey_classes_root\interface\{03be31fe-6526-4d9c-b197-4a3e5dcff696}
+hkey_classes_root\interface\{0eb61af8-0b15-48b6-a971-1f206f2e3d5e}
+hkey_classes_root\interface\{1cfb8b32-4053-4144-af6f-1540eec7f101}
+hkey_classes_root\interface\{21194dbc-e80c-4b83-8c82-74cbf52c8aad}
+hkey_classes_root\interface\{242ca913-1637-4f74-9729-ea349af3ecac}
+hkey_classes_root\interface\{2955e123-9372-44d1-8ba3-c98da0fa0f1d}
+hkey_classes_root\interface\{3faa7d43-6889-4108-bd33-d66242c45be0}
+hkey_classes_root\interface\{41a3effa-7ea8-498f-8048-4b8e2ad66337}
+hkey_classes_root\interface\{6d7d135e-f7c2-4a27-a87c-c0dfeb3a628f}
+hkey_classes_root\interface\{6f9d44b8-e418-49c1-885c-1015dddbffc4}
+hkey_classes_root\interface\{8395562c-205d-434b-be19-3c4e07e6d415}
+hkey_classes_root\interface\{91d91d21-8008-429d-821c-7266aac84a9f}
+hkey_classes_root\interface\{9c33138e-0581-4c28-a943-bc238a68208c}
+hkey_classes_root\interface\{a79f8202-e09d-4f0f-ad4d-dcae1dac5994}
+hkey_classes_root\interface\{b8ef29c3-32b2-4c18-b703-74d48aec94b9}
+hkey_classes_root\interface\{cabbb49a-4d7b-415b-8250-15c3b854e9ff}
+hkey_classes_root\interface\{d1320cbb-403d-483d-ae9a-688960a96977}
+hkey_classes_root\interface\{e1eb06dc-60fa-414a-9cc3-4e3a81e8c702}
+hkey_classes_root\interface\{eae7c84f-4a41-4e63-9a6c-e32aa1865c26}
+hkey_classes_root\interface\{ed7d1356-f7c2-4a27-a87c-c0dfeb3a628f}
+hkey_classes_root\interface\{f79a1360-2754-43f3-8297-8a39408be2bf}
+hkey_classes_root\interface\{fae82565-01f2-44f8-9f14-18d3bb20a411}
+hkey_classes_root\linkzz2.nullctrl
+hkey_classes_root\linkzz2.nullctrl.1
+hkey_classes_root\ngsh33.clsdw
+hkey_classes_root\ngsh33.clsis
+hkey_classes_root\ngsw31.clsdw
+hkey_classes_root\ngsw31.clsis
+hkey_classes_root\qabar
+hkey_classes_root\qabar.1\
+hkey_classes_root\qabar.adultsearch
+hkey_classes_root\qabar.adultsearch.1
+hkey_classes_root\qabar.adultsearch.1\
+hkey_classes_root\qcbar.1\
+hkey_classes_root\qcbar\
+hkey_classes_root\stub.bho
+hkey_classes_root\stub.bho.1
+hkey_classes_root\stub.htmlbar
+hkey_classes_root\stub.toolband
+hkey_classes_root\stub.toolband.1
+hkey_classes_root\the007guard.the007guardctrl.1
+hkey_classes_root\toolbarbesttoolbarstoolbar.besttoolbarstoolbarobeject
+hkey_classes_root\toolbarbesttoolbarstoolbar.besttoolbarstoolbarobeject.1
+hkey_classes_root\twain_16.iebho
+hkey_classes_root\twain_16.iebho.1
+hkey_classes_root\typelib\{0b1673d7-c165-4d41-bf65-1932324de17f}
+hkey_classes_root\typelib\{20048bb0-db68-11cf-9caf-00aa006cb425}
+hkey_classes_root\typelib\{4508e20a-acad-11d2-9fc0-00550076e06f}
+hkey_classes_root\typelib\{60381d4b-8129-449a-a5f2-5417ad0571cc}
+hkey_classes_root\typelib\{68bdbae7-647d-4109-9bcc-851e99d82e34}
+hkey_classes_root\typelib\{68e774cb-72d1-4a52-b55b-c0b1011e013b}
+hkey_classes_root\typelib\{ace8d3ba-7742-44c4-920d-fd25bd1e8245}
+hkey_classes_root\typelib\{b36cb30a-6ed9-4c62-9a8a-7de9fa234608}
+hkey_classes_root\typelib\{c02ee3a0-1881-419f-a5ed-737223463292}
+hkey_classes_root\typelib\{d02ee3a0-1881-419f-a5ef-737223463292}
+hkey_classes_root\typelib\{e2c6e243-5f01-4031-9218-6178426985b1}
+hkey_classes_root\typelib\{ec888fab-1762-4334-8d14-6f568a80b2e1}
+hkey_classes_root\typelib\{f05fc250-632c-424c-83d8-64640b6bed21}
+hkey_classes_root\typelib\{f2bf4713-e933-4b66-8694-22ed243709c7}
+hkey_classes_root\typelib\{fe13c80c-919e-4c81-b002-81ea258da804}
+hkey_classes_root\wstart.whttphelper
+hkey_classes_root\wstart.whttphelper.1
+hkey_current_user\software\180ax
+hkey_current_user\software\180solutions
+hkey_current_user\software\2-antispyware
+hkey_current_user\software\adtomi
+hkey_current_user\software\btb\ietoolbar
+hkey_current_user\software\cpr
+hkey_current_user\software\hotplkug
+hkey_current_user\software\imadvertiser\aol
+hkey_current_user\software\imadvertiser\msn
+hkey_current_user\software\imadvertiser\yahoo
+hkey_current_user\software\linkz
+hkey_current_user\software\maxthon
+hkey_current_user\software\microsoft\internet explorer\extensions\cmdmapping\{47e775f6-22cc-48a1-8746-e1a22cdda7b5}
+hkey_current_user\software\microsoft\internet explorer\main
+hkey_current_user\software\microsoft\internet explorer\main\search bar
+hkey_current_user\software\microsoft\internet explorer\menuext\&amp;411 ferret toolbar search
+hkey_current_user\software\microsoft\internet explorer\menuext\&amp;search web
+hkey_current_user\software\microsoft\internet explorer\new windows\allow
+hkey_current_user\software\microsoft\internet explorer\toolbar\webbrowser
+hkey_current_user\software\microsoft\internet explorer\toolbar\webbrowser\{12f02779-6d88-4958-8ad3-83c12d86adc7}
+hkey_current_user\software\microsoft\internet explorer\toolbar\webbrowser\{544f12d3-0b83-4ddb-b73a-53e1b4bba4af}
+hkey_current_user\software\microsoft\internet explorer\urlsearchhooks\{12f02779-6d88-4958-8ad3-83c12d86adc7}
+hkey_current_user\software\microsoft\ras autodial\control
+hkey_current_user\software\microsoft\systemcertificates\trustedpublisher\certificates
+hkey_current_user\software\microsoft\windows\currentversion\explorer\browser helper objects\{4508e20c-acad-11d2-9fc0-00550076e06f}
+hkey_current_user\software\microsoft\windows\currentversion\ext
+hkey_current_user\software\microsoft\windows\currentversion\ext\stats\{4508e20c-acad-11d2-9fc0-00550076e06f}
+hkey_current_user\software\microsoft\windows\currentversion\policies\explorer\run
+hkey_current_user\software\microsoft\windows\currentversion\run
+hkey_current_user\software\microsoft\windows\currentversion\uninstall\2search
+hkey_current_user\software\microsoft\windows\currentversion\uninstall\the guard
+hkey_current_user\software\microsoft\windows\currentversion\wintrust\trust providers\software publishing\trust database\0
+hkey_current_user\software\qcbar\
+hkey_current_user\software\ruboskizo
+hkey_current_user\software\sac
+hkey_current_user\software\salm
+hkey_current_user\software\sau
+hkey_current_user\software\winrar sfx
+hkey_current_user\software\winrar sfx\c:\%program files%2search
+hkey_current_user\software\xbtb01186
+hkey_current_user\software\xxi\1stantivirus
+hkey_current_user\software\xxi\killspy.net
+hkey_current_user\winrar sfx\c:\%program files%the guard
+hkey_currnet_user\software\sain
+hkey_local_machine\software\007antispyware.com
+hkey_local_machine\software\180ax
+hkey_local_machine\software\4shared desktop\"install_lang" = "1033"
+hkey_local_machine\software\adlogix
+hkey_local_machine\software\adncommunication\adstation
+hkey_local_machine\software\adservernow
+hkey_local_machine\software\advancedcleaner free
+hkey_local_machine\software\ashampoo
+hkey_local_machine\software\axpfixer
+hkey_local_machine\software\carmen
+hkey_local_machine\software\classes\*\shellex\contextmenuhandlers\4shared_desktop\"" = "{ebdf1f20-c829-11d1-8233-0020af3e97a9}"
+hkey_local_machine\software\classes\*\shellex\contextmenuhandlers\cmediashell\(default) = "{6b830884-20e3-4ab6-b672-2629f0f72071}"
+hkey_local_machine\software\classes\.exe\shellex\contextmenuhandlers\4shared_desktop\"" = "{ebdf1f20-c829-11d1-8233-0020af3e97a9}"
+hkey_local_machine\software\classes\.lnk\shellex\contextmenuhandlers\4shared_desktop\"" = "{ebdf1f20-c829-11d1-8233-0020af3e97a9}"
+hkey_local_machine\software\classes\adbar.alisysrubbandtest
+hkey_local_machine\software\classes\aphelper.apconfig
+hkey_local_machine\software\classes\aphelper.apconfig.1
+hkey_local_machine\software\classes\aphelper.apinstaller
+hkey_local_machine\software\classes\aphelper.aptoolbarhelper
+hkey_local_machine\software\classes\aphelper.aptoolbarhelper.1
+hkey_local_machine\software\classes\appid\"{9dc8fa51-b596-4f77-802c-5b295919c205}" = "pcproxy"
+hkey_local_machine\software\classes\appid\{9dc8fa51-b596-4f77-802c-5b295919c205}\"installinguser" = "dwbvahiaawbnahiabwb1ahaaxab2ag0alqb4ahaalqbwahiabwatahqabwbvagwacwakaaaa"
+hkey_local_machine\software\classes\appid\{9dc8fa51-b596-4f77-802c-5b295919c205}\"komodiaparameters1" = "1"
+hkey_local_machine\software\classes\appid\{9dc8fa51-b596-4f77-802c-5b295919c205}\"localservice" = "adpeakproxy"
+hkey_local_machine\software\classes\appid\{9dc8fa51-b596-4f77-802c-5b295919c205}\"serviceparameters" = "-service"
+hkey_local_machine\software\classes\clientax.clientinstaller
+hkey_local_machine\software\classes\clientax.clientinstaller.1
+hkey_local_machine\software\classes\clientax.requiredcomponent
+hkey_local_machine\software\classes\clientax.requiredcomponent.1
+hkey_local_machine\software\classes\clsid
+hkey_local_machine\software\classes\clsid\"{3e28f712-0d6c-4ee3-ac8c-8f060f5d7c33}" = "datatable class"
+hkey_local_machine\software\classes\clsid\"{6ce321da-dc11-45c6-a0fc-4e8a7d978abc}" = "datacontainer class"
+hkey_local_machine\software\classes\clsid\"{6eebc7ff-67da-4b90-9251-c2c5696e4b48}" = "%program files%\scorpionsaver services\adpeakproxy.exe"
+hkey_local_machine\software\classes\clsid\"{6eebc7ff-67da-4b90-9251-c2c5696e4b48}" = "datacontroller class"
+hkey_local_machine\software\classes\clsid\"{74137531-80f7-406f-9543-7d11385fa8c8}" = "proxychecks class"
+hkey_local_machine\software\classes\clsid\"{832599b2-55bf-4437-8f3e-030cf5aeb262}" = "datastatistics class"
+hkey_local_machine\software\classes\clsid\"{9b7b034b-944a-4261-b487-862f642f7615}" = "watchdog class"
+hkey_local_machine\software\classes\clsid\"{ae91f9ce-0900-4e2a-b673-f3f6e4fc54d9}" = "wfpcontroller class"
+hkey_local_machine\software\classes\clsid\"{b1a429db-fb06-4645-b7c0-0cc405ead3cd}" = "lsplogic class"
+hkey_local_machine\software\classes\clsid\"{dd67706e-819e-4ebd-bf8d-6d6147cc7a49}" = "datatableholder class"
+hkey_local_machine\software\classes\clsid\{00ceaf8f-bf59-429b-a1d9-91c88ccfe94b}
+hkey_local_machine\software\classes\clsid\{024de5eb-3649-445e-8d57-c09a9a33d479}
+hkey_local_machine\software\classes\clsid\{12fefb2f-024c-4360-a3f5-126bef45212d}
+hkey_local_machine\software\classes\clsid\{21d15f8b-081a-486b-bcce-e81ae74fbd49}
+hkey_local_machine\software\classes\clsid\{2509d3ae-ec16-4eba-a10c-f7ab24056203}
+hkey_local_machine\software\classes\clsid\{27faf61b-7fab-4fc6-8bba-d33af28de6a9}
+hkey_local_machine\software\classes\clsid\{2f3d01f3-2a8e-4814-aa0f-8315172d22bf}
+hkey_local_machine\software\classes\clsid\{3e28f712-0d6c-4ee3-ac8c-8f060f5d7c33}\"appid" = "{9dc8fa51-b596-4f77-802c-5b295919c205}"
+hkey_local_machine\software\classes\clsid\{3e28f712-0d6c-4ee3-ac8c-8f060f5d7c33}\"localserver32" = "%program files%\scorpionsaver services\adpeakproxy.exe"
+hkey_local_machine\software\classes\clsid\{3e28f712-0d6c-4ee3-ac8c-8f060f5d7c33}\"progid" = "pcproxy.datatable.1"
+hkey_local_machine\software\classes\clsid\{3e28f712-0d6c-4ee3-ac8c-8f060f5d7c33}\"typelib" = "{ed721a76-8160-4da0-a18e-7fd7c4574774}"
+hkey_local_machine\software\classes\clsid\{3e28f712-0d6c-4ee3-ac8c-8f060f5d7c33}\"versionindependentprogid" = "pcproxy.datatable"
+hkey_local_machine\software\classes\clsid\{51641ef3-8a7a-4d84-8659-b0911e947cc8}
+hkey_local_machine\software\classes\clsid\{533403e2-6e21-4615-9e28-43f4e97e977b}\"appid" = "{9dc8fa51-b596-4f77-802c-5b295919c205}"
+hkey_local_machine\software\classes\clsid\{533403e2-6e21-4615-9e28-43f4e97e977b}\"localserver32" = "%program files%\scorpionsaver services\adpeakproxy.exe"
+hkey_local_machine\software\classes\clsid\{533403e2-6e21-4615-9e28-43f4e97e977b}\"progid" = "pcproxy.datatablefields.1"
+hkey_local_machine\software\classes\clsid\{533403e2-6e21-4615-9e28-43f4e97e977b}\"typelib" = "{ed721a76-8160-4da0-a18e-7fd7c4574774}"
+hkey_local_machine\software\classes\clsid\{533403e2-6e21-4615-9e28-43f4e97e977b}\"versionindependentprogid" = "pcproxy.datatablefields"
+hkey_local_machine\software\classes\clsid\{544f12d3-0b83-4ddb-b73a-53e1b4bba4af}
+hkey_local_machine\software\classes\clsid\{54ec170f-6eb1-47c6-9c4d-eb0be20ce45e}
+hkey_local_machine\software\classes\clsid\{575c5e89-0591-49fe-bcf2-5559182cb6b5}
+hkey_local_machine\software\classes\clsid\{6733760a-d427-40e3-a745-a8dd2914b686}
+hkey_local_machine\software\classes\clsid\{6b830884-20e3-4ab6-b672-2629f0f72071}\(default) = "cmediashell"
+hkey_local_machine\software\classes\clsid\{6b830884-20e3-4ab6-b672-2629f0f72071}\inprocserver32\"threadingmodel" = "apartment"
+hkey_local_machine\software\classes\clsid\{6b830884-20e3-4ab6-b672-2629f0f72071}\inprocserver32\(default) = "%userappdata%\cmedia\cmedia.dll"
+hkey_local_machine\software\classes\clsid\{6ce321da-dc11-45c6-a0fc-4e8a7d978abc}\"appid" = "{9dc8fa51-b596-4f77-802c-5b295919c205}"
+hkey_local_machine\software\classes\clsid\{6ce321da-dc11-45c6-a0fc-4e8a7d978abc}\"localserver32" = "%program files%\scorpionsaver services\adpeakproxy.exe"
+hkey_local_machine\software\classes\clsid\{6ce321da-dc11-45c6-a0fc-4e8a7d978abc}\"progid" = "pcproxy.datacontainer.1"
+hkey_local_machine\software\classes\clsid\{6ce321da-dc11-45c6-a0fc-4e8a7d978abc}\"typelib" = "{ed721a76-8160-4da0-a18e-7fd7c4574774}"
+hkey_local_machine\software\classes\clsid\{6ce321da-dc11-45c6-a0fc-4e8a7d978abc}\"versionindependentprogid" = "pcproxy.datacontainer"
+hkey_local_machine\software\classes\clsid\{6eebc7ff-67da-4b90-9251-c2c5696e4b48}\"appid" = "{9dc8fa51-b596-4f77-802c-5b295919c205}"
+hkey_local_machine\software\classes\clsid\{6eebc7ff-67da-4b90-9251-c2c5696e4b48}\"progid" = "pcproxy.datacontroller.1"
+hkey_local_machine\software\classes\clsid\{6eebc7ff-67da-4b90-9251-c2c5696e4b48}\"typelib" = "{ed721a76-8160-4da0-a18e-7fd7c4574774}"
+hkey_local_machine\software\classes\clsid\{6eebc7ff-67da-4b90-9251-c2c5696e4b48}\"versionindependentprogid" = "pcproxy.datacontroller"
+hkey_local_machine\software\classes\clsid\{74137531-80f7-406f-9543-7d11385fa8c8}\"appid" = "{9dc8fa51-b596-4f77-802c-5b295919c205}"
+hkey_local_machine\software\classes\clsid\{74137531-80f7-406f-9543-7d11385fa8c8}\"localserver32" = "%program files%\scorpionsaver services\adpeakproxy.exe"
+hkey_local_machine\software\classes\clsid\{74137531-80f7-406f-9543-7d11385fa8c8}\"progid" = "pcproxy.proxychecks.1"
+hkey_local_machine\software\classes\clsid\{74137531-80f7-406f-9543-7d11385fa8c8}\"typelib" = "{ed721a76-8160-4da0-a18e-7fd7c4574774}"
+hkey_local_machine\software\classes\clsid\{74137531-80f7-406f-9543-7d11385fa8c8}\"versionindependentprogid" = "pcproxy.proxychecks"
+hkey_local_machine\software\classes\clsid\{757f9508-b33e-4888-8f04-ebde2e6996d3}
+hkey_local_machine\software\classes\clsid\{832599b2-55bf-4437-8f3e-030cf5aeb262}\"appid" = "{9dc8fa51-b596-4f77-802c-5b295919c205}"
+hkey_local_machine\software\classes\clsid\{832599b2-55bf-4437-8f3e-030cf5aeb262}\"localserver32" = "%program files%\scorpionsaver services\adpeakproxy.exe"
+hkey_local_machine\software\classes\clsid\{832599b2-55bf-4437-8f3e-030cf5aeb262}\"progid" = "pcproxy.datastatistics.1"
+hkey_local_machine\software\classes\clsid\{832599b2-55bf-4437-8f3e-030cf5aeb262}\"typelib" = "{ed721a76-8160-4da0-a18e-7fd7c4574774}"
+hkey_local_machine\software\classes\clsid\{832599b2-55bf-4437-8f3e-030cf5aeb262}\"versionindependentprogid" = "pcproxy.datastatistics"
+hkey_local_machine\software\classes\clsid\{8941e2ef-b530-49d8-9bf2-3f9f1c48a24c}
+hkey_local_machine\software\classes\clsid\{93829908-07c2-44a2-95db-f78f201a9b48}
+hkey_local_machine\software\classes\clsid\{9473ddca-1e6b-40ea-8ab4-9f83de967d99}
+hkey_local_machine\software\classes\clsid\{95b16e36-e303-4d91-bcb2-2213f46c09dc}
+hkey_local_machine\software\classes\clsid\{9b7b034b-944a-4261-b487-862f642f7615}\"appid" = "{9dc8fa51-b596-4f77-802c-5b295919c205}"
+hkey_local_machine\software\classes\clsid\{9b7b034b-944a-4261-b487-862f642f7615}\"localserver32" = "%program files%\scorpionsaver services\adpeakproxy.exe"
+hkey_local_machine\software\classes\clsid\{9b7b034b-944a-4261-b487-862f642f7615}\"progid" = "pcproxy.watchdog.1"
+hkey_local_machine\software\classes\clsid\{9b7b034b-944a-4261-b487-862f642f7615}\"typelib" = "{ed721a76-8160-4da0-a18e-7fd7c4574774}"
+hkey_local_machine\software\classes\clsid\{9b7b034b-944a-4261-b487-862f642f7615}\"versionindependentprogid" = "pcproxy.watchdog"
+hkey_local_machine\software\classes\clsid\{aa9ac264-7f6a-59ff-602d-874afc6fd018}
+hkey_local_machine\software\classes\clsid\{ae91f9ce-0900-4e2a-b673-f3f6e4fc54d9}\"appid" = "{9dc8fa51-b596-4f77-802c-5b295919c205}"
+hkey_local_machine\software\classes\clsid\{ae91f9ce-0900-4e2a-b673-f3f6e4fc54d9}\"localserver32" = "%program files%\scorpionsaver services\adpeakproxy.exe"
+hkey_local_machine\software\classes\clsid\{ae91f9ce-0900-4e2a-b673-f3f6e4fc54d9}\"progid" = "pcproxy.wfpcontroller.1"
+hkey_local_machine\software\classes\clsid\{ae91f9ce-0900-4e2a-b673-f3f6e4fc54d9}\"typelib" = "{ed721a76-8160-4da0-a18e-7fd7c4574774}"
+hkey_local_machine\software\classes\clsid\{ae91f9ce-0900-4e2a-b673-f3f6e4fc54d9}\"versionindependentprogid" = "pcproxy.wfpcontroller"
+hkey_local_machine\software\classes\clsid\{c370527a-24a7-4583-be01-72e59000eb17}
+hkey_local_machine\software\classes\clsid\{c4ca6559-2cf1-48b6-96b2-8340a06fd129}
+hkey_local_machine\software\classes\clsid\{cbe1212e-eb30-4e01-b90c-7d732ca74a18}
+hkey_local_machine\software\classes\clsid\{ccf99cd5-1bcf-4db2-8197-e9864a99702b}
+hkey_local_machine\software\classes\clsid\{d91c5a54-6fc1-d245-5a18-03f67265f3dd}
+hkey_local_machine\software\classes\clsid\{dd67706e-819e-4ebd-bf8d-6d6147cc7a49}\"appid" = "{9dc8fa51-b596-4f77-802c-5b295919c205}"
+hkey_local_machine\software\classes\clsid\{dd67706e-819e-4ebd-bf8d-6d6147cc7a49}\"progid" = "pcproxy.datatableholder.1"
+hkey_local_machine\software\classes\clsid\{dd67706e-819e-4ebd-bf8d-6d6147cc7a49}\"typelib" = "{ed721a76-8160-4da0-a18e-7fd7c4574774}"
+hkey_local_machine\software\classes\clsid\{dd67706e-819e-4ebd-bf8d-6d6147cc7a49}\"versionindependentprogid" = "pcproxy.datatableholder"
+hkey_local_machine\software\classes\clsid\{f62a4af9-58b4-4fec-89cc-d717a547d8e8}\"localserver32" = "%program files%\scorpionsaver services\adpeakproxy.exe"
+hkey_local_machine\software\classes\clsid\{f62a4af9-58b4-4fec-89cc-d717a547d8e8}\"progid" = "pcproxy.readonlymanager.1"
+hkey_local_machine\software\classes\clsid\{f62a4af9-58b4-4fec-89cc-d717a547d8e8}\"typelib" = "{ed721a76-8160-4da0-a18e-7fd7c4574774}"
+hkey_local_machine\software\classes\clsid\{f62a4af9-58b4-4fec-89cc-d717a547d8e8}\"versionindependentprogid\" = "pcproxy.readonlymanager"
+hkey_local_machine\software\classes\clsid\{f864af04-3415-4740-8b45-1d56438b74e7}
+hkey_local_machine\software\classes\downloadhtml.setuphtml
+hkey_local_machine\software\classes\folder\shellex\contextmenuhandlers\scan antispyware
+hkey_local_machine\software\classes\interface
+hkey_local_machine\software\classes\interface\{0c49f454-fbe2-45f7-8b60-49875ef78f39}
+hkey_local_machine\software\classes\interface\{12debc84-b743-423a-825c-049ad85309dc}
+hkey_local_machine\software\classes\interface\{1e11e99c-9c27-448f-a59e-251bfdd3c702}
+hkey_local_machine\software\classes\interface\{1e5c9fae-43b0-47c3-ba51-ba5a08e44322}
+hkey_local_machine\software\classes\interface\{39e6edf9-2b13-42ed-aec6-433d22d396f7}
+hkey_local_machine\software\classes\interface\{51ba3dcd-d61e-46ff-9254-cde03b211fd8}
+hkey_local_machine\software\classes\interface\{5d8a8901-b9ab-40cd-885c-4517a5ee3d59}
+hkey_local_machine\software\classes\interface\{9b33399e-89a6-4ea5-91a9-5dc72b7af60a}
+hkey_local_machine\software\classes\interface\{c6f2214e-0b54-45a9-b90d-7dd4ba45ed0b}\"" = "iluckytoolbarobj"
+hkey_local_machine\software\classes\interface\{c6f2214e-0b54-45a9-b90d-7dd4ba45ed0b}\proxystubclsid32\"" = "{00020424-0000-0000-c000-000000000046}"
+hkey_local_machine\software\classes\interface\{c6f2214e-0b54-45a9-b90d-7dd4ba45ed0b}\proxystubclsid\"" = "{00020424-0000-0000-c000-000000000046}"
+hkey_local_machine\software\classes\interface\{c6f2214e-0b54-45a9-b90d-7dd4ba45ed0b}\typelib\"" = "{569304ba-83ed-4cff-ac26-be3e482f7208}"
+hkey_local_machine\software\classes\interface\{c6f2214e-0b54-45a9-b90d-7dd4ba45ed0b}\typelib\"version" = "1.0"
+hkey_local_machine\software\classes\interface\{cb7b0557-ac6c-44fc-9952-29321974d7ac}
+hkey_local_machine\software\classes\interface\{ec4033a7-a57e-450c-9fe3-de813290723c}
+hkey_local_machine\software\classes\interface\{ec4acebd-8918-4924-869e-fc3c060d2ee9}
+hkey_local_machine\software\classes\interface\{ee1bc3c2-d245-4e64-a6b6-06425a3a5997}
+hkey_local_machine\software\classes\interface\{ef446c9b-5155-4d3b-8ee2-7280878bb1fb}
+hkey_local_machine\software\classes\interface\{f0cc248b-413f-410d-b46b-65a6d2d98986}
+hkey_local_machine\software\classes\interface\{f1e957ed-5920-4d71-9166-9fb7785f6799}
+hkey_local_machine\software\classes\interface\{f82cc7ea-eb26-4e80-bb74-0ae8be9f853f}
+hkey_local_machine\software\classes\javascript1.2 authorjavascript1.3 author
+hkey_local_machine\software\classes\luckytoolbar.luckytoolbarobj.1\"" = "888bar"
+hkey_local_machine\software\classes\luckytoolbar.luckytoolbarobj.1\clsid\"" = "{c004dec2-2623-438e-9ca2-c9043ab28508}"
+hkey_local_machine\software\classes\luckytoolbar.luckytoolbarobj\"" = "888bar"
+hkey_local_machine\software\classes\luckytoolbar.luckytoolbarobj\clsid\"" = "{c004dec2-2623-438e-9ca2-c9043ab28508}"
+hkey_local_machine\software\classes\ncmyb.sabho
+hkey_local_machine\software\classes\ncmyb.sabho.1
+hkey_local_machine\software\classes\phelper.helpcaller\: "phelper.helpcaller"
+hkey_local_machine\software\classes\systemapc.clsfunctionprocedure
+hkey_local_machine\software\classes\systemapc.clsinifile
+hkey_local_machine\software\classes\systemapc.clsinternet
+hkey_local_machine\software\classes\systemapc.clsprevilage
+hkey_local_machine\software\classes\systemapc.clsprocess
+hkey_local_machine\software\classes\systemapc.clsregistry
+hkey_local_machine\software\classes\systemapc.clsscreencapture
+hkey_local_machine\software\classes\systemapc.clsservice
+hkey_local_machine\software\classes\systemapc.clssystemuser
+hkey_local_machine\software\classes\systemapc.clssystemuserscontrol
+hkey_local_machine\software\classes\toolband.xbtb01186
+hkey_local_machine\software\classes\typelib
+hkey_local_machine\software\classes\typelib\{098c7096-5de3-495b-9073-517777167707}
+hkey_local_machine\software\classes\typelib\{483d2273-2c22-4053-94ca-6a99b2778bf2}
+hkey_local_machine\software\classes\typelib\{4d84a744-c3dd-4bff-b119-ac08f54714d7}
+hkey_local_machine\software\classes\typelib\{569304ba-83ed-4cff-ac26-be3e482f7208}\1.0\"" = "888bar 1.0 type library"
+hkey_local_machine\software\classes\typelib\{569304ba-83ed-4cff-ac26-be3e482f7208}\1.0\flags\"" = "0"
+hkey_local_machine\software\classes\typelib\{569304ba-83ed-4cff-ac26-be3e482f7208}\1.0\helpdir\"" = "c:\documents settings\administrator\desktop\888\"
+hkey_local_machine\software\classes\typelib\{6c7265fa-608a-4865-8396-bbecc9baf871}
+hkey_local_machine\software\classes\typelib\{a37d57bd-5a27-4f8c-ab59-e0f6a7a0e95a}
+hkey_local_machine\software\classes\typelib\{bdeaa8b4-be40-4b94-b989-065afcf8a06f}
+hkey_local_machine\software\classes\xbtb01186.ietoolbar
+hkey_local_machine\software\classes\xbtb01186.ietoolbar.1
+hkey_local_machine\software\classes\xbtb01186.xbtb01186
+hkey_local_machine\software\hotplkug
+hkey_local_machine\software\microsoft\blue
+hkey_local_machine\software\microsoft\current version\run
+hkey_local_machine\software\microsoft\internet explorer\extensions\{47e775f6-22cc-48a1-8746-e1a22cdda7b5}
+hkey_local_machine\software\microsoft\internet explorer\extensions\{544f12d3-0b83-4ddb-b73a-53e1b4bba4af}
+hkey_local_machine\software\microsoft\internet explorer\extensions\{7e34ccac-2531-450e-8746-80da107adaf5}
+hkey_local_machine\software\microsoft\internet explorer\extensions\{d1e435db-ee0c-4a71-84a8-a270f03b3ee7}
+hkey_local_machine\software\microsoft\internet explorer\main
+hkey_local_machine\software\microsoft\internet explorer\search
+hkey_local_machine\software\microsoft\internet explorer\toolbar
+hkey_local_machine\software\microsoft\internet explorer\toolbar\{12f02779-6d88-4958-8ad3-83c12d86adc7}
+hkey_local_machine\software\microsoft\internet explorer\toolbar\{544f12d3-0b83-4ddb-b73a-53e1b4bba4af}
+hkey_local_machine\software\microsoft\internet explorer\toolbar\{765e6b09-6832-4738-bdbe-25f226ba2ab0} hkey_local_machine\software\qcbar\
+hkey_local_machine\software\microsoft\internet explorer\toolbar\{c004dec2-2623-438e-9ca2-c9043ab28508}
+hkey_local_machine\software\microsoft\other
+hkey_local_machine\software\microsoft\windows nt\currentversion\schedule\taskcache\tree\advanceddriverupdaterrunatstartup
+hkey_local_machine\software\microsoft\windows nt\currentversion\windows\"appinit_dlls" = "pushow82.dll"
+hkey_local_machine\software\microsoft\windows nt\currentversion\windows\load\intnets
+hkey_local_machine\software\microsoft\windows\currentversion
+hkey_local_machine\software\microsoft\windows\currentversion\app paths
+hkey_local_machine\software\microsoft\windows\currentversion\explorer
+hkey_local_machine\software\microsoft\windows\currentversion\explorer\browser helper objects
+hkey_local_machine\software\microsoft\windows\currentversion\explorer\browser helper objects\{00ceaf8f-bf59-429b-a1d9-91c88ccfe94b}
+hkey_local_machine\software\microsoft\windows\currentversion\explorer\browser helper objects\{0b90aa1b-f649-44c3-9fd3-736c332cbbcf}
+hkey_local_machine\software\microsoft\windows\currentversion\explorer\browser helper objects\{22b9a67d-e689-44b6-b775-0e8fe84b4f9b}
+hkey_local_machine\software\microsoft\windows\currentversion\explorer\browser helper objects\{2f3d01f3-2a8e-4814-aa0f-8315172d22bf}
+hkey_local_machine\software\microsoft\windows\currentversion\explorer\browser helper objects\{4508e20c-acad-11d2-9fc0-00550076e06f}
+hkey_local_machine\software\microsoft\windows\currentversion\explorer\browser helper objects\{51641ef3-8a7a-4d84-8659-b0911e947cc8}
+hkey_local_machine\software\microsoft\windows\currentversion\explorer\browser helper objects\{54ec170f-6eb1-47c6-9c4d-eb0be20ce45e}
+hkey_local_machine\software\microsoft\windows\currentversion\explorer\browser helper objects\{9473ddca-1e6b-40ea-8ab4-9f83de967d99}
+hkey_local_machine\software\microsoft\windows\currentversion\explorer\browser helper objects\{9896231a-c487-43a5-8369-6ec9b0a96cc0}
+hkey_local_machine\software\microsoft\windows\currentversion\explorer\browser helper objects\{a096a159-4e58-45a9-8ee6-b11466851181}
+hkey_local_machine\software\microsoft\windows\currentversion\explorer\browser helper objects\{ae21a223-c4ca-43d7-9764-4fc6df529f4d}
+hkey_local_machine\software\microsoft\windows\currentversion\explorer\browser helper objects\{bdf6ce3d-f5c5-4462-9814-3c8eac330ca8}
+hkey_local_machine\software\microsoft\windows\currentversion\explorer\browser helper objects\{d6fc35d1-04ab-4d40-94cf-2e5ae4d0f8d2}
+hkey_local_machine\software\microsoft\windows\currentversion\explorer\browser helper objects\{xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx}
+hkey_local_machine\software\microsoft\windows\currentversion\run
+hkey_local_machine\software\microsoft\windows\currentversion\run\"007-anti-spyware.exe" = "%programfiles%\007 anti-spyware\007-anti-spyware.exe"
+hkey_local_machine\software\microsoft\windows\currentversion\run\"advancedcleaner free" = ""c:\program files\advancedcleaner free\uadc.exe" /min"
+hkey_local_machine\software\microsoft\windows\currentversion\run\"uadc_104911963" = ""c:\program files\advancedcleaner free\uadccw.exe" -c"
+hkey_local_machine\software\microsoft\windows\currentversion\runonce
+hkey_local_machine\software\microsoft\windows\currentversion\shareddlls
+hkey_local_machine\software\microsoft\windows\currentversion\shell extensions\approved\"{575c5e89-0591-49fe-bcf2-5559182cb6b5}" = "scan antispyware"
+hkey_local_machine\software\microsoft\windows\currentversion\uninstall
+hkey_local_machine\software\microsoft\windows\currentversion\uninstall\007 anti-spyware
+hkey_local_machine\software\microsoft\windows\currentversion\uninstall\1stantivirus
+hkey_local_machine\software\microsoft\windows\currentversion\uninstall\2search
+hkey_local_machine\software\microsoft\windows\currentversion\uninstall\3wplayer_is1
+hkey_local_machine\software\microsoft\windows\currentversion\uninstall\adservernow
+hkey_local_machine\software\microsoft\windows\currentversion\uninstall\antispyware
+hkey_local_machine\software\microsoft\windows\currentversion\uninstall\axpfixer
+hkey_local_machine\software\microsoft\windows\currentversion\uninstall\cpr
+hkey_local_machine\software\microsoft\windows\currentversion\uninstall\killspy.net
+hkey_local_machine\software\microsoft\windows\currentversion\uninstall\pcprivacysoftware.com adsalert_is1
+hkey_local_machine\software\microsoft\windows\currentversion\uninstall\spydeface
+hkey_local_machine\software\microsoft\windows\currentversion\uninstall\the guard
+hkey_local_machine\software\microsoft\windows\currentversion\uninstall\uadc_is1
+hkey_local_machine\software\microsoft\windows\currentversion\uninstall\wafaie
+hkey_local_machine\software\microsoft\windows\currentversion\uninstall\wcpr
+hkey_local_machine\software\microsoft\windows\currentversion\uninstall\xbtb01186.xbtb01186toolbar
+hkey_local_machine\software\microsoft\windows\currentversion\uninstall\{0094d07c-1ffb-4450-8d10-ad7e05a318df}_is1\"displayicon" = "%programfiles%\advanced fix\uninstall.ico"
+hkey_local_machine\software\microsoft\windows\currentversion\uninstall\{0094d07c-1ffb-4450-8d10-ad7e05a318df}_is1\"displayname" = "advanced fix 2014 version 2.1.6.80"
+hkey_local_machine\software\microsoft\windows\currentversion\uninstall\{0094d07c-1ffb-4450-8d10-ad7e05a318df}_is1\"displayversion" = "2.1.6.80"
+hkey_local_machine\software\microsoft\windows\currentversion\uninstall\{0094d07c-1ffb-4450-8d10-ad7e05a318df}_is1\"helplink" = "[http://]www.advancedfix.com[removed]"
+hkey_local_machine\software\microsoft\windows\currentversion\uninstall\{0094d07c-1ffb-4450-8d10-ad7e05a318df}_is1\"inno setup: app path" = "%programfiles%\advanced fix"
+hkey_local_machine\software\microsoft\windows\currentversion\uninstall\{0094d07c-1ffb-4450-8d10-ad7e05a318df}_is1\"inno setup: deselected tasks" = ""
+hkey_local_machine\software\microsoft\windows\currentversion\uninstall\{0094d07c-1ffb-4450-8d10-ad7e05a318df}_is1\"inno setup: icon group" = "advanced fix"
+hkey_local_machine\software\microsoft\windows\currentversion\uninstall\{0094d07c-1ffb-4450-8d10-ad7e05a318df}_is1\"inno setup: language" = "english"
+hkey_local_machine\software\microsoft\windows\currentversion\uninstall\{0094d07c-1ffb-4450-8d10-ad7e05a318df}_is1\"inno setup: setup version" = "5.4.2 (u)"
+hkey_local_machine\software\microsoft\windows\currentversion\uninstall\{0094d07c-1ffb-4450-8d10-ad7e05a318df}_is1\"inno setup: user" = "administrator"
+hkey_local_machine\software\microsoft\windows\currentversion\uninstall\{0094d07c-1ffb-4450-8d10-ad7e05a318df}_is1\"installdate" = "20150323"
+hkey_local_machine\software\microsoft\windows\currentversion\uninstall\{0094d07c-1ffb-4450-8d10-ad7e05a318df}_is1\"installlocation" = "%programfiles%\advanced fix\"
+hkey_local_machine\software\microsoft\windows\currentversion\uninstall\{0094d07c-1ffb-4450-8d10-ad7e05a318df}_is1\"majorversion" = "2"
+hkey_local_machine\software\microsoft\windows\currentversion\uninstall\{0094d07c-1ffb-4450-8d10-ad7e05a318df}_is1\"minorversion" = "1"
+hkey_local_machine\software\microsoft\windows\currentversion\uninstall\{0094d07c-1ffb-4450-8d10-ad7e05a318df}_is1\"nomodify" = "1"
+hkey_local_machine\software\microsoft\windows\currentversion\uninstall\{0094d07c-1ffb-4450-8d10-ad7e05a318df}_is1\"norepair" = "1"
+hkey_local_machine\software\microsoft\windows\currentversion\uninstall\{0094d07c-1ffb-4450-8d10-ad7e05a318df}_is1\"publisher" = "advanced fix, inc."
+hkey_local_machine\software\microsoft\windows\currentversion\uninstall\{0094d07c-1ffb-4450-8d10-ad7e05a318df}_is1\"quietuninstallstring" = ""%programfiles%\advanced fix\unins000.exe" /silent"
+hkey_local_machine\software\microsoft\windows\currentversion\uninstall\{0094d07c-1ffb-4450-8d10-ad7e05a318df}_is1\"uninstallstring" = ""%programfiles%\advanced fix\unins000.exe""
+hkey_local_machine\software\microsoft\windows\currentversion\uninstall\{0094d07c-1ffb-4450-8d10-ad7e05a318df}_is1\"urlinfoabout" = "[http://]www.advancedfix.com[removed]"
+hkey_local_machine\software\microsoft\windows\currentversion\uninstall\{0094d07c-1ffb-4450-8d10-ad7e05a318df}_is1\"urlupdateinfo" = "[http://]www.advancedfix.com[removed]"
+hkey_local_machine\software\microsoft\windows\currentversion\uninstall\{93829908-07c2-44a2-95db-f78f201a9b48}
+hkey_local_machine\software\microsoft\windows\currentversion\uninstall\{c4ca6559-2cf1-48b6-96b2-8340a06fd129}
+hkey_local_machine\software\morpheus upgrades
+hkey_local_machine\software\odbc\pps
+hkey_local_machine\software\sac
+hkey_local_machine\software\sain
+hkey_local_machine\software\salm
+hkey_local_machine\software\searchfu.net
+hkey_local_machine\software\uadc_[eight random characters]
+hkey_local_machine\software\wast
+hkey_local_machine\software\winrar sfx\c:\%program files%2search
+hkey_local_machine\software\winrar sfx\c:\%program files%the guard
+hkey_local_machine\software\wow6432node\systweak
+hkey_local_machine\software\wsoft
+hkey_local_machine\software\y036
+hkey_local_machine\system\controlset001\control\mediaresources
+hkey_local_machine\system\controlset001\services\eventlog\application\universal disk manager
+hkey_local_machine\system\controlset001\services\securedisk\"displayname" = "securedisk"
+hkey_local_machine\system\controlset001\services\securedisk\"imagepath" = "\?
+hkey_local_machine\system\controlset001\services\securedisk\"start" = "0x00000002"
+hkey_local_machine\system\controlset001\services\universal disk manager
+hkey_local_machine\system\currentcontrolset\control\mediaresources
+hkey_local_machine\system\currentcontrolset\control\safeboot\network\adpeakproxy
+hkey_local_machine\system\currentcontrolset\services\eventlog\application\universal disk manager
+hkey_local_machine\system\currentcontrolset\services\rkhit
+hkey_local_machine\system\currentcontrolset\services\securedisk\"displayname" = "securedisk"
+hkey_local_machine\system\currentcontrolset\services\securedisk\"imagepath" = "\?
+hkey_local_machine\system\currentcontrolset\services\securedisk\"start" = "0x00000002"
+hkey_local_machine\system\currentcontrolset\services\universal disk manager
+hkey_local_machine\system\currentcontrolset\services\universal disk manager\security
+hkey_users\s-1-5-21-1888540949-2634025639-1978879958-1000\software\microsoft\restartmanager
+hkey_users\s-1-5-21-1888540949-2634025639-1978879958-1000\software\systweak
+hkey_users\s-1-5-21-1960408961-507921405-725345543-500\software\microsoft\internet explorer\toolbar\webbrowser\"{c004dec2-2623-438e-9ca2-c9043ab28508}" = "c2 de 04 c0 23 26 8e 43 9c a2 c9 04 3a b2 85 08"
+hkey_users\s-1-5-21-220523388-1844823847-682003330-500\software\xxi\spydeface
+hkey_users\s-1-5-21-220523388-1844823847-682003330-500\software\xxi\spydeface.com
+hkey_users\s-1-5-21-3867651352-1424935759-6573989-500\software\microsoft\windows\currentversion\explorer\userassist\{75048700-ef1f-11d0-9888-006097deacf9}\count\hrzr_ehacvqy:%pfvqy2%\"nqinaprq svk"= "[hexadecimal numbers]"
+hkey_users\s-1-5-21-3867651352-1424935759-6573989-500\software\microsoft\windows\currentversion\explorer\userassist\{75048700-ef1f-11d0-9888-006097deacf9}\count\hrzr_ehacvqy:%pfvqy2%\nqinaprq svk\"havafgnyy nqinaprq svk 2014.yax" = "[hexadecimal numbers]"
+hkey_users\s-1-5-21-3867651352-1424935759-6573989-500\software\microsoft\windows\currentversion\explorer\userassist\{75048700-ef1f-11d0-9888-006097deacf9}\count\hrzr_ehacvqy:%pfvqy2%\nqinaprq svk\"nqinaprq svk 2014.yax" = [hexadecimal numbers]
+hkey_users\s-1-5-21-3867651352-1424935759-6573989-500\software\microsoft\windows\shellnoroam\muicache\%systemdrive%\docume~1\admini~1\locals~1\temp\is-6c9gk.tmp\"advancedfix_setup.tmp" = "setup/uninstall"
+hkey_users\s-1-5-21-3867651352-1424935759-6573989-500\software\microsoft\windows\shellnoroam\muicache\%systemdrive%\samples\"advancedfix_setup.exe" = "advanced fix 2014 setup"
+http://adblock.linkz.com/abho/bandsearch.abs
+http://advertismen.com
+http://elitegaming.ath.cx/pop.html
+http://search.811.com/saecs.html
+http:\
+ice_age.exe
+icon.bmp
+imagepath
+imagepath:
+information
+initial rapid release version
+installation
+latest rapid release version
+logo.bmp
+macro
+menu.dat
+notes:
+pkware web site.
+pkz300b.exe
+pkz300b.zip
+pkzip300.exe
+pkzip300.zip
+pops-up unusually high number internet explorer windows.
+program displays advertisements additional products within user interface.
+registry key:
+registry subkey:
+risk connects
+screen width height.
+september 28, 2010 revision 036
+september 28, 2010 revision 054
+similar security risks
+spyware cease
+startup type: "automatic"
+subject:
+support@pkware.com
+type:
+v module
+value:
+virus
+winifixer
+wstart.dll
+www.4shared.com
+{a&amp;a}

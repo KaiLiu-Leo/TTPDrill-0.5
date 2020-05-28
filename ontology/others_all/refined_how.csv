@@ -1,0 +1,384 @@
+id,bow
+t1113 ,use native command screencapture
+t1113 ,use xwd
+t1125,use malware
+t1125,use script
+t1125,use peripheral device
+t1125,use integrated camera
+t1125,use webcam
+t1125,use application
+t1125,use video call service
+t1185,use security vulnerability
+t1185,use browser functionality
+t1185,set http proxy browser
+t1185,use security vulnerability
+t1185,use browser functionality
+t1185,use security vulnerability
+t1185,use browser functionality
+t1185,use security vulnerability
+t1185,use browser functionality
+t1039,use interactive command shells
+t1039,use cmd
+t1115,use pbpaste
+t1115,use windows api
+t1119,use Scripting
+t1119,use Fiel and Directory Discovery Remote file Copy
+t1123 ,leverage peripheral devices applications
+t1123 ,use levarage conversations malware scripts   microphones webcams
+t1123 ,use levarage voice and video call services
+t1001,add junk data protocol traffic
+t1001,use steganography
+t1001,commingle legitimate traffic C2 traffic
+t1001,use non standard data encoding system
+t1024,use custom cryptographic protocol custom cryptographic algorithm
+t1024,use XORing the plaintext with fixed key
+t1026,use different protocol
+t1032 ,use encryption algorithm
+t1032 ,employ encryption algorithm
+t1065 ,use uncommonly used port
+t1071 ,use common
+t1071 ,use standardized application layer protocol
+t1071 ,use http
+t1071 ,use https
+t1071 ,use smtp
+t1071 ,use dns
+t1090,use proxy
+t1090,use port redirection
+t1090,use HTRAN
+t1090,use ZXProxy
+t1090,use ZXPortMsp
+t1094,use custom command and control protocol
+t1095,use standard non application layer protocol
+t1095,use internet control message protocol  icmp
+t1095,use transport layer protocol
+t1095,use user datagram protocol
+t1095,use session layer protocol
+t1104,use remote access tool
+t1104,use multi stage channel
+t1132,use standard data encoding system
+t1132,use ASCII
+t1132,use Unicode
+t1132,use Base64
+t1132,use MIME
+t1132,use UTF 8
+t1132,use binary to text
+t1132,use character encoding system
+t1132,use gzip
+t1172,use TLS and HTTP
+t1043 ,use tcp:80  http
+t1043 ,use tcp:443  https
+t1043 ,use tcp:25  smtp
+t1043 ,use tcp
+t1043 ,use udp:53  dns
+t1043 ,use tcp
+t1043 ,use udp:135  rpc
+t1043 ,use tcp
+t1043 ,use udp:22  ssh
+t1043 ,use tcp
+t1043 ,use udp:3389  rdp
+t1111,using infected system
+t1111,use keylogger
+t1145,responding llmnr  udp 5355
+t1145,responding nbt ns  udp 137  traffic
+t1171,use tool
+t1171,use responder
+t1171,use metasploit
+t1171,use nbnspoof
+t1171,using service tickets
+t1098,modifying credentials
+t1098,modifying permission
+t1098,modifying password
+t1098,adding permission groups
+t1098,changing account settings
+t1098,modifying authentication
+t1110, ssh  22/tcp
+t1110, telnet  23/tcp
+t1110, ftp  21/tcp
+t1110, netbios / smb / samba  139/tcp & 445/tcp
+t1110, ldap  389/tcp
+t1110, kerberos  88/tcp
+t1110, rdp / terminal services  3389/tcp
+t1110, http/http management services  80/tcp & 443/tcp
+t1110, mssql  1433/tcp
+t1110, oracle  1521/tcp
+t1110, mysql  3306/tcp
+t1110, vnc  5900/tcp
+t1187,forced smb authentication
+t1214, reg query hklm /f password /t reg_sz /s
+t1214, reg query hkcu /f password /t reg_sz /s
+t1027,use steganography
+t1036,modifying binary
+t1045,intercepting operating system api calls
+t1045,hooking operating system api calls
+t1045,modifying operating system api calls
+t1112,prepending key names
+t1186,using executable
+t1221,injecting smb
+t1221,injecting https  or other credential prompting  url
+t1054,stopping process
+t1089,killing security software
+t1089,log event processes
+t1089,deleting registry keys
+t1118,use binary
+t1118,execute class
+t1134,use setthreadtoken
+t1140,use certutil
+t1140,using windows copy
+t1140,using b command
+t1170, security context
+t1484,modifying gpo settings
+t1500,delivering files
+t1497,searching security monitoring tools
+t1497,searching sysinternals
+t1497,searching wireshark
+t1497,searching sleep timers
+t1497,searching loops
+t1497,use security monitoring tools
+t1497,use sysinternals
+t1497,use wireshark
+t1497,use sleep timers
+t1497,use loops
+t1497,use security monitoring tools
+t1497,use sysinternals
+t1497,use wireshark
+t1497,use sleep timers
+t1497,use loops
+t1497,using win32 deviceiocontrol function
+t1497,waiting 
+t1497,using wmi query
+t1497,use embedded script
+t1117,using functionality to load com scriptlets
+t1117,passing uniform resource locator  url
+t1170,use mshta.exe in inline script
+t1170,use mshta.exe with url in command
+t1220,use msxsl.exe
+t1220,changing extension
+t1064,interacting operating system
+t1064,use powershell
+t1127,interacting operating system
+t1198,pointing dll
+t1198,varying command and control protocols
+t1198,use web shell
+t1078 ,using credential access techniques
+t1078 ,using social engineering
+t1055,creating thread
+t1055,manipulating code stubs
+t1055,utilizing named pipes
+t1055,utilizing inter process communication  ipc  mechanisms
+t1124,use Net
+t1124,use net time \hostname
+t1124,use 'w32tm
+t1124,use tz'
+t1124,use 
+T1016,use Arp
+T1016,use ipconfig/ifconfig
+T1016,use nbtstat
+T1016,use route
+t1018,view use c:\windows\system32\drivers\etc\hosts file
+t1018,view/use '/etc/hosts file'/net/ping
+t1033,use users
+t1033,use w
+t1033,use who
+t1049,use netstat/net use/net session
+t1049,use losf/who  a/ who  w
+t1057,use tasklist utility
+t1057,use ps command
+t1063,use netsh
+t1063,use reg query with reg
+t1063,use dir with cmd
+t1063,use tasklist
+t1082,use ver
+t1082,use systeminfo
+t1082,use dir
+t1087,use acquire information net user
+t1087,use acquire information net group
+t1087,use acquire information net localgroup
+t1087,use acquire information dscl . list /groups
+t1087,use acquire information dscacheutil  q group
+t1087,use acquire information /etc/passwd
+t1087,use acquire information groups /id
+t1010,use applescript script
+t1046,use port scans tools
+t1046,use vulnerability scans tools
+t1083,use dir tree
+t1083,use ls find locatecommands
+t1135,use net share
+t1135,use net view \remotesystem
+t1135,use df  aH
+t1169,use net group /domain
+t1169,use net localgroupusing
+t1169,use dscacheutil  q group
+t1169,use dscl .  list /groups
+t1169,use groups
+t1169,use ldapsearch
+t1201,use net accounts
+t1201,use net accounts /domain
+t1201,use chage  l
+t1201,use cat /etc/pam.d/common password
+t1201,use pwpolicy getaccountpolicies
+t1482,use dsenumeratedomaintrusts   win32 api call
+t1482,use .net methods
+t1482,use ldap
+t1035,interacts windows services
+t1035,interacts service control manager
+t1035,creating service
+t1035,modifying service
+t1035,interacts windows services
+t1035,interacts service control manager
+t1035,creating service
+t1035,modifying service
+t1047,use exploitation for client execution
+t1061, mouse double click events
+t1061, windows run command
+t1086,run start process cmdlet
+t1086,runs invoke command cmdlet
+t1086,use binary
+t1106, createprocessa
+t1106, createprocessw
+t1106, createprocessasusera
+t1106, createprocessasuserw
+t1106, createprocessinternala
+t1106, createprocessinternalw
+t1106, createprocesswithlogonw
+t1106, createprocesswithtokenw
+t1106, loadlibrarya
+t1106, loadlibraryw
+t1106, loadlibraryexa
+t1106, loadlibraryexw
+t1106, loadmodule
+t1106, loadpackagedlibrary
+t1106, winexec
+t1106, shellexecutea
+t1106, shellexecutew
+t1106, shellexecuteexa
+t1106, shellexecuteexw
+t1129,load dlls
+t1028,use third party software
+t1072,use third party software
+t1072,use third party software
+t1072,replacing drivers
+t1072,adding drivers
+t1072,replacing drivers
+t1072,adding drivers
+t1177,replacing drivers
+t1177,replacing dll side loading
+t1177,replacing dll search order hijacking
+t1177,adding drivers
+t1177,adding dll side loading
+t1177,adding dll search order hijacking
+t1177, lsa operations
+t1053,use task scheduling
+t1029 ,use command and control channel
+t1052 ,use physical medium
+t1052 ,use device
+t1052 ,use external hard drive
+t1052 ,use usb drive
+t1052 ,use cellular phone
+t1052 ,use mp3 player
+t1002, program
+t1002, algorithm
+t1002, compression library
+t1002, utility
+t1002, 7zip
+t1002, rar
+t1002, zip
+t1002, zlib
+t1022,performed utility
+t1022,performed programming library
+t1022,performed custom algorithm
+t1022,performed 
+t1022,use utility
+t1022,use programming library
+t1022,use custom algorithm
+t1022,use 
+t1030,use data size limits
+t1030,use fixed size chunks
+t1030,use limit packet size
+t1048,use ftp
+t1048,use smtp
+t1048,use http/s
+t1048,use dns
+t1048,use some other network protocol
+t1048,use internet web services
+t1048,use cloud storage
+t1192,using exploit
+t1192,using exploit
+t1192,embedded images 
+t1194,leveraging user execution
+t1080,use embedded command
+t1023,setting screensaver
+t1084,use masquerading
+t1101,use 
+t1164,registering dll
+t1164,enabling dll
+t1128,using system utilities
+t1128,using custom tools
+t1136 ,hiding files
+t1136 ,hiding processes
+t1136 ,hiding network activity
+t1136 ,hiding log tampering
+t1136 ,hiding authenticated backdoors
+t1136 ,hiding root access
+t1136 ,providing files
+t1136 ,providing processes
+t1136 ,providing network activity
+t1136 ,providing log tampering
+t1136 ,providing authenticated backdoors
+t1136 ,providing root access
+t1136 ,enabling files
+t1136 ,enabling processes
+t1136 ,enabling network activity
+t1136 ,enabling log tampering
+t1136 ,enabling authenticated backdoors
+t1136 ,enabling root access
+t1137,use registry key: hkey_current_user\software\microsoft\office test\special\perf
+t1137,created outlook rules
+t1137,created custom outlook forms
+t1137,crafted html page
+t1137,use outlook
+t1137,using netsh.exe helper dlls
+t1161,removing lc_code_signature
+t1162,used smloginitemsetenabled
+t1209,creating service unit files
+t1209,modifying service unit files
+t1215,hiding files
+t1215,hiding processes
+t1215,hiding network activity
+t1215,hiding log tampering
+t1215,hiding authenticated backdoors
+t1215,hiding root access
+t1215,providing files
+t1215,providing processes
+t1215,providing network activity
+t1215,providing log tampering
+t1215,providing authenticated backdoors
+t1215,providing root access
+t1215,enabling files
+t1215,enabling processes
+t1215,enabling network activity
+t1215,enabling log tampering
+t1215,enabling authenticated backdoors
+t1215,enabling root access
+t1182, createprocess
+t1182, createprocessasuser
+t1182, createprocesswithloginw
+t1182, createprocesswithtokenw
+t1182, winexec
+t1182,loaded and run malicious dll
+t1158 ,writing pathname
+t1013,performing path
+t1013,performing path
+t1034,named windows program
+t1034,creating program
+t1034,placing it program
+t1034,using utilities
+t1034,interact services
+t1034,modifying registry
+t1034,using name
+t1034,created services
+t1034,executed services
+t1179,intercept code
+t1179,execute code
+t1179,modifications process Import address table IAT
+t1179,overwrites first bytes
+t1181,returning execution  control

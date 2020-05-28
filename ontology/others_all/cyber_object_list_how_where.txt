@@ -1,0 +1,778 @@
+7zip
+access
+access tokens
+accessibility program
+account settings
+actions
+active directory ad data
+administrator share
+ads
+adversary chain
+adversary controlled dll
+agent
+algorithm
+alias
+anti virus
+antivirus
+apc queue
+apcs
+api function calls
+applescript
+applescript script
+application
+application vulnerability
+application whitelist
+application whitelisting defense
+application whitelisting solution
+applicationsconversations
+applocker
+arp
+artifacts
+ascii
+attachment
+attributes
+audio device
+audio recordings
+authenticated backdoors
+authentication
+authentication attempt
+authentication mechanisms
+authoritative source
+autorun feature
+autostart mechanism
+b command
+backdoors
+base64
+bashprofile file
+bashrc file
+binary
+binary text
+bios
+bits
+bits execution
+bits upload functionalities
+boot area
+boot sectors
+bootkits
+browser
+browser bookmarks
+browser functionality
+browser security setting
+brute force
+brute force login
+bug
+built windows command line utility reg
+bypass uac
+bypass user account control
+c2 communication
+c2 traffic
+captured file
+cat
+cdbexe
+cellular phone
+certificate
+certutil
+chage l
+channel
+character
+character encoding system
+class
+clipboard data
+cloned certificate
+cloud storage
+cmd
+cmstpexe
+cobalt strike's payload
+code
+code execution
+code signing
+code signing certificates
+code stubs
+com objects
+comamnd
+command
+command control c2 communications
+command control channel
+command control protocols
+command control server
+command line batch script
+command line interfaces
+common
+common password
+common service
+common system utility
+commonly used ports
+communication
+communication channels
+component object model com
+compression library
+computer accessories
+configuration
+configuration location
+connected computer
+connection
+content
+control panel items
+counterfeit product
+cpu
+createprocess
+createprocessa
+createprocessasuser
+createprocessasusera
+createprocessasuserw
+createprocessinternala
+createprocessinternalw
+createprocessw
+createprocesswithloginw
+createprocesswithlogonw
+createprocesswithtokenw
+creddump7
+credential access
+credential access techniques
+credential dumping
+credentialing mechanisms
+credentials
+custom algorithm
+custom command control protocol
+custom cryptographic algorithm xoring plaintext fixed key
+custom cryptographic protocol
+custom outlook forms
+custom tools
+cwindowssystem32driversetchosts file
+data
+data execution prevention
+data size limits
+dcom
+dcshadow
+dcsync
+dde
+deamon
+decryption key
+defense
+defensive tool
+desktop support
+destination
+development environment
+development tool
+device
+df ah
+dga
+different protocol
+digital signatures
+dir
+dir cmd
+directories
+distribution mechanisms
+dlfcn application programming interface api
+dll search order hijacking
+dll side loading
+dlls
+dns
+dnxexe
+document
+domain
+domain account
+domain admin
+domain generation algorithms dgas
+domain level group
+domain trust relationship
+domain trusts
+drive size
+drivers
+dscacheutil q group
+dscl list
+dsenumeratedomaintrusts win32 api call
+dylibs
+dynamic data exchange dde execution
+elf binary
+email address
+email data
+email file attachment
+email payload
+embedded command
+embedded script
+empire
+employee
+encryption algorithm
+endpoint system
+entry point binary
+environment variable
+environmental keying
+etc
+event processes
+events
+executable
+executable file
+execution control
+existing token
+exploit
+exploit code
+extension
+external hard drive
+f password
+fallback
+fan system
+fiel directory discovery
+file extensions
+file permission
+file system
+file system permissions weakness
+file type
+files
+filetype
+find
+firmware
+first bytes
+fixed size chunks
+folder name
+folders drives
+forced authentication
+frequency mouse click
+ftp
+ftp 21
+funcname registry value
+function registry value
+functionality
+functionality load com scriptlets
+gatekeeper
+glitch
+golden tickets
+gpo modification
+gpo settings
+group policy objects gpos
+groups
+guardrails
+gzip
+hard drive
+hardware
+hardware architecture
+hardware token
+hash
+hashed credentials
+hidden files
+hidden files directories
+histcontrol
+home page
+hooking
+hooking mechanisms
+host locations
+hostname
+hosts file'
+hot data links duplications changes data item
+hta file
+html page
+htran
+http
+http management services 80
+https credential prompting url
+hypervisor
+icons
+id
+ifconfig
+ifeo
+ifeo mechanisms
+image
+image file
+imagepath
+indicators
+infected system
+information
+information repositories
+input capture
+input prompt
+install root certificate
+installutil
+integrated camera
+integrity security solutions
+inter process communication ipc mechanisms
+interactive command shells
+internet control message protocol icmp
+internet web services
+interprocess communication ipc
+invoke command cmdlet
+invoke psimage
+ip address
+ipconfig
+javascript
+jscript
+kerberos
+kerberos 88
+kerberos authentication
+kerberos ticket
+kerberos ticket granting service ticket
+kerberos ticket granting ticket
+key
+key names
+keychain
+keylogger
+keystroke
+krbtgt hash
+language specific semantic
+launch agent
+launch daemon
+launchctl
+lccodesignature
+ldap
+ldap 389
+ldapsearch
+library
+limit packet size
+line brute force cracking
+link
+llmnr
+llmnr udp 5355
+lnk based directory
+lnk scf file
+loadable kernel modules lkms
+loadlibrarya
+loadlibraryexa
+loadlibraryexw
+loadlibraryw
+loadmodule
+loadpackagedlibrary
+local account
+local file systems
+local host file
+local system
+locatecommands
+location
+location executable
+log tampering
+logical identifier
+login
+login credential
+login item
+logon session
+logs
+loops
+ls
+lsa operations
+lsassexe drivers
+macros
+malicious dll
+malicious extensions
+malicious payload
+malicious software
+malicious version dylibs
+malware
+malware file
+masquerading
+media firmware
+mem
+memory
+memory addresses
+memory legitimate process
+memory location
+message
+metasploit
+microphones
+microsoft common line transformation utility binary
+microsoft office documents
+mime
+mimikatz
+misconfiguration
+modified
+module
+mouse double click events
+mp3 player
+mpress
+msbuild
+mshtaexe
+mshtaexe inline script
+mshtaexe url command
+msiexecexe
+mssql 1433
+msxslexe
+muli stage channel
+mysql 3306
+name
+name executable
+name process
+name service
+named pipes
+native command screencapture
+nbnspoof
+nbt ns poison relay
+nbt ns udp 137 traffic
+nbtstat
+net
+net accounts
+net group
+net localgroup
+net localgroupusing
+net methods
+net sessionlosf
+net share
+net time hostname
+net use
+net user
+net view remotesystem
+netbios
+netsh
+netshexe
+netshexe helper dlls
+netstat
+network
+network activity
+network configuration
+network connection
+network interface
+network protocol
+network resource
+network share drive
+network shares
+network traffic
+non standard data encoding system
+normaldotm template
+ntlmv2 hash
+obfuscated files information
+object
+objects schemas
+office visual basic applications vba macro
+open application
+open application windows
+open scripting architecture osa language scripts
+open source code
+open source projects
+open windows
+operating system
+operating system api
+operating system api calls
+operating system hotfixes
+operating system patches
+operating system version
+oracle 1521
+outlook
+outlook form
+outlook rules
+packet
+pamd
+passwd
+password
+password filter dll
+password policy
+password spraying
+passwords hashes
+patches
+path
+path malicious dll
+pathname
+payload
+pbpaste
+pe
+peripheral devices
+permission
+permission groups
+permissions setting
+personal webmail service
+php script
+physical medium
+pid
+ping
+platform
+plist file
+pointer
+port
+port knock
+port redirection
+port scans tools
+portable executable
+portal
+portions file
+powershell
+powershell commands
+powershell script
+powersploit
+primary user
+private key
+privilege escalation
+privilege escalation persistence
+privileges
+proc
+process
+process import address table iat
+process injection
+process memory
+process monitoring mechanism
+process whitelisting tool
+program
+program hhexe
+program loading
+programming error
+programming library
+protection mechanisms
+protocol traffic
+proxy
+ps command
+psattack
+pth
+ptrace system call
+pubprnvbs
+pwpolicy getaccountpolicies
+rainbow table
+rar
+rat
+rccommon file
+rcsiexe
+rdp
+rdp session hijacking
+reg query hkcu
+reg query hklm
+reg query reg
+regexe
+registry
+registry key hkeycurrentusersoftwaremicrosoftoffice testspecialperf
+registry key values
+registry keys
+regsvcs regasm
+regsvr32exe
+regsz
+remote access software
+remote access tool
+remote access toolmulti stage channel
+remote file copy
+remote file shares
+remote host service
+remote preloading
+remote services
+remote system
+removable media
+replaced file
+requests
+responder
+right left override rtlo rlo character u202e
+root access
+root certificate
+rootkit
+route
+rundll32exe
+running window
+sam
+samba 139
+sandbox
+screen
+screen capture
+screensaver
+screensaver setting
+screenshot
+script
+scripting language
+security context
+security mechanism
+security monitoring tools
+security policy
+security settings
+security software
+security software discovery
+security support provider
+security tool
+security vulnerability
+security warning
+securityd memory
+sensor
+sensor settings
+service binpath
+service configuration
+service control manager
+service executable
+service name
+service packs
+service tickets
+service unit files
+services
+session
+session layer protocol
+set users
+sethcexe program
+setsuid flag
+setthreadtoken
+settings
+setuid setgid bits
+share connection
+shared location
+shared section memory
+shellcode
+shellexecutea
+shellexecuteexa
+shellexecuteexw
+shellexecutew
+shortcut
+shortcut modification directory
+sid history
+sid history injection
+signature validation restriction
+signature validation tool
+sip
+sip trust provider
+sleep timers
+smb
+smb authentication
+smloginitemsetenabled
+smtp
+social engineering
+social media account
+software
+software packing
+software update
+software vulnerability
+software weakenss
+source
+source code repository
+space filename
+span port
+spearphishing
+speed mouse click
+ssh
+ssh 22
+ssps
+standard authentication steps
+standard data encoding system
+standard non application layer protocol
+standardized application layer protocol
+start process cmdlet
+static indicator scanning tool
+steganography
+structure exception handling
+sudoers file configuration
+suspended process
+sysinternals
+system
+system firmware
+system firmware update
+system image
+system setting
+system temperature
+system time
+system utilities
+system's gui
+systemd functionality
+systeminfo
+tainted share content
+target path
+target specific values
+targets
+task scheduling
+tasklist
+tasklist utility
+tcp
+tcp 443
+tcp 445
+tcp25 smtp
+tcp443 https
+tcp80 http
+tech user execution tech
+techexploitation client executiontech
+technique port monitors
+techniques name service resolution poisoning
+technology
+telnet 23
+template injection
+terminal services 3389
+tgs
+tgt
+third party software
+thread
+thread process
+time providers
+time zone
+timestamps file
+timestomping
+tls http
+token
+token input
+token manipulation
+token stealing
+tool
+trackerexe
+traffic
+transactions consisting strings
+transport layer protocol
+trap
+tree
+trust provider component
+trusted directory
+ttyticket
+txf
+txf transaction
+tz
+uac
+udp135 rpc
+udp22 ssh
+udp3389 rdp
+udp53 dns
+uefi
+uncommonly used port
+unicode
+uniform resource locator url
+updated version
+upx
+url
+usb drive
+user account control
+user accounts
+user activity
+user authentication credentials
+user datagram protocol
+user execution
+user input
+user rights
+username
+users
+usp
+utf 8
+utilities
+utilities regsvcs regasm
+valid account
+vbr
+vbscript
+ver
+video
+video call service
+video recording
+virtual machine environment vme
+vme artifact
+vnc 5900
+vpn login
+vulnerability
+vulnerability scans tools
+w32tm
+warm data links notifications data item changes
+weaknesses
+web browser
+web script
+web service
+web shell
+webcam
+webcamsvoice video call services
+websites
+whitelist policy
+whitelist process
+whitelisting
+whitelisting application
+whitelisting procedure
+whitelisting tool
+win32 deviceiocontrol function
+windbgexe
+windows admin share
+windows api
+windows api calls
+windows application programming interface api
+windows copy
+windows management instrumentation
+windows native api
+windows program
+windows registry
+windows run command
+windows service binaries
+windows services
+windows utilities
+winexec
+wireshark
+wmi
+wmi query
+wmi scripts
+xwd
+zip
+zlib
+zxportmsp
+zxproxy

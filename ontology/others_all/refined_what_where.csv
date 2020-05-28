@@ -1,0 +1,1241 @@
+id,bow
+t1056,log user input
+t1056,log keystroke
+t1056,capture user input
+t1056,capture keystroke
+t1056,intercept user input
+t1056,intercept keystroke
+t1056,install keylogger
+t1056,use keylogger
+t1056,install code portals
+t1056,install code vpn login
+t1074,stage data
+t1074,stage file
+t1074,keep data
+t1074,keep file
+t1074,combine data
+t1074,combine file
+t1074,copy data
+t1074,copy file
+t1074,store data
+t1074,store file
+t1113 ,take screen
+t1113 ,take screen capture
+t1113 ,take screenshot
+t1113 ,capture screen
+t1113 ,capture screen capture
+t1113 ,capture screenshot
+t1114,acquire email data
+t1114,acquire email address
+t1114,discover email data
+t1114,discover email address
+t1114,collect email data
+t1114,collect email address
+t1125,capture video recording
+t1125,capture image
+t1125,capture video
+t1125,capture image file
+t1125,capture webcam
+t1125,write video recording
+t1125,write image
+t1125,write video
+t1125,write image file
+t1125,write webcam
+t1125,record video recording
+t1125,record image
+t1125,record video
+t1125,record image file
+t1125,record webcam
+t1185,inject software browser
+t1185,inject code browser
+t1185,redirect traffic
+t1185,intercept information browser
+t1185,modify behavior browser
+t1185,change content browser
+t1005,search file system
+t1025,search removable media
+t1025,access removable media
+t1025,read removable media
+t1025,mount removable media
+t1025,collect data removable media
+t1039,search network share
+t1039,search network share drive
+t1039,access network share
+t1039,access network share drive
+t1039,read network share
+t1039,read network share drive
+t1039,mount network share
+t1039,mount network share drive
+t1039,collect data network share
+t1039,collect data network share drive
+t1115,collect clipboard data
+t1115,access clipboard data
+t1115,read clipboard data
+t1119,collect data
+t1119,collect information
+t1119,collect file type
+t1119,collect location
+t1119,collect name
+t1119,search data
+t1119,search information
+t1119,search file type
+t1119,search location
+t1119,search name
+t1119,copy data
+t1119,copy information
+t1119,copy file type
+t1119,copy location
+t1119,copy name
+t1119,move data
+t1119,move information
+t1119,move file type
+t1119,move location
+t1119,move name
+t1119,identify data
+t1119,identify information
+t1119,identify file type
+t1119,identify location
+t1119,identify name
+t1123 ,listen audio recordings
+t1123 ,listen audio device
+t1123 ,capture audio recordings
+t1123 ,capture audio device
+t1123 ,read audio recordings
+t1123 ,read audio device
+t1123 ,open audio recordings
+t1123 ,open audio device
+t1213,leverage information repositories
+t1213,use information repositories
+t1001,hide command and control  c2  communications
+t1001,add junk data protocol traffic
+t1001,commingle legitimate traffic C2 traffic
+t1001,use steganography
+t1001,use non standard data encoding system
+t1008,use fallback
+t1008,use communication channels
+t1024,encrypt C2 traffic
+t1024,encode C2 traffic
+t1026,split communication
+t1026,split network traffic
+t1026,split C2 traffic
+t1032 ,encrypt C2 traffic
+t1032 ,encrypt c2 communication
+t1032 ,encode C2 traffic
+t1032 ,encode c2 communication
+t1065 ,conduct c2 communication
+t1065 ,conduct C2 traffic
+t1065 ,communicate c2 communication
+t1065 ,communicate C2 traffic
+t1065 ,send c2 communication
+t1065 ,send C2 traffic
+t1071 ,blend command traffic
+t1071 ,blend command c2 traffic
+t1071 ,embed command traffic
+t1071 ,embed command c2 traffic
+t1071 ,communicate traffic
+t1071 ,communicate c2 traffic
+t1071 ,send traffic
+t1071 ,send c2 traffic
+t1079 ,perform c2 communication
+t1079 ,perform c2 traffic
+t1079 ,communicate c2 communication
+t1079 ,communicate c2 traffic
+t1079 ,send c2 communication
+t1079 ,send c2 traffic
+t1090,perform c2 communication
+t1090,perform c2 traffic
+t1090,communicate c2 communication
+t1090,communicate c2 traffic
+t1090,send c2 communication
+t1090,send c2 traffic
+t1092,perform c2 communication
+t1092,perform c2 traffic
+t1092,communicate c2 communication
+t1092,communicate c2 traffic
+t1092,send c2 communication
+t1092,send c2 traffic
+t1094,communicate c2 communication
+t1094,communicate c2 traffic
+t1094,send c2 communication
+t1094,send c2 traffic
+t1094,encapsulate c2 communication
+t1094,encapsulate c2 traffic
+t1095,perform c2 communication
+t1095,perform c2 traffic
+t1095,communicate c2 communication
+t1095,communicate c2 traffic
+t1095,send c2 communication
+t1095,send c2 traffic
+t1102 ,use web service
+t1102 ,use common service
+t1104,"obfuscate muli stage channel command and control channel"
+t1104,obfuscate command and control server
+t1104,obfuscate Remote access tool
+t1104,"call back muli stage channel command and control channel"
+t1104,call back command and control server
+t1104,call back Remote access tool
+t1104,"upload muli stage channel command and control channel"
+t1104,upload command and control server
+t1104,upload Remote access tool
+t1105 ,copy file
+t1132,encode c2 communication
+t1132,encode C2 traffic
+t1172,obfuscate destination
+t1172,hide destination
+t1188,chain proxy
+t1188,link proxy
+t1219 ,use desktop support
+t1219 ,use remote access software
+t1483,employ domain generation algorithms  dgas
+t1483,employ DGA
+t1483,use domain generation algorithms  dgas
+t1483,use DGA
+t1043 ,communicate c2 communication
+t1043 ,communicate C2 traffic
+t1043 ,send c2 communication
+t1043 ,send C2 traffic
+t1111,use keylogger
+t1111,intercept password
+t1111,obtain password
+t1111,bypass security mechanism
+t1111,gain access system
+t1111,gain access service
+t1111,gain access network resource
+t1111,connect network resource
+t1111,proxy authenticate hardware token
+t1111,employ keylogger
+t1111,capture token input
+t1141,mimic input prompt
+t1141,use input prompt
+t1141,prompt user credential
+t1142,access keychain
+t1145,gather private key
+t1145,authenticate remote service
+t1145,authenticate ssh
+t1145,decrypt file
+t1145,look directories
+t1145,look file extension
+t1145,search directories
+t1145,search file extension
+t1145,use input capture
+t1145,attempt brute force key
+T1167,scan securityd memory
+t1167,find key
+t1171,spoof authoritative source
+t1171,send username
+t1171,collect ntlmv2 hash
+t1171,crack hash
+t1171,intercept ntlmv2 hash
+t1171,relay ntlmv2 hash
+t1171,use tool
+t1171,use responder
+t1171,use metasploit
+t1171,use nbnspoof
+t1171,poison name service
+t1174,register password filter DLL
+t1174,harvest credential
+t1208,requet services ticket
+t1208,requet Kerberos Ticket Granting Ticket
+t1208,requet Kerberos Ticket Granting Service Ticket
+t1208,requet TGT
+t1208,requet TGS
+t1208,capture services ticket
+t1208,capture Kerberos Ticket Granting Ticket
+t1208,capture Kerberos Ticket Granting Service Ticket
+t1208,capture TGT
+t1208,capture TGS
+t1208,perform brute force
+t1208,execute brute force
+t1208,crack hash
+t1003 ,obtain login
+t1003 ,use password  password hash
+t1003 ,use credentials
+t1003 ,use tools
+t1003 ,extracted sam
+t1003 ,use creddump7
+t1003 ,use tools
+t1003 ,use reg.exe
+t1003 ,use registry
+t1003 ,stored passwords
+t1003 ,stored information
+t1003 ,use tools
+t1003 ,use reg.exe
+t1003 ,use tools
+t1003 ,decrypt password
+t1003 ,use tools and scripts
+t1003 ,use ssps
+t1003 ,run mimikatz
+t1003 ,use dcsync
+t1003 ,run dcsync
+t1003 ,use hashes
+t1003 ,dump process memory
+t1003 ,harvests passwords and hashes
+t1081,search local file systems remote file shares
+t1081,extract local file systems remote file shares
+t1098,maintaining access credentials
+t1110,use brute force
+t1110,use credential dumping
+t1110,guess passwords
+t1110,use rainbow table
+t1110,attempt brute force logins
+t1110,use password spraying
+t1110,use commonly used ports
+t1139,look file
+t1139,search file
+t1187,take advantage this behavior
+t1187,send attachment
+t1187,authentication information
+t1187,send information
+t1187,perform hashed credentials
+t1187,attachment off line brute force cracking
+t1187,attachment spearphishing
+t1187,modified .lnk or .scf file
+t1212,use programming error
+t1212,abuse programming error
+t1212,takes advantage programming error
+t1212,target use credentialing mechanisms
+t1212,target use authentication mechanisms
+t1212,target use kerberos
+t1212,exploitation credential access
+t1214,query registry
+t1214,query registry keys
+t1214,find registry
+t1214,find registry keys
+t1040,place network interface
+t1040,use span port
+t1040,use techniques for name service resolution poisoning
+t1040,use llmnr nbt ns poisoning and relay
+t1014,use rootkit
+t1014,intercept hooking
+t1014,modify operating system API
+t1027,encrypt file
+t1027,encrypt executable
+t1027,obfuscate file
+t1027,obfuscate executable
+t1027,encode file
+t1027,encode executable
+t1027,compress payload
+t1027,archive payload
+t1027,encrypt payload
+t1027,use script
+t1027,use javascript
+t1027,encode portions of file
+t1027,split payload
+t1027,obfuscate command
+t1027,use environment variable
+t1027,use alias
+t1027,use character
+t1027,use platform language specific semantic
+t1027,use steganography
+t1027,encrypt information
+t1027,hide information
+t1027,exfiltrate image
+t1027,use invoke psimage
+t1027,download script
+t1027,communicate information
+t1036,manipulate name of an executable
+t1036,manipulate location of an executable
+t1036,place executable trusted directory
+t1036,move common system utility
+t1036,rename program
+t1036,bypass tool
+t1036,use right to left override  rtlo or rlo  character  u+202e
+t1036,rename utility
+t1036,move  utility directory
+t1036,rename utility
+t1036,change name of  process
+t1045,compress executable
+t1045,encrypt executable
+t1045,pack executable
+t1045,use utility
+t1045,use mpress
+t1045,use upx
+t1093,create process
+t1093,unmapp memory
+t1093,replace memory
+t1096,store data
+t1096,store binary
+t1096,evade defense
+t1096,bypass defense
+t1096,evade static indicator scanning tool
+t1096,bypass static indicator scanning tool
+t1096,evade anti virus
+t1096,bypass anti virus
+t1099,modify timestamps of a file
+t1099,mimic file
+t1099,use timestomping
+t1112,interact windows registry
+t1112,remove information
+t1112,use built in windows command line utility reg
+t1112,use remote access tool
+t1112,modify registry
+t1112,modify registry
+t1126,use net
+t1126,remove share connection
+t1149,hijack entry point for a binary
+t1149,modify binary
+t1149,bypass whitelisting application
+t1186,leverage txf
+t1186,replace memory of a legitimate process
+t1186,enable code
+t1186,use txf
+t1186,create txf transaction
+t1186,create shared section of memory
+t1186,create executable
+t1186,create code
+t1186,create process
+t1186,overwrite txf transaction
+t1186,overwrite file
+t1186,overwrite shared section of memory
+t1186,overwrite executable
+t1186,overwrite code
+t1186,overwrite process
+t1186,create txf transaction
+t1186,create shared section of memory
+t1186,create executable
+t1186,create code
+t1186,create process
+t1186,load txf transaction
+t1186,load file
+t1186,load shared section of memory
+t1186,load executable
+t1186,load code
+t1186,load process
+t1186,undo change txf transaction
+t1186,undo change file
+t1186,undo change shared section of memory
+t1186,undo change executable
+t1186,undo change executable
+t1186,undo change code
+t1186,undo change process
+t1186,remove txf transaction
+t1186,remove file
+t1186,remove shared section of memory
+t1186,remove executable
+t1186,remove executable
+t1186,remove code
+t1186,remove process
+t1186,create txf transaction
+t1186,create file
+t1186,create shared section of memory
+t1186,create executable
+t1186,create executable
+t1186,create code
+t1186,create process
+t1186,initiate execute txf transaction
+t1186,initiate execute file
+t1186,initiate execute shared section of memory
+t1186,initiate execute executable
+t1186,initiate execute executable
+t1186,initiate execute code
+t1186,initiate execute process
+t1221,use template injection
+t1221,inject template reference document
+t1221,enable payload
+t1221,execute payload
+t1221,enable forced authentication
+t1221,trigger authentication attempt
+t1006,read and write files
+t1009,add data
+t1054,block indicators
+t1054,modifying events
+t1054,block sensor settings
+t1054,block registry keys
+t1066,modify tool
+t1066,use updated version
+t1066,use software packing
+t1066,modify file
+t1070,delete artifacts
+t1070,alter artifacts
+t1070,compromise logs
+t1070,compromise captured files
+t1070,performing integrity of security solutions
+t1070,clear actions
+t1070,cleared events
+t1070,cleared logs
+t1073,use program
+t1073,use dll side loading
+t1089,disable security tools
+t1107,remove files
+t1107,delete file
+t1116,use code signing certificates
+t1116,created certificates
+t1116,forged code signing
+t1116,stolen code signing
+t1116,use code signing certificates
+t1116,use 
+t1118,use installutil
+t1130,install root certificate
+t1130,use install root certificate
+t1130,avoid security warning
+t1130,bypass security warning
+t1130,collect login credential
+t1130,use root certificate
+t1130,intercept information
+t1130,clone root certificates
+t1130,reinstall root certificates
+t1130,use cloned certificate
+t1130,sign code
+t1130,bypass signature validation tool
+t1130,bypass antivirus
+t1130,bypass sysinternals
+t1130,use command
+t1130,install certificate
+t1134,use access tokens
+t1134,use windows api
+t1134,use token stealing
+t1134,use token
+t1134,leveraged access tokens
+t1134,use access tokens
+t1134,creates access token
+t1134,duplicates existing token
+t1134,creates access token
+t1134,create logon session
+t1134,allows token manipulation
+t1134,uses token impersonation
+t1140,use obfuscated files or information
+t1140,compressed payloads
+t1140,archived payloads
+t1140,or encrypted payloads
+t1140,use scripts
+t1143,abuse hidden files
+t1143,use hidden files
+t1143,hide running window
+t1144,bypasses gatekeeper
+t1146,accessed logs
+t1146,searching files
+t1146,use command
+t1147,hide user accounts
+t1148,use histcontrol
+t1170,use mshta.exe
+t1170,leveraging mshta.exe
+t1170,use mshta.exe
+t1170,executed files
+t1170,executed files
+t1170,use mshta.exe
+t1170,executes mshta.exe
+t1170,bypasses security settings
+t1191,supply cmstp.exe
+t1191,abuse cmstp.exe
+t1191,use cmstp.exe
+t1191,abuse  bypass user account control  execute cmstp.exe
+t1196,use control panel items
+t1196,delivered control panel items
+t1196,executed control panel items
+t1197,abuse bits
+t1197,use bits
+t1197,use bits execution
+t1197,use bits upload functionalities
+t1202,abuse windows utilities
+t1202,use windows utilities
+t1207,manipulate use active directory  ad  data objects and schemas
+t1207,manipulate use the krbtgt hash
+t1207,use dcshadow
+t1211,use programming error
+t1211,abuse programming error
+t1211,takes advantage programming error
+t1211,targeted security software
+t1211,use security software
+t1222,modify file permissions
+t1222,modify attributes
+t1223,loaded program  hh.exe
+t1223,abuse this technology
+t1223,use this technology
+t1223,delivered payloads
+t1223,triggered <tech> user execution <\tech>
+t1480,use guardrails
+t1480,use environmental keying
+t1480,use environmental keying
+t1480,use target specific values
+t1480,avoid packaging decryption key
+t1484,modify group policy objects  gpos
+t1484,use gpo modifications
+t1484,leveraged scripts
+t1484,use scripts
+t1484,modify user rights
+t1500,hide payloads
+t1500,difficult to discover payloads
+t1500,compiled payloads
+t1500,encrypted payloads
+t1500,encoded payloads
+t1500,and or embedded payloads
+t1497,check presence virtual machine environment  vme
+t1497,search sandbox
+t1497,search vme artifact
+t1497,use security software discovery
+t1497,use utilities
+t1497,search windows management instrumentation
+t1497,search powershell
+t1497,search systeminfo
+t1497,search query registry
+t1497,use vme artifact
+t1497,exit program
+t1497,use i/o port
+t1497,check drive size
+t1497,search user activity
+t1497,detect information
+t1497,check speed of mouse click
+t1497,check frequency of mouse click
+t1497,check fan of the system
+t1497,check temperature of the system
+t1497,check cpu
+t1085,use rundll32.exe
+t1085,use rundll32.exe
+t1085,use rundll32.exe
+t1085,execute script
+t1085,execute javascript
+t1085,execute code
+t1085,trigger security tool
+t1117,use regsvr32.exe
+t1117,proxy execute code
+t1117,trigger security tool
+t1117,use regsvr32.exe
+t1117,bypass process whitelisting tool
+t1117,execute DLL
+t1117,load script
+t1117,send URL
+t1117,pass URL
+t1117,use regsvr32.exe
+t1117,register COM object
+t1151,hide filetype
+t1151,chage file extension
+t1151,use space after filename
+t1151,double click file
+t1153,execute source
+t1170,use mshta.exe
+t1170,proxy execute .hta file
+t1170,proxy execute javascript
+t1170,proxy execute VBScript
+t1170,execute file
+t1170,execute file
+t1170,use mshta.exe
+t1170,bypass browser security setting
+t1170,bypass application whitelisting solution
+t1216,use script
+t1216,bypass signature validation restriction
+t1216,proxy execute file
+t1216,bypass application whitelisting solution
+t1216,use pubprn.vbs
+t1218,use binary
+t1218,proxy execute file
+t1218,bypass application whitelisting solution
+t1218,bypass signature validation restriction
+t1218,use msiexec.exe
+t1218,launch file
+t1218,use msiexec.exe
+t1218,use msiexec.exe
+t1218,execute DLL
+t1218,use utility
+t1218,input DLL process
+t1218,use utility
+t1218,run powershell script
+t1218,use utility
+t1220,install microsoft common line transformation utility binary
+t1220,use microsoft common line transformation utility binary
+t1220,execute file
+t1220,bypass application whitelisting defense
+t1220,execute javascript
+t1220,use windows management instrumentation
+t1220,invoke jscript
+t1220,invoke vbscript
+t1220,execute script
+t1220,remote execute script
+t1064,use script
+t1064,bypass process monitoring mechanism
+t1064,use scripting language
+t1064,use vbscript
+t1064,use powershell
+t1064,use command line batch script
+t1064,embedd script
+t1118,use installutil
+t1118,proxy execute code
+t1118,use installutil
+t1118,bypass process whitelisting
+t1127,use msbuild
+t1127,use dnx.exe
+t1127,proxy execute code
+t1127,proxy execute DLL
+t1127,bypass application whitelist
+t1127,bypass whitelist policy
+t1127,bypass applocker
+t1127,use rcsi.exe
+t1127,use windbg.exe
+t1127,use cdb.exe
+t1127,use tracker.exe
+t1152,use code
+t1152,use agent
+t1152,use deamon
+t1152,use launchctl
+t1152,install code
+t1152,install agent
+t1152,install deamon
+t1152,install launchctl
+t1152,load code
+t1152,load agent
+t1152,load deamon
+t1152,load launchctl
+t1152,reload code
+t1152,reload agent
+t1152,reload deamon
+t1152,reload launchctl
+t1152,execute code
+t1152,execute agent
+t1152,execute deamon
+t1152,execute launchctl
+t1152,launch code
+t1152,launch agent
+t1152,launch deamon
+t1152,launch launchctl
+t1152,use code
+t1152,use agent
+t1152,use deamon
+t1152,use launchctl
+t1152,abuse code
+t1152,abuse agent
+t1152,abuse deamon
+t1152,abuse launchctl
+t1152,bypass whitelisting
+t1108,use remote access tool
+t1108,use Web Shell
+t1108,gain access valid account
+t1198,use sip and trust provider
+t1198,bypass security policy
+t1198,hijack sip
+t1198,hijack trust provider component
+t1198,mislead operating system
+t1198,mislead whitelisting tool
+t1198,modify dll
+t1198,modify dll
+t1198,modify dll
+t1198,hijack sip
+t1198,hijack trust provider component
+t1205 ,use port knocking
+t1205 ,send packet
+t1150,modify plist file
+t1150,bypass whitelisting procedure
+t1150,use plist file
+t1150,use plist file
+t1078 ,steal credential
+t1078 ,capture credential
+t1078 ,use credential
+t1078 ,use private key
+t1055,run code
+t1055,allow access process memory
+t1055,write path to a malicious dll
+t1055,invoke execution dll
+t1055,write code
+t1055,invoke execution code
+t1055,inject code thread of a process
+t1055,inject path to a dll thread of a process
+t1055,attach code apc queue
+t1055,create suspended process
+t1055,write code
+t1055,execute code
+t1055,utilize apcs
+t1055,manipulate pointer portable executable  pe
+t1055,redirect process
+t1055,invoke code
+t1055,use environment variable
+t1055,use environment variable
+t1055,use environment variable
+t1055,use dlfcn application programming interface  api
+t1055,load library
+t1055,use ptrace system call
+t1055,attach process
+t1055,modify process
+t1055,use 
+t1055,use proc
+t1055,use [pid]
+t1055,use mem
+t1055,read data
+t1055,write data
+t1055,inject elf binary
+t1055,manipulate code stub
+t1055,utilize process injection
+t1055,perform process injection
+t1055,segment module
+t1055,utilize interprocess communication IPC
+t1055,utilize named pipe
+t1007,obtain information service
+t1007,get information service
+t1124,infer system time
+t1124,infer time zone
+t1124,gather system time
+t1124,gather time zone
+t1012,interact windows registry
+t1012,query windows registry
+T1016,search network configuration
+T1016,search system setting
+T1016,look network configuration
+T1016,look system setting
+t1018,get listing use system IP address
+t1018,get listing use hostname
+t1018,get listing use or other logical identifier local host file
+t1033,identify primary user
+t1033,identify set of users
+t1033,identify user
+t1049,get lisiting network connection
+t1057,obtain information process
+t1057,get information process
+t1063,get listing security software
+t1063,get listing configuration
+t1063,get listing defensive tool
+t1063,get listing sensor
+t1082,obtain information operating system
+t1082,obtain information hardware
+t1082,obtain information operating system version
+t1082,obtain information operating system patches
+t1082,obtain information operating system hotfixes
+t1082,obtain information service packs
+t1082,obtain information hardware architecture
+t1082,get information operating system
+t1082,get information hardware
+t1082,get information operating system version
+t1082,get information operating system patches
+t1082,get information operating system hotfixes
+t1082,get information service packs
+t1082,get information hardware architecture
+t1087,get listing local system
+t1087,get listing domain account
+t1010,get listing open application windows
+t1046,get listing remote host service
+t1083,enumerate files
+t1083,enumerate directories
+t1083,search network shares
+t1083,search host locations
+t1120,gather information peripheral devices
+t1120,gather information connected computer
+t1135,look folders and drives
+t1135,search folders and drives
+t1169,find local system
+t1169,find domain level group
+t1169,find permissions setting
+t1169,search local system
+t1169,search domain level group
+t1169,search permissions setting
+t1201,access detailed information password policy
+t1217,enumerate browser bookmarks
+t1217,list browser bookmarks
+t1217,highlight targets
+t1217,get information targets
+t1482,gather information domain trust relationships
+t1482,gather information information
+t1482,dicover domain trust relationships
+t1482,dicover information
+t1482,enumerated domain trusts
+t1482,list domain trusts
+t1035,execute binary
+t1035,create service
+t1035,modify service
+t1035,execute command
+t1035,execute script
+t1047,use wmi
+t1047,interact system
+t1047,gather information
+t1047,remote execute file
+t1059,use command line interfaces
+t1061,use system's gui
+t1086,use powershell
+t1086,use powershell
+t1086,use powershell  empire
+t1086,use powersploit
+t1086,use and psattack
+t1086,executed empire
+t1086,executed powersploit
+t1086,executed and psattack
+t1086,executed powershell commands scripts
+t1086,use regsvcs and regasm
+t1086,use utilities  regsvcs and regasm
+t1086,executed code
+t1106,use windows application programming interface  api
+t1106,use windows api calls
+t1129,called windows native api
+t1129,use this functionality
+t1129,compromised endpoint systems
+t1173,exchange transactions consisting of strings
+t1173,use warm data links  notifications when a data item changes
+t1173,use hot data links   duplications of changes to a data item
+t1173,use requests
+t1173,poisoned dde
+t1173,poisoned microsoft office documents
+t1173,leveraged dde
+t1204,execute code
+t1204,exploit browser
+t1204,exploit application vulnerability
+t1028,run executable
+t1028,modify registry
+t1028,modify service
+t1072,use third party software
+t1072,execute code
+t1072,execute code
+t1072,gather information
+t1072,wipe hard drive
+t1072,execute code
+t1072,execute code
+t1072,wipe hard drive
+T1154,use trap
+t1177,target lsass.exe drivers
+t1177,use lsass.exe drivers
+t1177,triggered code execution
+t1053,execute program
+t1053,run program
+t1029 ,exfiltrate data
+t1041 ,exfiltrate data
+t1041 ,encode data
+t1052 ,exfiltrate data
+t1002,compress data
+t1002,compress documents
+t1011 ,exfiltrate 
+t1020,exfiltrate data
+t1020,exfiltrate document
+t1022,encrypt data
+t1022,hide data
+t1022,exfiltrate data
+t1030,exfiltrate data
+t1048,sent channel
+t1048,sent data
+t1192,use URL
+t1192,use link
+t1192,download malware
+t1192,accompany link
+t1192,accompany URL
+t1192,compromise web browser
+t1192,prompt user
+t1192,solicit user
+t1192,include link
+t1194,send message
+t1194,send content
+t1194,create social media account
+t1194,message employee
+t1194,send link
+t1194,send attachment
+t1194,send  message personal webmail service
+t1194,content personal webmail service
+t1195 ,manipulate development tool
+t1195 ,manipulate development environment
+t1195 ,manipulate source code repository
+t1195 ,manipulate source
+t1195 ,manipulate code
+t1195 ,manipulate software update
+t1195 ,manipulate distribution mechanisms
+t1195 ,Compromise system image
+t1195 ,infect system image
+t1195 ,replace software
+t1195 ,sell counterfeit product
+t1195 ,add software
+t1195 ,install software
+t1195 ,target open source projects
+t1195 ,target open source code
+t1195 ,use open source projects
+t1195 ,use open source code
+t1195 ,utilize open source projects
+t1195 ,utilize open source code
+t1195 ,add code
+t1199 ,exploit connection
+t1199 ,exploit network
+t1199 ,use connection
+t1199 ,use network
+t1199 ,access connection
+t1199 ,access network
+t1189 ,inject code browser
+t1189 ,insert object browser
+t1189 ,deliever code browser
+t1189 ,use ads
+t1189 ,inject ads
+t1189 ,post ads
+t1189 ,insert web object browser
+t1190,take advantage software weakenss
+t1190,take advantage bug
+t1190,take advantage weakness
+t1190,take advantage glitch
+t1190,take advantage vulnerability
+t1190,exploit software weakenss
+t1190,exploit bug
+t1190,exploit weakness
+t1190,exploit glitch
+t1190,exploit vulnerability
+t1190,abuse software weakenss
+t1190,abuse bug
+t1190,abuse weakness
+t1190,abuse glitch
+t1190,abuse vulnerability
+t1193 ,send email with file attachment
+t1193 ,execute email payload
+t1193 ,exploite vulnerability
+t1193 ,manipulate file extensions
+t1193 ,manipulate icons
+t1200 ,add hardware
+t1200 ,add computer accessories
+t1200 ,add firmware
+t1200 ,introduce hardware
+t1200 ,introduce computer accessories
+t1200 ,introduce firmware
+t1200 ,modify hardware
+t1200 ,modify computer accessories
+t1200 ,modify firmware
+t1091,use autorun feature
+t1091,modify executable file
+t1091 ,copy malware to removable media
+t1091 ,copy malware to USP
+t1091 ,copy malware to media firmware
+t1091 ,move code to removable media
+t1091 ,move code to USP
+t1091 ,move code to media firmware
+t1091 ,modify removable media
+t1091 ,modify USP
+t1091 ,modify media firmware
+t1091 ,fromat removable media
+t1091 ,fromat USP
+t1091 ,fromat media firmware
+t1133 ,use remote services
+t1133 ,obtain credentials
+t1133 ,get credentials
+t1133 ,use remote services
+t1017,deploy software
+t1017,execution code
+t1017,use access
+t1021,use valid accounts
+t1051,add content
+t1051,browse content
+t1051,execute content
+t1051,upload remote access tool
+t1051,upload php script
+t1051,execute RAT
+t1075,bypasses standard authentication steps
+t1075,uses password hash
+t1075,captured password hashes
+t1075,use hashes
+t1075,use pth
+t1076,connect system
+t1076,use credential access techniques
+t1076,use rdp
+t1076,perform rdp session hijacking
+t1076,stealing domain admin
+t1080,taint shared location
+t1080,use tainted share content
+t1080,add program
+t1080,add script
+t1080,add exploit code
+t1080,use Shortcut Modification of directory
+t1080,use Masquerading
+t1080,execute malware file
+t1080,embed command LNK based directory
+t1097,use kerberos authentication
+t1097,captured kerberos tickets
+t1097,use tgt
+t1097,use kerberos
+t1097,obtained golden tickets
+t1155,executes applescript
+t1155,locate open scripting architecture  osa  language scripts
+t1155,send open windows
+t1155,interact keystrokes
+t1155,use open application
+t1155,use scripting language
+t1155,run scripts
+t1175,use dcom
+t1175,execution shellcode
+t1175,execute macros
+t1175,invoke dynamic data exchange  dde  execution
+t1175,bypassing document
+t1175,leveraged adversary chain
+t1175,use adversary chain
+t1184,hijack connection
+t1210,exploitation software vulnerability
+t1210,determine remote system
+t1210,find remote system
+t1210,use patches
+t1210,use vulnerabilities
+t1077,transfer file
+t1077,run binary
+t1077,access administrator share
+t1077,connect windows admin share
+t1004,modify registry key
+t1004,load DLL
+t1004,execute DLL
+t1004,load executable
+t1004,execute executable
+t1023,use shortcut
+t1023,execute tool
+t1023,create shortcut
+t1023,edit target path
+t1023,replace shortcut
+t1060,use configuration location
+t1060,use Masquerading
+t1060,execute malware
+t1084,use wmi
+t1084,subscribe event
+t1084,execute code
+t1084,compile wmi scripts
+t1101,modify registry key
+t1101,add security support provider
+t1163,use rc.common file
+t1164,modify file
+t1164,include link
+t1180,use screensaver setting
+t1180,run malware
+t1019,modify system firmware
+t1019,modify bios
+t1019,modify uefi
+t1019,overwrite system firmware
+t1019,install system firmware update
+t1031,modifiy service configuration
+t1031,modify service
+t1031,kill service
+t1031,execute program
+t1042,modify registry key values
+t1062,use hypervisor
+t1067,modifies boot sectors
+t1067,use bootkits
+t1067,overwrite boot area
+t1067,overwrite vbr
+t1128,use netsh.exe
+t1128,invoke netsh.exe
+t1128,load cobalt strike's payload
+t1131,use autostart mechanism
+t1131,executed binary
+t1136 ,create local account
+t1136 ,create domain account
+t1136 ,create local system
+t1137,insert office visual basic for applications  vba  macro
+t1137,use macro
+t1137,modify normal.dotm template
+t1137,include macro
+t1137,add macro
+t1137,place dll registry
+t1137,execute dll
+t1137,trigger code execution
+t1137,create outlook form
+t1137,create outlook rule
+t1137,execute code
+t1137,execute code
+t1137,execute home page
+t1137,execute outlook rule
+t1137,execute outlook form
+t1156,insert code bash_profile file
+t1156,insert code bashrc file
+t1159,install launch agent
+t1161,remediate digital signatures
+t1162,register login item
+t1176,installed malicious extensions
+t1176,browse websites
+t1176,steal information
+t1176,installer credentials
+t1176,installer 
+t1209,use time providers
+t1209,enable time providers
+t1209,register time providers
+t1215,use loadable kernel modules  lkms
+t1501,use systemd functionality
+t1501,execute comamnd
+t1501,create service unit file
+t1501,modify service unit file
+t1100,place web script
+t1044,use file system permissions weakness
+t1044,use file system permissions weakness
+t1044,manipulation windows service binaries
+t1044,replace service executable
+t1044,execution code
+t1044,overwriting binaries
+t1044,use dll search order hijacking
+t1044,use bypass user account control
+t1138,use bypass user account control  uac
+t1138,inject dlls
+t1138,disable data execution prevention
+t1138,disable structure exception handling
+t1138,intercept memory addresses
+t1138,elevate privileges
+t1138,install backdoors
+t1182,disable registry key
+t1182,abuse registry key value
+t1182,use registry key value
+t1098,maintaining access
+t1098,modifying permissions
+t1098,modifying credentials
+t1098,adding or changing permission groups
+t1098,modifying settings
+t1098,modifying authentication
+t1109,employ tools
+t1109,execute code
+t1109,access systems
+t1122,use component object model  com
+t1122,executed code
+t1122,hijack objects
+t1122,hijack com objects
+t1158 ,use hidden files and directories
+t1158 ,hide file
+t1158 ,hide folder name
+t1037,insert code
+t1013,use this technique port monitors
+t1013,load code
+t1013,write pathname
+t1034,use weaknesses
+t1034,use misconfiguration
+t1034,place executable
+t1034,place program
+t1034,create program
+t1034,place program
+t1050,install service
+t1050,configure service name
+t1050,disguise service
+t1050,execute service
+t1050,use service
+t1050,start service
+t1015,modify programs
+t1015,modify registry key
+t1015,launched accessibility programs
+t1015,launched accessibility programs
+t1015,use sethc.exe program
+t1015,execute replaced file
+t1103,loaded and run registry keys
+t1103,loaded and run dll
+t1160,install launch daemon
+t1160,use service
+t1179,redirecting api function calls
+t1179,use hooking
+t1038,preloading dll
+t1038,use remote preloading
+t1038,modify program loading
+t1179,installing hooking mechanisms
+t1179,use hooking
+t1179,reveal user authentication credentials
+t1179,use hooking
+t1038,loaded adversary controlled dll
+t1157,plant dylibs
+t1157,place dylibs
+t1157,use dylibs
+t1157,plant malicious version dylibs
+t1157,inject malicious version dylibs
+t1183,abuse registry key values
+t1183,use registry key values
+t1183,installing ifeo mechanisms
+t1183,use ifeo
+t1068,use programming error
+t1068,abuse programming error
+t1068,takes advantage programming error
+t1068,perform privilege escalation
+t1068,operating process
+t1068,exploited vulnerabilities
+t1068,compromising system
+t1157,run dylib
+t1169,use sudoers file configuration
+t1178,use sid history injection
+t1178,insert sid value sid history
+t1206,use configuration
+t1206,disable tty_ticket
+t1088,injected malicious software
+t1088,use binary or script
+t1088,auto elevate binary or script
+t1088,execute binary or script
+t1088,bypass user account control
+t1181,utilize memory location
+t1181,use memory location
+t1181,writing code
+t1181,placing pointer
+t1181,invoking execution
+t1181,bypass protection mechanisms
+t1181,rewrite malicious payload
+t1058,change service binpath
+t1058,alter imagepath
+t1058,alter registry key
+t1166,use setuid and setgid bits
+t1166,use setsuid flag

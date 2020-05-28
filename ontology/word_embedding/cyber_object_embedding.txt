@@ -1,0 +1,3 @@
+file,folder,directory,file system,inode,docx
+content,data,code
+trojan,malicious file,program

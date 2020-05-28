@@ -1,0 +1,14 @@
+what,where,why,how,when
+copy,trojan,,,trojan executed
+creates,registry entry,trojan executes whenever windows starts,,next
+modifies,files,,,
+used,files,,,
+encrypt,data sent remote location,,,
+compress,data sent remote location,,,
+sent,data,,,
+creates,registry entry,alter internet explorer settings,,
+alter,internet explorer settings,,,
+saved,passwords,,,
+stored,website passwords,,,
+stored,passwords,,,
+used,one scripts,,,

@@ -1,0 +1,306 @@
+net share
+key names
+standardized application layer protocol
+createprocessinternalw
+command and control channel
+compression library
+port redirection
+UTF 8
+Scripting
+oracle  1521
+common
+log tampering
+name
+dll search order hijacking
+interactive command shells
+registry key: hkey_current_user\software\microsoft\office test\special\perf
+createprocesswithloginw
+credentials
+custom outlook forms
+custom algorithm
+custom cryptographic protocol
+samba  139
+udp:135  rpc
+who  a
+pwpolicy getaccountpolicies
+video call service
+tool
+security software
+dscl . list
+uncommonly used port
+find
+third party software
+createprocessasuser
+shellexecutea
+extension
+task scheduling
+malware
+internet web services
+scripts
+win32 deviceiocontrol function
+tcp:443  https
+tz'
+Arp
+ZXProxy
+domain
+MIME
+dll
+reg query with reg
+users
+pam.d
+route
+ping
+standard non application layer protocol
+steganography
+webcams;voice and video call services
+nbnspoof
+shellexecuteexw
+cat
+peripheral device
+script
+embedded command
+http management services  80
+service control manager
+responder
+vnc  5900
+class
+command and control protocols
+inter process communication  ipc  mechanisms
+network activity
+process Import address table IAT
+processes
+security vulnerability
+https
+infected system
+encryption algorithm
+ver
+pbpaste
+createprocessw
+outlook
+createprocess
+tree
+hosts file'
+service
+some other network protocol
+TLS and HTTP
+windows copy
+mysql  3306
+f password
+createprocesswithlogonw
+who  w
+passwd
+device
+wireshark
+dsenumeratedomaintrusts   win32 api call
+udp:22  ssh
+windows program
+it program
+execution  control
+loops
+loadpackagedlibrary
+windows run command
+services
+algorithm
+fixed size chunks
+path
+Fiel and Directory Discovery
+proxy
+authentication
+udp:53  dns
+binary
+shellexecutew
+tcp:80  http
+kerberos  88
+w
+c:\windows\system32\drivers\etc\hosts file
+files
+tcp:25  smtp
+who
+sleep timers
+port scans tools
+data size limits
+user datagram protocol
+'w32tm
+account settings
+thread
+dscl .  list
+operating system
+ssh  22
+permission
+netbios
+cellular phone
+exploit
+html page
+ps command
+Remote file Copy
+binary to text
+service unit files
+net session;losf
+usb drive
+udp:3389  rdp
+7zip
+applications;conversations
+HTRAN
+reg query hkcu
+powershell
+etc
+windows services
+named pipes
+ftp
+code
+embedded script
+ASCII
+loadlibrarya
+standard data encoding system
+security monitoring tools
+loadlibraryexw
+uniform resource locator  url
+programming library
+telnet  23
+process
+utility
+screensaver
+Net
+gzip
+utilities
+smb authentication
+loadlibraryexa
+mshta.exe in inline script
+net user
+executable
+http
+shellexecuteexa
+llmnr  udp 5355
+t reg_sz
+cloud storage
+rdp
+application
+registry keys
+gpo settings
+invoke command cmdlet
+tcp & 445
+nbtstat
+social engineering
+zlib
+netsh
+browser
+systeminfo
+vulnerability scans tools
+createprocessasuserw
+web shell
+xwd
+sysinternals
+tasklist utility
+custom cryptographic algorithm; XORing the plaintext with fixed key
+wmi query
+smloginitemsetenabled
+character encoding system
+createprocesswithtokenw
+security context
+drivers
+ZXPortMsp
+.net methods
+keylogger
+event processes
+mssql  1433
+mshta.exe with url in command
+code stubs
+createprocessa
+root access
+nbt ns  udp 137  traffic
+ifconfig
+net time \hostname
+different protocol
+microphones
+s
+applescript script
+df  aH
+tcp & 443
+terminal services  3389
+smb
+operating system api calls
+msxsl.exe
+dll side loading
+outlook rules
+loadmodule
+internet control message protocol  icmp
+tcp
+id
+setthreadtoken
+winexec
+https  or other credential prompting  url
+start process cmdlet
+custom tools
+program
+net localgroupusing
+net group
+service tickets
+functionality to load com scriptlets
+'
+authenticated backdoors
+password
+custom command and control protocol
+first bytes
+session layer protocol
+Unicode
+ldapsearch
+dlls
+remote access tool;multi stage channel
+net
+transport layer protocol
+netstat
+limit packet size
+smtp
+credential access techniques
+integrated camera
+createprocessinternala
+mp3 player
+registry
+lsa operations
+b command
+windows api
+tasklist
+metasploit
+net use
+dns
+net localgroup
+system utilities
+malicious dll
+ldap  389
+chage  l
+rar
+attributes
+external hard drive
+createprocessasusera
+ftp  21
+native command screencapture
+lc_code_signature
+cmd
+dscacheutil  q group
+ldap
+loadlibraryw
+browser functionality
+webcam
+dir with cmd
+ls
+locatecommands
+common password
+user execution
+masquerading
+groups
+physical medium
+net accounts
+netsh.exe helper dlls
+mouse double click events
+protocol traffic; steganography; C2 traffic; non standard data encoding system
+peripheral devices
+zip
+certutil
+dir
+Base64
+net view \remotesystem
+reg query hklm
+permission groups
+<tech>exploitation for client execution<tech>
+pathname
+ipconfig

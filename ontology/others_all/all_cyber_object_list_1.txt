@@ -1,0 +1,5006 @@
+
+" " affix
+" 0 " characters
+" Delivery Service " " McAfee Email Protection "
+" Google Defender " " Google Email Protection , " " Google Scanner "
+" Take Screenshot " key
+" beacon " payload
+" beacon " payloads
+" enable content " button
+" garbage " strings never used
+" junk data "
+" junk length " value
+" psexec " service name
+" srand " " rand " functions
+" suicide scripts " delete malware binaries victim
+#NAME?
+$ STANDARD_INFORMATION attribute
+'s virtual machine environment
+*
+* * x.
+, Hadoop YARN ResourceManager
+.LNK file
+.LNK file icon resources
+.NET based keylogger
+.NET csc tool
+.NET tool
+.NET wrapper DLL creating managing scheduled tasks maintaining persistence upon reboot
+.PST archives
+0xAA key
+1177 8282
+181 Windows services system
+3-DES
+30 minute delay execution
+32-byte long multi XOR key
+36-character GUID value
+36-character GUID value used encryption key subsequent network communications
+3DES RSA
+3DES XOR
+3PARA RAT command control commands
+443
+4H RAT
+7080 50000
+8-byte XOR key
+8-byte XOR key derived string HYF54&%9&jkMCXuiS
+> > method
+A Destover like implant
+A Destover like implant used Lazarus Group
+A Destover like variant
+A Destover like variant used Lazarus Group
+A Dipsind variant
+A JHUHUGIT variant
+A JPIN
+A Lazarus Group VBA Macro
+A Patchwork contains BADNEWS
+A Patchwork payload
+A QuasarRAT file
+A RedLeaves configuration file
+A Volgmer variant
+A Winnti implant file
+A backdoor
+A keylogging tool
+A module CozyCar
+A module Prikormka
+A properly configured Web Application Firewall
+A similar process
+A version PlugX
+A version XTunnel
+A version XTunnel introduced July 2015
+AD updates
+ADMIN$ , C$ WINDOWS , D$WINDOWS , E$WINDOWS
+ADMIN$ share
+ADVSTORESHELL
+AES
+AES , Caracachs , RC4 , basic XOR constant 0xA7 , techniques
+AES , base64 encoding , multiple keys
+AES DES
+AES XOR
+AES preshared key
+AES256
+AES256 RSA-2048
+AMSI
+AMSI bypass , patches memory amsi , PowerShell scripts bypass Windows antimalware products
+ANTAK ASPXSPY web shells
+AOL Instant Messenger
+API
+API call ChangeServiceConfigW
+API call ShellExecuteW
+API calls
+API calls NtQuerySystemTime , GetSystemTimeAsFileTime , GetTickCount
+API function names
+API hooking
+API names
+API names strings
+API names strings contained payload
+APIs
+APIs calls various tasks related subverting AMSI accessing executing commands RPC and/or named pipes
+APIs strings TYPEFRAME variants
+APT C2 methods
+APT1
+APT12
+APT18 actors
+APT19
+APT28
+APT29
+APT3
+APT30
+APT32
+APT32 's backdoor
+APT32 's macOS backdoor
+APT33
+APT37
+APT38
+APT39
+APT41
+APT41 malware TIDYELF
+ARP
+ARP configuration information
+ARP scanning well port scanning
+AV detection
+AV detection rates
+AV evasion
+AV evasion methods Java bytecode obfuscation
+AV products ' processes
+AV.Ã¢Â€Â
+AVs
+AVs registered system
+Active Directory data
+ActiveX
+ActiveX objects
+Address Resolution Protocol table
+Admin$ share
+Adobe Flash Player update installer
+Adversaries
+Agent
+Agent Tesla
+Ammyy Admin tool well TeamViewer
+An APT28 loader Trojan
+An APT3 downloader
+An executable
+Analysis Daserf
+Android backdoors capable enumerating specific files infected devices
+Android backdoors capable exfiltrating specific files directly infected devices
+Another variant
+Any matching files
+AppCertDLLs Registry key
+AppLocker
+AppleScript
+ApplicationHost
+Arp
+Astaroth
+AuditCred
+AutoIt VBS scripts
+Autorun
+Autorun functionality
+Avira anti virus
+Axiom
+Axiom actors
+Azorult
+BACKSPACE
+BACKSPACE execute command line infected hosts
+BADCALL
+BADNEWS
+BAT VBS scripts
+BBSRAT
+BIOS device firmware
+BIOS firmware
+BIOS manufacturer information
+BIOS modification
+BIOS version
+BIOS versions manufacturers , number CPU cores , total physical memory , computer name
+BITS Jobs
+BITSAdmin
+BLACKCOFFEE
+BONDUPDATER
+BOOSTWRITE
+BRONZE
+BRONZE BUTLER
+BabyShark
+BadPatch
+Bandook
+Bankshot
+Base64
+Base64 encoding
+Base64 framework called " Dont Kill My Cat
+Base64 obfuscation VBScripts PowerShell commands
+Base64 strings
+Base64-encoded file
+Base64-encoded network protocol
+Bash histories
+Batch file
+Binaries
+Bisonal
+Bisonal 's DLL file non malicious decoy file
+Bitmap images
+BlackEnergy
+BlackEnergy 2
+BlackOasis 's first stage shellcode
+Bluetooth beacon
+Bluetooth devices vicinity
+Bluetooth functionality
+Boot Record
+Borland Delphi , mangle default PE compile timestamp file
+BrainTest
+Briba
+Bytes
+C # code
+C class subnet IPs victim 's interfaces
+C&C communication using Base64
+C2
+C2 IP address Port Number
+C2 address
+C2 addresses
+C2 beacons
+C2 channel
+C2 commands
+C2 communication
+C2 communications
+C2 configuration information
+C2 data
+C2 information
+C2 infrastructure
+C2 instructions
+C2 location
+C2 mechanism similar port knocking
+C2 network communications
+C2 payloads
+C2 response
+C2 response base64-encoded
+C2 responses
+C2 server
+C2 server locations
+C2 server names
+C2 servers
+C2 traffic
+C2 traffic ADVSTORESHELL
+C2 traffic Threat Group-3390 tools
+CAB file
+CAB file gets encoded upon infection
+CAST-128 algorithm
+CCBkdr
+CGGetActiveDisplayList , CGDisplayCreateImage , NSImag methods
+CHM files
+CHM payload
+CHOPSTICK
+CHOPSTICK modules
+CMD process execute commands
+CMSTP malicious INF
+COM hijacking
+COM interface IWebBrowser2
+COM objects
+COM properties
+COM scriptlet
+COM scriptlet dynamically downloaded backdoor injected memory
+COMPRESS technique
+CORESHELL
+CORESHELL C2 messages
+CPU information , OS information , system language
+CPU information Win32_Processor entry
+CPU speed , computer name , volume serial number , ANSI code page , OEM code page identifier OS , Microsoft Windows version , memory information
+CVE-2013 3660 , CVE-2011 2005 , CVE-2010 4398 , could allow local users access kernel level privileges
+CVE-2014 4076 , CVE-2015 2387 , CVE-2015 1701 , CVE-2017 0263
+CVE-2014 6324
+CVE-2015 1701
+CVE-2015 1701 CVE-2015 2387
+CVE-2015 4902
+CVE-2016 4117
+CVE-2016 7255
+CVE-2017 0199 , CVE-2017 8759 , CVE-2017 11882
+CVE-2017 11882 , CVE-2018 0802 , CVE-2012 0158
+CVE-2017 8570 , CVE-2012 1856 , CVE-2014 4114 , CVE-2017 0199 , CVE-2015 1641
+Calisto
+Camellia cipher
+Capture
+Caracachs encryption
+Carbanak
+Carbanak actors
+Carbanak malware
+Carbanak payloads
+Carbon
+Cardinal RAT
+Cardinal RAT watchdog component
+Catchamas
+ChChes
+ChChes samples
+Chaos
+China Chopper
+China Chopper 's client component
+Chinese characters
+Cleaver
+CloudDuke
+Cobalt Group
+Cobalt Strike
+Cobalt Strike module
+CoinTicker
+ComSysApp service
+Commands net group net localgroup
+Commands net use net session
+Commands net user
+Commands net view
+Comnie
+Comodo code signing certificates
+Components
+Confuser protector
+CopyKittens
+CosmicDuke
+CosmicDuke searches
+CozyCar
+CreateProcess
+CreateProcess LoadLibrary calls
+CreateProcessAsUser
+CreateProcessW
+CreateToolhelp32Snapshot
+CredEnumerateA API
+Credentials
+Crimson
+DCCC computer
+DCCC network
+DCOM
+DCShadow module
+DDE
+DDE object
+DDE protocol
+DDKONG
+DES
+DES algorithm
+DES decoding
+DGA
+DGet
+DLL
+DLL Downdelph
+DLL backdoor
+DLL dropper
+DLL file
+DLL file gets executed service using svchost
+DLL files
+DLL functions
+DLL hijacking
+DLL injection
+DLL known SeDll
+DLL loading
+DLL payload
+DLL search order hijacking
+DLL search order hijacking wrapper DLL placed folder explorer loaded startup Windows Explorer process instead legitimate library
+DLL side loading
+DLL side loading malware
+DLLs
+DLLs functions
+DLLs named pipes
+DMG
+DNC network
+DNS
+DNS , IP , proxies
+DNS TXT records
+DNS based blocking communication command control server
+DNS requests UDP port 53
+DNS tunneling
+DOGCALL
+DXE driver
+DYEPACK
+DYEPACK.FOX
+Daniel BohannonÃ¢Â€Â™s Invoke Obfuscation framework
+Dark Caracal
+Dark Caracal 's version Bandook
+DarkComet
+DarkHydrus
+Darkhotel
+Daserf
+Data
+Data SPACESHIP copies staging area
+Data captured RawPOS
+DealersChoice
+Deep Panda
+DeleteFileW API call
+Delphi backdoor
+Denis
+Derusbi
+Derusbi variants
+Destover like variant lists files gathers information drives
+Dipsind
+Dok
+Domain
+Domain Admins , Power Users , Administrators groups
+Domain Fronting
+DownPaper
+Downdelph
+Dragonfly
+Dragonfly 2.0
+Dropbox API
+Dropbox cloud storage service
+Droppers
+Duqu
+Duqu command control
+Dust Storm
+DustySky
+Dynamic Data Exchange protocol
+Dynamic Link Library
+Dyre
+Ebury
+EggShell mach binary
+Elderwood
+Elise
+Emissary
+Emotet
+Empire
+EnumProcesses
+Enumeration
+Epic
+Epic encrypts
+Equation
+EvilBunny
+Excel Web Query
+Excel spreadsheet containing macros download Pupy
+Exchange contents
+Exchange users
+Exfiltration servers
+Expand
+ExplorerÃ¢Â€Â™s Shell_TrayWnd extra window memory
+Extended Attributes
+External Remote Services
+FALLCHILL
+FELIXROOT
+FIN10
+FIN4
+FIN5
+FIN6
+FIN6 actors
+FIN7
+FIN7 malware
+FIN8
+FIN8 's malicious spearphishing payloads
+FLASHFLOOD
+FLIPSIDE
+FTP
+FTP HTTP
+FTP PythonÃ¢Â€Â™s urllib library
+FTP serverÃ¢Â€Â™s directories
+FTPManage method
+FakeM C2 traffic
+FakeTLS
+FakeTLS method
+Felismus
+FinFisher
+Final1stspy
+FireFox , Google Chrome , Internet Explorer
+Firefox passwords
+Flame
+Flash Player update
+FlawedAmmyy
+FlawedGrace
+Forced Authentication
+Forfiles
+Framework assembly
+FruitFly
+Fysbis
+GAL
+GET POST requests HTTP HTTPS command control
+GPO install execute malicious Scheduled Task
+Gallmaker
+Gamaredon Group
+Gaming Z0ne
+Gatekeeper
+Gazer
+Gazer versions
+Georgian military email server
+Get GlobalAddressList cmdlet
+Get PassPol
+GetClipboardData function
+GitHub , Pastebin , Microsoft TechNet
+GlobalAddressList
+Gmail Yahoo Mail
+Gold Dragon
+Google Apps Script
+Google Apps Script , Sheets , Forms services
+Google Chrome , Mozilla Firefox , several browsers
+Google Chrome extension
+Google Doc
+Google Drive
+Google Mail accounts
+Google Search
+Gorgon Group
+Gorgon Group malware
+GravityRAT
+GreyEnergy
+Group Policy
+Group5
+Group5 C2 servers
+H1N1
+HAMMERTOSS
+HAMMERTOSS binaries
+HAMMERTOSS commands
+HAWKBALL
+HISTCONTROL environment variable
+HISTFILE
+HKEY_CURRENT_USER \ Â€ÂvertÃ¢Â€Â = Ã¢Â€Âœrundll32 directory
+HOPLIGHT
+HTML code
+HTML codes
+HTML file
+HTML files
+HTRAN
+HTTP
+HTTP , HTTPS , DNS
+HTTP , HTTPS , FTP , FTPS
+HTTP , HTTPS , SMB
+HTTP , HTTPS , SMTP , DNS
+HTTP , SMTP , POP3
+HTTP / HTTPS
+HTTP C2
+HTTP DNS
+HTTP FTP
+HTTP GET requests
+HTTP HTTPS
+HTTP IRC
+HTTP POST
+HTTP POST requests
+HTTP POSTs
+HTTP SMTP
+HTTP SOCKS proxy
+HTTP SSL
+HTTP TCP port 80 HTTPS TCP port 443
+HTTP malware variant
+HTTP malware variant Port 22 malware variant
+HTTP payloads Base64
+HTTP port 443
+HTTP requests
+HTTP sessions
+HTTP traffic
+HTTPBrowser
+HTTPBrowser 's code
+HTTPBrowser PlugX
+HTTPS
+HTTPS , HTTP , DNS
+HTTPS DNS tunneling
+HTTPS message body
+HWP documents
+Havij
+Helminth
+Helminth samples
+Hermes ransomware
+Hi Zor
+Hidden conceal PowerShell windows setting WindowStyle parameter hidden
+HiddenWasp
+Honeybee
+Honeybee 's service based DLL implant
+Hunter tool
+Hydra
+Hydraq
+Hydraq C2 traffic
+HyperBro
+IAT pointers
+ICMP
+ICMP , TCP , UDP
+ICS related software files
+IMEI , IMSI , SIM card serial number , phone number , Android version , information
+IOS device backups
+IP
+IP address
+IP address , gateways , subnet mask , DHCP information
+IP address , network proxy settings , domain name victim 's system
+IP address DHCP server
+IP address MAC address
+IP address Port Number pair connect C2
+IP address command control server
+IP address domain
+IP address network adapter information
+IP address relevant network information
+IP address victim machine
+IP address victims computers network
+IP addresses compromised machines
+IP addresses local intranet information
+IP based restrictions
+IP network adapter configuration information
+IP ranges
+IP ranges victim network
+IP whitelisting along user account management
+IPv4 TCP connection table
+ISMInjector
+Identity Access Management
+Impacket
+Impacket 's wmiexec module
+Impacket modules like GetUserSPNs
+Impacket modules like ntlmrelayx smbrelayx
+Infected computers
+InnaputRAT variants
+IntelÃ‚ Â® Active Management Technology Serial LAN channel
+Internet
+Internet Explorer process
+Internet Explorer settings
+Internet Information Services
+Inveigh
+InvisiMole
+InvisiMole samples
+Invoke DCOM
+Invoke Obfuscation
+Invoke Obfuscation framework
+Invoke PSImage
+Invoke PSInject
+Invoke RunAs
+It
+Ixeshe
+JCry
+JHUHUGIT
+JHUHUGIT Koadic
+JPIN
+JPIN 's installer / uninstaller component
+JS , VBS , PowerShell scripts
+JScript VBScript
+Jabber / XMPP protocol
+Janicab
+Java VMware executable
+JavaScript
+JavaScript , JavaScript Scriptlets XML , VBScript
+JavaScript VB scripts
+JavaScript backdoor capable launching cmd execute shell commands
+JavaScript backdoors
+JavaScript code
+JavaScript communicates HTTP HTTPS attacker controlled domains
+JavaScript scriptlets
+Javascript based profiler
+Javascript based profiler called RICECURRY
+Jscript code
+KARAE
+KEYMARBLE
+KONNI
+Kasidet
+Kaspersky , BitDefender , MalwareBytes
+Kaspersky , Quick Heal , AVG , BitDefender , Avira , Sophos , Avast ! , ESET
+Kazuar
+Ke3chang actors
+Kerberos Golden Tickets
+Kerberos Ticket Granting Ticket Ticket Granting Service tickets
+Kerberos golden tickets
+Kerberos ticket attacks
+Kerberos tickets
+KeyBoy
+Keychain storage data
+Keydnap
+Kimsuky
+Koadic
+Kwampirs
+LNK file
+LNK files
+LNK shortcuts
+LOWBALL command control
+LSA , SAM table , credential vault , DCSync / NetSync , DPAPI
+LUA = Ã¢Â€Â0Ã¢Â€Â DC3_FEXEC
+LZMA compression
+Later implants CHOPSTICK
+Lateral movement
+Launch Agent
+Launch Daemon plist file
+Lazagne
+Lazarus Group
+Lazarus Group keylogger KiloAlfa
+Lazarus Group malware
+Lazarus Group malware IndiaIndia
+Lazarus Group malware KiloAlfa
+Lazarus Group malware RomeoDelta archives
+Lazarus Group malware SierraAlfa
+Lazarus Group malware TangoDelta
+Leviathan
+LightNeuron
+LinkedIn
+Linux Kernel Module
+Linux OS version
+Linux OS version running
+Linux based databases
+Linux rootkits
+LoadLibrary API
+LoadLibraryExW function
+Local Administrator account
+LockerGoga
+LockerGoga installation
+Logical Disk Manager service
+Lua scripts
+Lurid
+MAC address , IP address , WINS , DHCP server , gateway
+MAC address , computer name , CPU information
+MAC address , computer name , hardware UUID , serial number , operating system version
+MAC address IP address
+MAC address local IP address information
+MAC address target computer
+MAC address victimÃ¢Â€Â™s machine
+MAC addresses
+MBR
+MBR wiper malware
+MD5 , base64-encoding , RC4
+MPRESS packer
+MS10 061
+MS17 101
+MSExchangeIS service
+MSHTA
+Mac address , IP address , network adapter information
+MacSpy
+Machete
+Machete 's collected data
+MacheteÃ¢Â€Â™s collected files
+MacheteÃ¢Â€Â™s downloaded data
+Magic Hound
+Magic Hound malware
+MailSniper
+Malware
+Managed encryption keys
+Many Misdat samples
+Many protections
+Many strings JHUHUGIT
+Master Boot Record victim 's machine
+Matroyshka
+McAfee ePO
+MetasploitÃ¢Â€Â™s shikata_ga_nai encoder
+Meterpreter
+Meterpreter downloader TinyMet
+Meterpreter session
+Meterpreter shell access
+Meterpreter stagers SplinterRAT instances
+Micropsia
+Microsoft , Symantec , Kaspersky , Hewlett Packard , VMWare
+Microsoft API call RtlDecompressBuffer
+Microsoft DLL
+Microsoft Internet Explorer Adobe Flash vulnerabilities
+Microsoft Office Protected View
+Microsoft Office documents victim 's computer
+Microsoft Office vulnerabilities vulnerabilities Adobe Reader Flash
+Microsoft OneDrive
+Microsoft OneDrive account
+Microsoft Windows API
+Microsoft Windows System Event Notification Alerter services
+Microsoft Word
+Microsoft Word documents
+Microsoft administration tool csvde
+Microsoft code signing certificates
+Microsoft database
+Microsoft scriptlets , macros , PowerShell scripts
+MicrosoftÃ¢Â€Â™s CryptoAPI
+MicrosoftÃ¢Â€Â™s DDE protocol
+MicrosoftÃ¢Â€Â™s Equation Editor , Internet Explorer vulnerability , CVE-2017 8570 , CVE-2017 0199 , CVE-2017 8759
+MicrosoftÃ¢Â€Â™s Sysinternals tools
+MicrosoftÃ¢Â€Â™s TechNet Web portal
+Mimikatz
+Mimikatz 's DPAPI module
+Mimikatz , GetPassword_x64 , customized versions Windows Credential Dumper , HookChangePassword , Outlook Credential Dumper
+Mimikatz custom tool , SecHack ,
+Miner C
+MiniDuke
+MirageFox
+Mis Type
+Misdat
+Moafee Procdump
+Modules
+Monero cryptocurrency mining tool
+MoonWind
+More_eggs
+Mosquito
+Mosquito 's launcher
+MosquitoÃ¢Â€Â™s installer
+Most strings ADVSTORESHELL
+Most strings USBStealer
+Mshta
+MuddyWater
+My Recent Documents , Desktop , Temporary Internet Files , TEMP directories
+NBNS Spoofing
+NDiskMonitor
+NETEAGLE
+NOKKI
+NOP
+NSFileManage method
+NSTas method
+NTFS alternate data stream
+NTFS transactions
+NTLM password information
+NanHaiShu
+NanoCore
+NanoCoreÃ¢Â€Â™s plugins
+NavRAT
+Net
+Net Crawler
+NetBIOS Name Service poisoning
+NetCat binary
+NetForestTrust
+NetNTLM credentials
+NetTraveler
+NetUser GetInfo
+New GPOImmediateTask
+New Service
+New services
+Nidiran
+Night Dragon
+Nltest
+Norton Antivirus
+NotPetya
+OAuth access tokens
+OLDBAIT
+OLE object
+OS
+OS X version well current user
+OS information computer name
+OS system , OS version , MAC address , computer name
+OS version
+OS version , CPU type , amount RAM available victimÃ¢Â€Â™s machine
+OS version , UUID , computer / host name
+OS version , UUID , computer / host name send C2 server
+OS version , architecture , etc
+OS version , computer name serial number
+OS version , country name , MAC address , computer name , physical memory statistics , volume information
+OS version , hardware information , computer name , available system memory status , disk space information , system user language settings
+OS version , service pack information , processor speed , system name , OS install date
+OS version , well information system configuration , BIOS , motherboard , processor
+OS version computer name
+OS version hardware configuration
+OS version information registered owner details , manufacturer details , processor type , available storage , installed patches , hostname , version info , system date , system information
+OSX_OCEANLOTUS.D
+OWA account credentials
+Obfs3 , pluggable transport ,
+OceanSalt
+Office , PDF , HWP documents
+Office , PDF , image , audio , video , source code , archive / compression format , key certificate files
+Office Test persistence mechanism
+OilRig
+OilRig malware ISMAgent
+Oldrea
+Olympic Destroyer
+One HTTPBrowser variant
+One RedLeaves variant
+One persistence mechanism
+One technique
+One variant BlackEnergy
+One version Helminth
+OnionDuke
+OopsIE
+OpenClipboard GetClipboardData libraries
+OpenSSH process
+OpenSSL
+Orangeworm
+Orz
+Other types virtualization application microsegmentation
+Outlook Express , Outlook , Internet Explorer , Firefox
+Outlook Web Access
+Outlook authentication messages
+Outlook files
+Outlook files directories
+Outlook passwords
+OwaAuth
+PAM
+PDF , Excel , Word documents
+PDF attachments
+PDF data
+PE binary
+PE file
+PE timestamps
+PLAINTEE
+PLATINUM
+PNG files
+POORAIM
+POSHSPY
+POST GET requests HTTP
+POWERSOURCE
+POWERSTATS
+POWERTON
+POWRUNER
+PRGA generated key stream
+PROPERTY = VALUE pair
+PROPERTY = VALUE pair containing 56-bit encryption key
+PUNCHBUGGY
+PUNCHTRACK
+Pass Ticket
+Pastebin
+Patchwork
+Patchwork payloads
+Perl Python scripts
+Perl scripts
+Persistence
+PinchDuke 's credential stealing functionality
+Ping
+PittyTiger
+PlugX
+PlugX persists system delivered another payload onto system
+PoS malware
+PoS systems
+PoisonIvy
+Port 22 malware variant
+Port Number 443
+Port Number 8080
+Port Numbers 443 , 8443 , 8080
+Port Numbers 443 80
+Port Numbers 80 , 8080 , 8000 , 443
+PoshC2
+PowerDuke
+PowerShell
+PowerShell , VBS , JavaScript
+PowerShell , python , shellcode scripts
+PowerShell 3.0
+PowerShell C # based keylogger
+PowerShell Empire
+PowerShell Remove Item commands
+PowerShell Scripts
+PowerShell VBS scripts
+PowerShell WMI
+PowerShell based keylogger
+PowerShell based tools , PowerShell one liners , shellcode loaders
+PowerShell code
+PowerShell command
+PowerShell command Reflection . Assembly
+PowerShell command decode file contents
+PowerShell commands
+PowerShell commands payloads
+PowerShell components
+PowerShell filenames Office365DCOMCheck.ps1 SystemDiskClean.ps1
+PowerShell loops
+PowerShell one liner
+PowerShell payloads
+PowerShell profiles
+PowerShell remoting
+PowerShell script
+PowerShell script Excel
+PowerShell script decodes typical shellcode loader
+PowerShell scripts
+PowerShell scripts loaded system
+PowerShell shell command
+PowerShell window downloads payload
+PowerShell windows
+PowerShells scripts download Pupy
+PowerSploit
+PowerSploit 's Find AVSignature AntivirusBypass module
+PowerSploit 's Get ProcessTokenGroup Privesc PowerUp module
+PowerSploit 's Install SSP Persistence module
+PowerSploit 's Invoke TokenManipulation Exfiltration module
+PowerSploit 's New UserPersistenceOption Persistence argument
+PowerSploit modules
+PowerStallion
+PowerView
+PowerView Pywerview
+Powershell
+Prikormka
+Privesc PowerUp modules
+Privilege Escalation opportunities
+Process Hollowing regsvr32
+Proton
+Proxysvc
+PsExec
+Pteranodon
+Pth module
+PuTTY credentials
+PubPrn
+Pupy
+Putty
+Putty Secure Copy Client
+Putty VNC
+Python
+Python 2.7
+Python VBS scripts
+Python batch scripts
+Python code
+Python script
+Python scripts
+QUADAGENT
+RAM
+RAR
+RAR , WinImage , zip archives
+RAR archive
+RAR archive based collected files victim 's machine
+RAR archive targeted files exfiltration
+RAR archives
+RAR file
+RAR files
+RAR files exfiltration parts
+RAR tool recursively archive files based predefined list file extensions
+RARSTONE
+RAT
+RAT remain dormant set date , could allow means regain access parts actors ' toolset removed victim
+RATANKBA
+RC4
+RC4 Base64
+RC4 XOR
+RC4 algorithm
+RC4 base64
+RC4 encrypted configuration information
+RC4 encryption
+RC4 encryption AES
+RC4 key
+RC4 methods
+RC4-based encryption method
+RC5
+RDFSNIFFER
+RDP
+RDP access
+RDP backdoors
+RDP connection
+RDP connections
+RDP control
+RDP credentials
+RDP login screen remote systems
+RDP sessions
+RDP traffic
+RGDoor
+RIPTIDE , RAT uses HTTP communicate
+ROKRAT
+RPC interface information
+RPM package
+RSA
+RSA AES , including Office , PDF , image , audio , video , source code , archive / compression format , key certificate files
+RSA OAEP MGF1
+RSA keys
+RSA-2048 encryption
+RSS feed Livejournal
+RSS feeds , Github , forums , blogs
+RTM
+RTM samples
+RTM strings , network data , configuration , modules
+Rancor
+RawDisk
+RawPOS
+Reaver
+RedLeaves
+RedLeaves implant
+Reg
+Regin
+Regin stage 1 modules 64-bit systems
+Registry
+Registry Run RunOnce keys
+Registry Run key
+Registry Run key value
+Registry Run keys
+Registry entries
+Registry entries file paths
+Registry entry
+Registry entry modifying Logical Disk Manager service point malicious DLL dropped disk
+Registry entry vpdn Ã¢Â€Âœdirectory
+Registry ke Windows
+Registry key
+Registry key HKU\\ Ru
+Registry key Perf
+Registry key Run
+Registry key Settings
+Registry key Winlogon
+Registry key logon script
+Registry key rundll32 . open
+Registry key scheduled task
+Registry key Ã¢Â€Â˜ Session Â€Â™
+Registry keys
+Registry keys , sub keys , values
+Registry keys persistence [ HKLM|HKCU
+Registry keys used persistence
+Registry keys values
+Registry option PowerShell Empire
+Registry persistence
+Registry settings
+Registry subkey
+Registry subkey registers new service
+Registry system
+Registry value
+Registry values
+Registry values , keys , data
+Regsvr32
+Remcos
+Remexi
+Remote Desktop Protocol
+Remote Desktop Protocol lateral movement
+Remote Desktop Protocol persistence
+Remsec
+Responder
+Responses Pisloader C2 server
+Revenge RAT
+Rijndael cipher
+Risks additional exploits weaknesses systems
+RobbinHood
+Robocopy
+RogueRobin
+RogueRobin base64
+RomeoWhiskey Two
+Ruler
+Run Registry keys
+Run key
+Run keys
+Rundll32
+Rundll32 process
+RunningRAT
+S Type
+S4U tasks well Scheduled Task option
+SAM / SECURITY hive
+SAM database
+SD card size , installed app list , SMS content , contacts , calling history
+SDelete
+SEAL encryption
+SHIPSHAPE malware
+SHOTPUT
+SHUTTERSPEED
+SID History
+SID History Injection
+SID user / group account
+SIDs
+SLOWDRIFT
+SMB
+SMB URLs
+SMBiosData Registry key
+SMTP
+SMTP , FTP , HTTP
+SMTP / S POP3/S
+SOAP Web service
+SOCK5 proxies
+SOCKS
+SOCKS proxy server
+SOCKS proxy threads
+SOCKS5
+SOCKS5 connection 192.157.198[.
+SOCKS5 connections two separate IP addresses TCP port 1913 TCP port 81
+SPACESHIP
+SQL
+SQL , VBS JavaScript scripts
+SQL injection
+SQL injection attacks extranet web servers
+SQLRat
+SSH based tunnels
+SSH server listening port 22
+SSH tunnels
+SSH tunnels C2 servers
+SSL
+SSL / TLS RC4
+SSL AES ECB
+SSL TLS
+SSL code
+SSL decryption ineffective
+SSL man middle decryption attacks
+SSP DLL
+SVCHOST process
+SWIFT messages en route printer
+SYN flood attack
+SYSTEM token
+Sakula
+SamSam
+SchTasks
+Scheduled Task
+Scheduled Task named " Microsoft Boost Kernel Optimization "
+Screen Capture
+SeaDuke
+SeaDuke C2 traffic
+Seasalt
+SecretsDump CrackMapExec , tools dump password hashes
+SecureCRT , Terminal Services , RealVNC , TightVNC , UltraVNC , Radmin , mRemote , TeamViewer , FileZilla , pcAnyware , Remote Desktop
+Security Accounts Manager DLL
+Security applications
+Security applications look behavior used exploitation Windows Defender Exploit Guard Enhanced Mitigation Experience Toolkit
+Security event
+ServHelper
+Server side Request Forgery attacks allow access Cloud Instance Metadata API
+Service Control Manager
+Service Principal Names user accounts
+ServiceDLL entry service 's Registry entry
+Several BRONZE BUTLER tools
+Several Lazarus Group malware families
+Several commands
+Several tools
+Several tools used Suckfly
+Shamoon
+SharePoint enumeration data dumping tool
+SharePoint enumeration data dumping tool known spwebmember
+Shell value
+Shift key
+Silence
+Silver Golden Tickets
+Skeleton Key
+Skeleton Key domain controller authentication bypass functionality
+Skype API
+SmartAssembly obfuscator
+Smoke Loader
+SniffPass
+Socksbot
+Soft Cell
+Some
+Some Daserf samples
+Some FinFisher variants
+Some MiniDuke components
+Some Orz strings
+Some Volgmer variants
+Some ZeroT DLL files
+Some data
+Some data Remsec
+Some malware
+Some resources Prikormka
+Some strings HOMEFRY
+Some variants
+Some variants Cherry Picker
+Some versions CozyCar
+South Korea 's Daum email service
+Sowbug
+SpeakUp
+Spearphishing Link Spearphishing Attachment
+SslMM
+Starloader
+Start Menu Startup directory
+Startup path
+Stealth Falcon malware
+Sticky Keys binary directory
+Sticky Keys replacement
+Stolen Pencil victims
+StoneDrill
+Storage devices
+StreamEx
+Strider
+Such defenses
+Suckfly
+Sykipot
+SynAck
+SynAck payloads
+Sys10
+Sysinternals
+Sysmon
+System manufacturer value
+Systeminfo
+T9000
+TA459
+TA505
+TAR RAR
+TCP
+TCP 443 " adp "
+TCP UDP
+TCP UDP connections
+TCP UDP network connections associated processes
+TCP connection socket
+TCP connection status
+TCP connections
+TCP port 1913
+TCP port 21
+TCP port 443
+TCP port 587
+TCP port 80
+TCP port 8080
+TCP socket connections
+TDTESS
+TEMP.Veles
+TEXTMATE Cobalt Strike Beacon payload
+TINYTYPHON
+TLS
+TLS encrypted FTP
+TRINITY malware
+TRINITY malware used FIN6
+TURNEDUP
+TYPEFRAME
+Task
+TaskScheduler DLL
+Tasklist
+TeamViewer
+TeamViewer client
+Technet Pastebin web pages
+Template Injection
+The " ZJ " variant BACKSPACE
+The ASPXTool version
+The ASPXTool version used Threat Group-3390
+The Axiom group
+The Bat
+The BlackEnergy 3 variant
+The C2 protocol
+The C2 server
+The Carbanak malware
+The CozyCar configuration file
+The Deep Panda
+The Duqu command control protocol 's data stream
+The Hash
+The Helminth config file
+The JHUHUGIT dropper
+The Ke3chang group
+The KilaAlfa keylogger
+The Komplex C2 channel
+The Komplex payload
+The Komplex trojan
+The Mimikatz credential dumper
+The NETWIRE client
+The PowerShell script RogueRobin payload
+The Regin malware platform
+The Remsec loader
+The White Company
+The default file types
+The different components Machete
+The group
+The group 's backdoor
+The net accounts net accounts directory commands Net
+The net start command
+The net start net stop commands
+The net time command
+The net use \ directory command
+The net user username \password net user username \password \domain commands Net
+The net view \remotesystem net share commands Net
+The original variant FakeM
+The output
+The payload CozyCar
+The payload malicious driver
+The remote host
+The selection target process
+The string Ã¢Â€Â˜488Ã¢Â€Â™
+The sudoers file
+These credentials
+They
+This
+This feature
+This file
+Threat Group-3390
+Threat Group-3390 actors
+Threat Group-3390 malware
+Timestomping
+Tiny Encryption Algorithm
+TinyZBot
+Tools
+Tools used Gamaredon Group
+Tor
+Tor clients
+Tor clients dropped disk
+Tor hidden service forward traffic Tor client local ports 3389 , 139 , 445 enabling full remote access outside network
+Tor network
+Tor relays
+Traffic traversing Tor network
+TrickBot
+Trojan
+Trojan . Mebromi
+Trojan called KEYLIME
+Tropic Trooper
+Truvasys
+Turla
+Turla RPC backdoors
+Twitoor
+Twitter
+Twitter accounts
+UAC
+UAC bypass
+UAC bypass tool privilege escalation
+UAC protections
+UBoatRAT
+UDP port 53
+UEFI BIOS rootkit
+UEFI rootkit
+UPPERCUT
+UPX
+UPX MPRESS
+UPnP ports
+URL
+URL / Percent Encoding
+URL links
+URL matching one list strings
+URL parameter
+URL shortener service
+URLs hosting malware , CMD arguments , PowerShell scripts
+USB
+USB device
+USB devices
+USB drive
+USB drives
+USB files
+USB mass storage device
+USB sticks
+USBStealer
+Umbreon
+Unicode break space character
+Unknown Logger
+Ursnif
+Ursnif droppers
+User Access Control
+User Execution
+VBA macros
+VBA macros PowerShell
+VBR
+VBS , VBE , batch scripts
+VBS GO scripts
+VBS JavaScript files
+VBS PowerShell scripts
+VBS file
+VBS scripts
+VBScript
+VBScript , PowerShell , JavaScript code
+VBScript JavaScript files
+VBScript named " ggldr " uses Google Apps Script , Sheets , Forms services C2
+VBScripts
+VBScripts batch scripts
+VERMIN
+VMware tools
+VNC
+VNC based remote desktop server
+VNC credentials
+VNC server software
+VNC server software executes rundll32
+VPN
+VPN access third party service provider targeted payment service
+VPN access victim environments
+VPN accounts
+VPN certificate
+VPN profiles
+VPNs
+VPNs Outlook Web Access
+Valid Accounts
+Various Remsec files
+Virtual PC , Sandboxie , VMware
+Visual Basic Scripts , JavaScript code , batch files , .SCT files victim machines
+Visual Basic script
+Volgmer
+Volume Shadow Copy
+W32Time DLLs
+WH_CBT Windows hook
+WH_CBT Windows hook search capture files victim
+WIRTE
+WMI
+WMI classes
+WMI debugging
+WMI event filters
+WMI event filters consumers
+WMI event subscription
+WMI events
+WMI queries
+WMI query SELECT * FROM MSAcpi_ThermalZoneTemperature
+WMI query disk drive name , BIOS , motherboard information
+WMI script
+WMIC
+WM_DEVICECHANGE window message
+WTSQueryUserToken
+WannaCry
+Web
+Web Application Firewall
+Web content
+Web servers
+Web servers enterprise network
+Web shell
+Web shells
+Web shells HTRAN
+Web shells publicly accessible Web servers
+WebDAV
+WhiskeyBravo
+Win32 API
+Win32 API call GetAdaptersInfo
+Win32 API call GetComputerName
+Win7Elevate
+WinExec
+WinINet HTTP requests
+WinMM
+WinRAR
+WinRAR 7-Zip
+WinRM
+WinSCP
+WinZip
+Window Event
+Window Event logs Sysmon logs
+Window admin shares
+WindowStyle parameter
+Windows
+Windows ' hidden network shares
+Windows API
+Windows API call , CreateProcessA ,
+Windows API call , CreateProcessW ,
+Windows API call CreateProcessW
+Windows API function CreateProcess
+Windows APIs
+Windows Admin Shares
+Windows Adobe Reader software
+Windows Authentication Packages
+Windows Bluetooth APIs
+Windows Credential Vault , Internet Explorer , Firefox , Chrome , Outlook
+Windows Credentials currently logged users
+Windows DDE
+Windows DLL load order
+Windows Defender
+Windows Event Logs
+Windows Explorer process
+Windows Firewall
+Windows Firewall victimÃ¢Â€Â™s machine
+Windows Keyboard Accelerators
+Windows Management Instrumentation
+Windows Management Instrumentation Command line application wmic
+Windows PE file
+Windows Registry
+Windows Script Components
+Windows Script Host
+Windows Services
+Windows Shortcuts and/or Microsoft Office documents
+Windows UAC
+Windows User Account Control
+Windows Vault mechanism
+Windows account
+Windows account hashes , domain accounts , LSA secrets
+Windows admin account
+Windows admin shares
+Windows antimalware products
+Windows backup catalog Windows Automatic Repair
+Windows call SetWindowsHookEx
+Windows command " cmd " directory whoami
+Windows command line
+Windows command prompt commands
+Windows command shell
+Windows credentials
+Windows cryptographic application programming interface functions
+Windows domain membership information
+Windows event logs
+Windows firewall
+Windows hook
+Windows hook interfaces
+Windows logon password details
+Windows malware
+Windows password hashes
+Windows password hashes LSA secrets
+Windows service
+Windows service named wsmprovav
+Windows services
+Windows services execute encoded PowerShell commands
+Windows services typically named " javamtsup "
+Windows shares
+Windows shell script
+Windows shortcut
+Windows shortcut file
+Windows systems
+Windows tasks
+Windows update
+Windows vulnerabilities
+Wine cmd code
+Winexe
+Wingbird
+Wininet API
+Winnti
+Winnti Group
+Wiper malware
+Word
+Word , Excel and/or HWP documents
+Word document
+Word documents
+Word documents server
+Word file containing Base64-encoded file
+WordPress blogs
+XAgentOSX
+XML file
+XOR
+XOR + RSA-2048
+XOR / ADD cipher
+XOR 0x1 loop
+XOR RC4
+XOR cipher
+XOR encoded section
+XOR encoding
+XOR encryption
+XOR key
+XOR operation
+XOR strings
+XSL script parameter vShow
+XSL stylesheet
+XTunnel
+Xbash
+Yahoo users
+Yahoyah
+YouTube video downloader application
+ZIP
+ZLIB compressed data
+ZLIB library
+ZLib
+ZPP , .NET console program ,
+Zebrocy
+Zebrocy 's Delphi variant
+ZeroT
+ZeroT shellcode
+Zeus Panda
+Zlib compression
+ZxShell
+ability create hide users
+ability upgrade replace binary
+abuse Outlook Rules , Forms , Home Pages
+access
+access Cloud Instance Metadata API
+access DCCC network
+access Internet accessible resources Outlook Web Access , could used redundant access
+access Windows Registry , used gather information
+access across waves compromise
+access additional systems enterprise network resources
+access control lists
+access email boxes additional targeted accounts
+access intended malware sample , day 's tweet , image file containing command
+access keys
+access network
+access resources cloud storage APIs
+access server
+access services running victim , RDP
+access storage solutions
+access system
+access systems
+access target email accounts , including Gmail Yahoo Mail
+access target systems
+access tokens
+access victim environment
+access victim environments
+access victim machines
+access victim network
+access victim networks
+access victim systems
+accessible physical logical drives infected machine
+account
+account discovery
+account hashes
+account information
+account listings victim
+account name logged user
+account names
+account password information
+account passwords
+accounts
+accounts , support_388945a0
+accounts system
+accounts victims , including administrator accounts , appeared tailored individual staging target
+actions
+active RDP sessions
+active TCP connections local system
+active TCP connections network statistics
+active local network connections
+active logon session password hashes
+active network connections
+active processes
+active processes running victimÃ¢Â€Â™s machine
+active screen victimÃ¢Â€Â™s machine
+active windows
+active windows machine
+actors behind ransomware manually copying files form computer computer instead self propagating
+actors spawn reverse shell victim
+adapter configuration
+add feature
+add scheduled task establish persistence
+add shortcut file Startup folder achieve persistence
+adding downloaded payload key maintain persistence
+additional access
+additional code
+additional commands
+additional components
+additional file
+additional files
+additional frameworks
+additional information
+additional malware
+additional modules
+additional payloads
+additional scripts
+address C2 server
+address book information
+admin shares
+admin@338
+admin@338 actors
+administrative access
+administrative panels
+administrative privileges
+administrative shares C$ ADMIN$.
+administrative users DC servers
+administrator accounts
+administrators environment
+administratorÃ¢Â€Â™s account
+advantage
+adversaries bypass standard authentication system use defined password accounts authenticating domain controller
+adversaries enumerate modify infected host 's file system
+adversaries execute shell commands infected host
+adversaries modify way " beacon " payload communicates
+adversaries search files
+adversary access privileged accounts access necessary replace system firmware
+adversary use proxy credentials subsequent requests enable outbound HTTP access
+algorithm
+allow penetration test team mimic known APT C2 methods
+already opened channel
+alternate data stream
+alternate data stream named kernel32
+alternate data streams
+alternative base64+RC4 Caesar cipher
+alternative instructions
+analysis
+analysis and/or reverse engineering
+analysis attack difficult
+analysis command protocol wire
+analysis difficult
+analysis processes
+another
+another dropper
+another layer encryption
+another malicious file
+another malicious file delivered victim
+another payload
+another process
+another server
+another utility
+anti VM checks
+anti analysis checks
+anti malware processes
+anti malware programs
+anti malware services
+anti malware software researchers
+anti malware strings anti virus processes running system
+anti virus
+anti virus , anti spyware , firewall products
+anti virus , anti spyware , firewall products installed victimÃ¢Â€Â™s environment
+anti virus anti spyware tools
+anti virus detection
+anti virus found victim
+anti virus installed infected system
+anti virus processes
+anti virus product
+anti virus products
+anti virus products installed victimÃ¢Â€Â™s machine
+anti virus software
+anti virus software firewall products
+anti virus software firewall products installed victimÃ¢Â€Â™s machine
+anti virus software installed system
+anti virus software running system
+antimalware processes
+antimalware running process
+antivirus software
+antivirus tools
+anything sudoers file
+appcmd
+appear like legitimate Windows services , names " Windows Management Help Service " , " Microsoft Support " , " Windows Advanced Task Manager "
+application
+application check performance USB flash drives
+application context
+application defined Windows hook
+application script / file
+application shim databases
+application windows
+applications
+applications installed
+applications masquerading " Google Defender " " Google Email Protection , " " Google Scanner " Gmail users
+applications ports
+applications ports Windows firewall
+appropriate change management
+apps
+arbitrarily sized portions disk content
+arbitrary commands
+archive
+archive file types interest victim user 's directories
+archive stolen data
+archives
+archives containing LNK files , password protected archives containing executables
+arp -a , nbtstat -n , nbtscan , net config commands
+arp -a command
+artifacts
+asking victim pay ransom
+assembly
+attachment file names
+attachment names
+attachments
+attack traffic
+attempting get user open links attachments , including , limited , malicious Microsoft Word documents , , files
+attrib + h
+attrib + h icacls
+audio
+audio capture
+audio captures
+audio capturing utility
+audio feeds
+audio victim machine
+audio video calls
+authenticated sessions remote systems SMB
+authentication
+authentication events
+authentication portals
+authentication window users enter credentials
+author modified code try hide DDE object different part document
+automated analysis emulators sandboxes
+automated collection
+automated screenshots infected machine
+automated scripts
+automatic execution every system startup
+automatically relaunching forwarding mechanisms recurring intervals
+autorun
+autorun file
+autostart Registry key
+available NetBIOS name servers
+available NetBIOS name servers network
+available drives victim 's machine
+available services system
+back C2 infrastructure
+backconnect module tunneling network traffic victim 's computer
+backdoor
+backdoor 's configuration
+backdoor , QUICKRIDE ,
+backdoor HTTP
+backdoor accounts
+backdoor command control channel
+backdoor file
+backdoor files
+backdoor known BADFLICK capable generating reverse shell
+backdoor macro
+backdoor payload
+backdoor port 443
+backdoor remote attackers adjust token privileges
+backdoor remote attackers change C2 servers
+backdoor remote attackers change frequency compromised hosts contact remote C2 infrastructure
+backdoor remote attackers clear system event logs
+backdoor remote attackers create service
+backdoor remote attackers delete files
+backdoor remote attackers download files
+backdoor remote attackers download files onto compromised host
+backdoor remote attackers download files onto compromised hosts
+backdoor remote attackers inject files running processes
+backdoor remote attackers list contents drives search files
+backdoor remote attackers load call DLL functions
+backdoor remote attackers obtain data local systems
+backdoor remote attackers open command line interface
+backdoor remote attackers read data files
+backdoor remote attackers retrieve IP addresses compromised machines
+backdoor remote attackers retrieve files
+backdoor remote attackers retrieve information computer name , OS version , processor speed , memory size , CPU speed
+backdoor remote attackers retrieve information hostname free disk space
+backdoor remote attackers retrieve list running processes
+backdoor remote attackers retrieve lists files
+backdoor remote attackers retrieve lists running processes
+backdoor remote attackers retrieve system information
+backdoor remote attackers retrieve system information , CPU speed , Registry keys
+backdoor remote attackers start remote shell
+backdoor remote attackers steal system information
+backdoor remote attackers upload files
+backdoors
+backdoors custom communications protocol
+backdoors downloaders
+backup RDP tunnel
+backup web shells
+backups
+backward compatibility setting
+base directory contains files folders collected
+base64
+base64 encoded C2 communications
+base64 encoded PowerShell commands
+base64 encoded document
+base64 encoded document embedded VBS script
+base64 encoded payload
+base64 gzip compression
+base64-encoded PowerShell commands
+base64-encoded assembly
+base64-encoded commands files
+base64-encoded content
+base64-encoded content contained dropper document attached email
+base64-encoded files victims
+base64-encoded strings
+bash script
+bash scripts
+basic commands
+basic obfuscation form spaghetti code
+batch file
+batch file configures ComSysApp service autostart
+batch file mechanism
+batch file modifies Registry keys launch DLL svchost process
+batch files
+batch script
+batch script adds Registry Run key
+batch script execute set commands command prompt
+batch script uses rundll32 execute DLL payload
+batch scripting
+batch scripts
+batch scripts binaries
+battery status
+beacon
+beacons
+behavior
+binaries
+binaries hidden inside certificate files Base64 information
+binaries like sethc , Utilman ,
+binary
+binary padding
+binary shellcode loader
+bitwise NOT XOR operations
+blend
+blob
+blocking
+blogpost
+blogs WordPress
+branding
+browser attacks
+browser data
+browser password grabber modules including Mimikatz
+browser pivoting
+browser root certificates
+browser usernames passwords
+browser web socket client
+browsing history
+browsing history , cookies , plug information
+brute force attack
+brute force attacks
+brute force password guessing
+brute force password hashes able leverage plain text credentials
+brute force techniques
+brute forcing
+build identifier well victim hard drive information
+built modules
+bypass UAC escalation privileges
+bypass Windows antimalware products
+bytes
+cached credentials
+cached password hashes
+cacls
+capability modify " beacon " payload eliminate known signatures unpacking methods
+captured credential information
+cat directory | grep -c Ã¢Â€Âœcpu familyÃ¢Â€Â 2>&1 command
+certain Registry keys
+certain applications
+certain applications present , including SecureCRT , Terminal Services , RealVNC , TightVNC , UltraVNC , Radmin , mRemote , TeamViewer , FileZilla , pcAnyware , Remote Desktop
+certain attributes creation / modification timestamps
+certain detection tools
+certain extensions
+certain extensions defined list
+certain extensions names
+certain file extension
+certain files
+certain information
+certain keywords list obtained C2 text file
+certain operating system artifacts
+certain types files / directories
+certain values
+certificate
+certificate originally used Hacking Team
+certificates
+certificates cookies
+certutil
+certutil -decode
+certutil BITSAdmin
+certutil command
+channel
+character insertion obfuscation technique
+character replacement , PowerShell environment variables , XOR encoding
+child processes
+chunks
+cipher
+class
+class named MMDeviceEnumerator
+cleanup activities
+cleanup module
+clear text credentials
+clear text value
+click " enable content " button execute payload system
+click image document drop malware disk
+client IP address
+clientID
+clientID file
+clipboard contents
+clipboard data
+clipboard pastes
+clipboard pastes collect
+cloud based remote access software
+cloud based remote access software called LogMeIn
+cloud based services
+cloud resources
+cloud storage APIs Cloud , Box , Dropbox , Yandex
+cmd
+cmd directory
+cmd reverse shell
+code
+code clear event logs
+code compress files
+code delete files victimÃ¢Â€Â™s machine
+code execution
+code execution part
+code injection
+code obfuscation
+code open copy data clipboard
+code signing certificates
+collect passwords browsers
+collected data
+collected file
+collected files
+collected files ' path
+collection
+collection CodeExecution modules enable injecting code reflectively loading Windows PE file process
+collection Exfiltration modules access data local files , volumes , processes
+collection Exfiltration modules harvest credentials Group Policy Preferences , Windows vault credential objects , using Mimikatz
+collection Privesc PowerUp modules discover replace / modify service binaries , paths , configs
+collection ScriptModification modules compress encode scripts payloads
+combination NTWDBLIB cliconfg
+comman net start > > directory
+command
+command + history
+command certutil -decode
+command cmd directory netsh firewall add portopening TCP 443 " adp "
+command cmstp directory directory directory
+command collect exfiltrate emails Outlook
+command collect information anti virus software victim
+command collect victim MAC address LAN IP
+command collect victim PC name operating system
+command compile archive file types interest victim user 's directories
+command containing * * x.
+command control
+command control URLs
+command control infrastructure
+command control protocols like HTTP HTTPS
+command control traffic
+command download execute file remotely hosted URL using WinINet HTTP requests
+command download run executable
+command execution
+command ipconfig -all nbtstat -n , nbtstat -s
+command ipconfig directory
+command line
+command line access
+command line arguments
+command line comman
+command line functions
+command line interaction
+command line interface
+command line interface reverse shell
+command line interfaces
+command line rundll32
+command line shell
+command line shells
+command line tunneler , NACHOCHEESE ,
+command list processes
+command ls directory | egrep -e"fedora*|debian*|gentoo*|mandriva*|mandrake*|meego*|redhat*|lsb-*|sun-*|SUSE*|release
+command net localgroup administrators
+command net start
+command net start victim
+command net time \ ip address
+command net view directory
+command netstat -nao
+command output
+command perform screen captures
+command prompt
+command query user
+command reg add Ã¢Â€Âœ WinlogonÃ¢Â€Â
+command reg query Ã¢Â€Âœ Â€Â.
+command shell
+command shell interface executing commands
+command systeminfo
+command terminal
+command traffic
+command Ã¢Â€Âdirectorydirectory directory directory DAILY directory 12:00 directory MicrosoftEdge directory Ã¢Â€Âœdirector Ã¢Â€Â.
+commands
+commands / scripts
+commands SSH well
+commands control server
+commands custom backdoors
+commands discovery
+commands download payloads , traverse compromised networks , carry reconnaissance
+commands enumerating host
+commands files
+commands identify hostÃ¢Â€Â™s IP address find network configuration settings viewing connected sessions
+commands ipconfig directory arp -a route print
+commands list files directories , well search files matching certain extensions defined list
+commands net group Exchange Trusted Subsystem directory net group domain admins directory
+commands net localgroup , net user , net group
+commands net localgroup administrators net group " Domain Controllers " directory
+commands net localgroup administrators net group " REDACTED " directory specific permissions groups
+commands net start tasklist
+commands netsh advfirewall firewall
+commands netsh interface show
+commands nltest directory
+commands payload
+commands second victim
+commands stolen data
+commands systeminfo , net config workstation , hostname , ver , set , date directory
+commands systeminfo net config workstation
+commingling legitimate traffic communications traffic network streams appear legitimate
+commmands
+common binary packers UPX Aspack
+common function
+common methods
+common ports 80 443
+common software Skype , Telegram , Steam
+common system information
+commonly used ports
+commonly used ports 443 , 53 , 80 , 25 , 8080
+communicating non standard ports , including 7080 50000
+communicating uncommon TCP ports , including 1177 8282
+communication
+communication C2 server
+communications
+communications payload
+communications primary command control server
+companies
+company Hacking Team
+compilation timestamp
+compiled HTML file contained command download run executable
+compiled HTML files
+complete contents ' Pictures ' folder
+component
+component based code VNC stream live feed desktop infected host
+components
+components ' outputs
+components disk structure like MBR disk partitions
+compressed encrypted RAR files containing exfiltration
+compression
+compromise cleanup
+compromised VPN accounts
+compromised WordPress blogs
+compromised account
+compromised accounts
+compromised and/or spoofed email accounts
+compromised credentials
+compromised host
+compromised networks
+compromised system
+compromised systems
+computer
+computer files
+computer name
+computer name , BIOS model , execution path
+computer name , OS version , default language identifier
+computer name , OS versioning information , OS install date
+computer name , RAM used , operating system version
+computer name , language settings , OS version , CPU information , disk devices , time elapsed since system start
+computer name , serial number main disk volume , CPU information , Microsoft Windows version ,
+computer name , system manufacturer , IsDebuggerPresent state , execution path
+computer name host name compromised system
+computer name information
+computer name victim 's system
+computers
+concealed payloads
+concurrent Remote Desktop Protocol
+configuration
+configuration data
+configuration data modules
+configuration files
+configuration files commands
+configuration information
+configuration settings AES RC4
+connect Windows shares lateral movement using generated list usernames , center around permutations username Administrator , weak passwords
+connected USB devices
+connected devices
+connected network shares
+connected sessions
+connected webcam
+connection
+connection 192.184.60[.
+connection proceed
+connection test
+connections
+connections networks
+contact C2 server TCP using port 80
+container images
+container images signed trusted sources
+containing links domains controlled threat actor
+content
+content desktop
+content malicious attachments
+content operation
+content trust models require container images signed trusted sources
+contents
+contents directory
+contents drives
+contents file storing base64 encoded payload
+contents folders victim
+continued access via RDP
+control mouse keyboard
+control using Cobalt Strike module
+control victimsÃ¢Â€Â™ machines
+controls
+cookie values
+cookie values Base64-encoded
+cookies
+copies
+copy OpenSSL library encrypt C2 traffic
+copy cmd
+copy files network shares computers move laterally
+copy infected system 's rundll32 executable
+copy infected system 's rundll32 executable moved malware 's install directory renamed according predefined configuration file
+copy local lsass file
+copy lsass
+copy rundll32
+copy tor2web proxy
+copy victim 's Active Directory database
+copying files
+core Windows OS files
+correct Startup path
+correct Startup path use persistence
+crackable ticket hashes
+create custom Python scripts perform tasks offline sandbox detection , adding persistence , etc
+created accounts
+creating new services maintain persistence
+creating new session
+creation time kernel32
+credential
+credential dumping
+credential dumping tools
+credential dumping tools Mimikatz LaZagne
+credential information
+credential logger
+credential objects
+credential stealer
+credential stealer known ZUMKONG harvest usernames passwords stored browsers
+credentials
+credentials belonging domain database servers
+credentials keystrokes
+credentials later used lateral movement
+credentials passed HTTP , SMTP , SMB
+credentials passwords
+credentials stolen spearphishing email
+credentials stored compromised machines
+credentials stored files host various software programs , including The Bat
+credentials stored inside Internet Explorer
+credentials stored web browsers
+credentials used part Windows NTLM user authentication
+credentials victim
+critical values
+cron job
+cron tasks
+cronjob
+crontab
+crypto key information
+crypto key information stored Registry
+cryptocurrency mining software
+cryptocurrency ransom
+cryptocurrency ransom paid
+cryptographic keys certificate file extensions
+curl , set quarantine flag
+current IP address
+current NetBIOS sessions
+current content user clipboard
+current date time victim machine
+current date time zone information
+current date victim system
+current desktop
+current directory name well size file
+current domain information
+current domain victim system belongs
+current execution path
+current logged userÃ¢Â€Â™s username
+current network connections
+current network connections host
+current network connections similar net use
+current one
+current parent process IDs
+current privileges
+current processes
+current processes running
+current remote desktop sessions
+current running processes system
+current running username
+current system time
+current temperature hardware
+current time zone date information
+current time zone information
+current timestamp victim 's machine
+current user
+current user 's name SID
+current username
+current users
+current working directory
+currently logged users Windows hosts
+currently running processes
+custom Base64 encoding schemes
+custom Base64 routine
+custom Base64 routine used encode strings scripts
+custom DNS Tunneling protocols C2
+custom DNS tunneling protocol
+custom MBR wiper
+custom MBR wiper named BOOTWRECK
+custom SSL libraries
+custom TCP protocol
+custom UDP protocol
+custom base64 encoding
+custom batch scripts
+custom binary protocol
+custom binary protocol C2
+custom command
+custom command control protocol
+custom command control protocol communicates commonly used ports
+custom command control protocol communicates commonly used ports , frequently encapsulated application layer protocols
+custom command control protocol encapsulated HTTP , HTTPS , DNS
+custom crypter leveraging MicrosoftÃ¢Â€Â™s CryptoAPI
+custom cryptographic protocol
+custom decryption routine , pulls key salt values artifacts WMI filter PowerShell Profile ,
+custom encryption
+custom encryption algorithm
+custom encryption cipher
+custom encryption method
+custom keylogger
+custom network encryption software
+custom packer
+custom packers
+custom packet format TCP UDP
+custom port scanner
+custom port scanner known BLUETORCH
+custom protocol
+custom protocol TCP
+custom scripts
+custom secure delete function
+custom stream cipher
+custom tool
+custom tool creating reverse shells
+custom tools
+custom video recording capability
+custom Ã¢Â€ÂœRedirectEXEÃ¢Â€Â shim database
+customers deactivate unused regions
+dashboard visibility
+data
+data , including Registry entries file paths
+data C2 channel
+data DNS queries
+data access
+data access restricted valid users expected IP ranges mitigate use stolen credentials access data
+data clipboard
+data collected local system
+data collected victim mobile device
+data command traffic
+data containing C2 configuration information
+data copied drive SPACESHIP
+data exfiltration
+data exfiltration accomplished following command line comman
+data gathered target
+data hexadecimal format C2 channel
+data intended exfiltrated
+data local files , volumes , processes
+data received C2 servers
+data restored easily
+data sent server Base64
+data separate main command control protocol
+data staged tmp files exfiltration
+data stored clipboard
+data stored victim hard drives
+data stores
+data transfers untrusted VPCs
+data using Base64
+data victim
+data victimÃ¢Â€Â™s machine
+databases
+date file
+date time system
+day day activities
+dead drop resolver
+debugger
+decoding function
+decoy document
+decrypted malicious DLL module
+decrypted payload
+decryption
+default PE compile timestamp file
+default User Access Control settings
+default browser path
+default manufacturer 's passwords
+default program association registry
+defenses
+defensive measures
+defined password
+deletFileFromPath function delete specified file using NSFileManage method
+deleted files unrecoverable
+deleting executable
+deleting files payloads make analysis attack difficult
+deleting original launcher execution
+deleting scripts used
+deleting shadow copies ensure data restored easily
+deleting temporary files fulfill task
+deleting victim
+depending system 's CPU architecture
+desitnation
+desktop screenshot
+desktop screenshots
+desktop video recording
+destination C2 traffic
+destination network traffic
+detailed information remote systems
+detailed listing specified directory
+details
+detect Virtual PC , Sandboxie , VMware
+detect infected host configured proxy
+detect several anti virus products
+detect usable smart card current inserted card reader
+detected hardware tokens
+detection
+detection based use tool
+detection memory
+detections
+determine installed version .NET querying Registry
+device
+device certificates 802.1x standard
+device instance ID drive geometry
+devices
+dialog box
+different encryption method
+different types packers
+different types packers , known custom
+different versions targeted victims versions may work together
+difficult adversaries advance operation exploitation undiscovered unpatched vulnerabilities using sandboxing
+digital certificate
+digital signature
+dir
+dir directory
+direct SQL connection Microsoft database controlled attackers
+direct communication victims Internet
+direct connection
+director
+directories
+directories Desktop , program files , userÃ¢Â€Â™s recently accessed files
+directories drop files
+directories format
+directories victim
+directory
+directory 's contents
+directory ( directory
+directory , directory
+directory , file , drive listings
+directory access controls
+directory called index
+directory contents
+directory directory
+directory listing
+directory listing Desktop , % TEMP% , directory
+directory listings
+directory logical drives
+directory named " "
+disable UAC remote restrictions modifying Registry
+disabling emond
+disabling system firewall turning Windows Security Center
+disaster recovery plans contain procedures taking regular data backups used restore organizational data
+discovery commands net user , net group , net local group , etc
+discovery information
+discovery permission groups net group directory
+discovery techniques
+discovery value dashboard event compromised account
+disk information
+disk space information
+disk volume information
+disks
+display names
+document
+documents
+documents 15 MB
+documents based specific date range
+documents malicious executables
+documents matching certain extensions
+documents victim
+domain
+domain controller
+domain controllers
+domain credentials
+domain database servers
+domain forest trusts
+domain name
+domain name C2
+domain names C2
+domain password policy
+domain trusts
+domain workgroup information
+domains
+download encrypted binary specified domain
+downloaded file
+downloaded payload
+downloader tools
+downloaders
+downloaders known HARDTACK SHIPBREAD PoS malware known TRINITY
+downloading secondary payload
+drive
+drive attacks vulnerable browser plugins
+drive information
+drive type victim
+drive types
+driver services
+drivers
+drives
+drives Remote Desktop sessions
+drives connected system
+drives file extensions keywords match predefined list
+drives infected system
+drives types
+dropper
+dropper called MaoCheng
+dropper document
+dropper program
+dsquery
+dummy API calls
+dummy API calls inserted real instructions
+dumped files
+dumped hashes
+dumper tools extract credentials web browsers store database files
+dumping passwords saved victim web browsers email
+dumping tool
+dynamic libraries
+echo % APPDATA% command list contents directory
+effectiveness compromised accounts
+effectiveness stolen credentials
+effort obfuscate strings malware could used IoCs , including mutex name named pipe
+either malicious Microsoft Documents RTF files
+elements remote system management user interface
+elevated COM object escalate privileges
+elevated access
+email
+email accounts
+email addresses
+email communications
+email containing link document contained malicious macros
+email content , headers , attachments
+email data
+email message
+email platform , Naver ,
+emails
+emails containing Word , Excel and/or HWP documents
+emails containing malicious attachments links require users execute file macro infect victim machine
+embedded .Net Framework assembly
+embedded .Net Framework assembly used C2
+embedded DLL
+embedded NTFS DXE driver
+embedded configuration
+embedded executable
+embedded file
+embedded iframes hotel login portals
+embedded image
+embedded macros
+embedded shellcode
+embedded strings
+emond
+employ binary padding
+enable button
+encoded IP address TechNet
+encoded PowerShell commands
+encoded PowerShell scripts
+encoded PowerShell scripts uploaded CozyCar installations
+encoded data HTTP URLs
+encoded information
+encoded tag containing IP address command control server
+encoding
+encrypted , modified protobuf based protocol
+encrypted PowerShell payloads
+encrypted SSH based tunnels
+encrypted Windows APIs
+encrypted archives
+encrypted binary
+encrypted compressed payload
+encrypted connections port 443
+encrypted data
+encrypted executables
+encrypted file
+encrypting data collects sending C2 server
+encrypting files
+encryption
+encryption , random variable names , base64 encoding
+encryption keys
+encryption method similar RC4 well AES
+encryption process
+endpoint information
+endpoint victim 's username
+ensure continued access via RDP
+enter credentials site incorrect domain application logging
+enterprise domain controller authentication process backdoor password
+entire contents inserted USB device
+entre buffer
+entry
+entry Registry 's Run key
+enumerate mapped network shares
+enumerate username victim
+enumerating local processes
+enumerating system drives partitions
+enumeration scripts
+environment
+environment checks
+environment variables standard input
+environmental keying
+environments
+error codes
+escalated privileges
+esentutl
+establish C2 channel
+establish persistence adding programs Run Registry key
+established connection network share
+establishing persistence installation new service
+evade defensive measures
+event
+event filter WMI code
+event logs
+event tracers / forwarders , firewall policies , associated mechanisms
+event tracers / forwarders , firewall policies , associated mechanisms secured appropriate permissions access controls
+event tracers / forwarders , firewall policies , associated mechanisms secured appropriate permissions access controls manipulated user accounts
+events
+eventvwr
+every GUI process
+every byte every sector every drive
+every process
+every user mode process
+evidence machine
+exclusively used Threat Group-3390
+execFile function execute specified file system using NSTas method
+executable
+executable code
+executable file 's attributes
+executable gain escalated privileges
+executable modules
+executable payload
+executable run victim
+executables
+executables stored shared drives
+execute
+execute additional commands
+execute file macro infect victim machine
+execute malware session
+execute newly dropped file hidden window
+executed system startup adding Registry value one following Registry key
+executing commands
+executing potential sandboxes
+execution
+execution InstallUtil
+execution command line
+execution commands
+execution commands via WMIEXEC well persistence via PowerSploit
+execution flow
+execution malicious DLL files
+execution malicious script
+exfiltrated
+exfiltrated data disk
+exfiltrating system information stored within cookies sent within HTTP GET request back C2 servers
+exfiltration
+exfiltration C2 channel
+existence remote systems
+existing RDP sessions victim
+existing driver services
+existing driver services disabled
+existing files
+existing hardware recording devices
+existing logs exfiltrated file archives
+existing services
+exploit execute malicious code
+exploit toolkit
+export
+export tables system DLLs
+exported function
+exposing key
+extended system information , information operating system , disks , memory
+extended system information including hostname , OS version number , platform , memory information , time elapsed since system startup , CPU information
+extension
+external C2 infrastructure port 443
+external IP address
+external VPN services
+external adversaries
+external remote services
+external software
+external software known NetPass
+fake TLS
+fake job advertisements
+fake job advertisements sent via LinkedIn
+fallback server
+false TLS handshake
+feature manipulate process privileges tokens
+features disk structure MBR
+file
+file alternate data stream
+file attributes
+file browser explorer
+file browsing
+file cleanup
+file containing list commands executed compromised computer
+file containing results command cmd directory ipconfig directory
+file containing results command cmd directory net user { Username}.
+file contents
+file creation time service
+file deletion
+file directory
+file directory information
+file directory listings
+file directory timestamps
+file downloaded
+file encryption
+file extensions
+file folder names
+file given URL
+file hashes
+file information
+file listings
+file listings default Windows directories
+file macro
+file manager explorer
+file manager module
+file name adobecms directory security
+file name next stage malware
+file named thumb.dd
+file names SafeApp NeutralApp
+file network share
+file permissions
+file servers
+file servers victim network
+file signature header
+file size
+file stealer search directory
+file system
+file systems
+file times
+file types
+file victim
+file victimÃ¢Â€Â™s machine
+file writes search paths applications , folders applications run standard dylib folders
+filename
+filenames
+filenames Registry key names
+files
+files , folders , drives
+files , folders , programs
+files , including DGet
+files , including core Windows OS files
+files , including second stage malware
+files 60 mb less contain following extension , x , , x , , x , , ,
+files Base64
+files C2 channel
+files USB devices
+files Windows directory
+files associated malware victim
+files attached device
+files based extension list
+files based open source project cryptcat
+files compromised machine
+files containing passwords
+files deleted upon next system reboot
+files director , director drives
+files directories
+files directories , including Destover like variant
+files directories collection
+files directories local file system
+files directory directory
+files disk
+files drives
+files every drive
+files executed memory
+files exfiltration
+files exfiltration single location
+files exploits
+files fixed removable drives
+files folders
+files folders collected
+files form computer computer
+files indicated attacker
+files information
+files information specific directories
+files interest
+files interest hosts network shares
+files local drives
+files local file system
+files logs
+files matching lPH * pattern
+files matching specified list extensions
+files metadata files
+files onto victim
+files payloads
+files payloads placed target machine help blend
+files persistence mechanisms
+files registry keys
+files scheduled exfiltration
+files scripts
+files secondary payloads
+files specific locations hard disk % TEMP% directory , current user 's desktop , Program Files directory
+files start particular string
+files stolen file shares
+files stolen local systems
+files system
+files targeted systems
+files victim
+files victim 's machine
+files victims
+files victimÃ¢Â€Â™s machine
+files written USB sticks
+fileÃ¢Â€Â™s timestamps
+filtering restrictions
+fingerprint machine
+fingerprint system
+firewall
+firewall Registry key
+firewall details
+firewall settings
+firewalls
+firmware
+firmware hard drives
+first 132 MB 1.5 MB drive
+first 4.9 MB physical drives
+first 64 MB every drive
+first stage command control server
+first stage downloader
+first stage dropper using rundll32
+fixed drives
+flood volumes
+folder
+folder file names
+folders
+folders files
+following Registry ke svchost : directory
+following Registry key Ã¢Â€Â“ directory
+following Registry keys persistenc imejp : [ self
+following command
+following commands
+following extension , x , , x , , x , , ,
+following extensions
+following hidden files
+following scheduled tas schtasks directory directory " mysc " directory directorydirectory ONLOGON directory " System "
+foothold
+forged Kerberos Ticket Granting Ticket Ticket Granting Service tickets
+forged Microsoft code signing certificates
+form
+format
+forwarding mechanisms
+four bytes random letters
+fragments strings
+framework
+fraudulent lookalike domain stolen branding
+frequency compromised hosts contact remote C2 infrastructure
+fromCharCode deobfuscation method
+ftpUpload function use FTPManage method upload files target system
+full access controls
+full remote access outside network
+function
+function attempts rename administratorÃ¢Â€Â™s account
+function pointer
+functions
+functions TranslateMessage WM_KEYDOWN
+future macros
+gain User Execution
+gain access install malware onto server
+gain access server via SSH
+gaming non gaming organizations
+garbage characters
+garbage code
+garbage code mislead anti malware software researchers
+gather credentials later used lateral movement
+gathered browser data
+gathered data compromised machine
+gathered data machine
+gathered information
+gathering system information via WMI executing commands C2 server
+gdi
+gdi library
+gdiplus library
+general system enumeration data infected machine
+generated files
+generated list usernames
+generated list usernames , center around permutations username Administrator , weak passwords
+get user click
+get user open
+get user open links attachments
+get users click Microsoft Office attachments containing malicious macro scripts
+get users enable macros launch malicious Microsoft Word documents delivered via spearphishing emails
+get users execute malware via social media spearphishing emails
+get users launch malicious Microsoft Office attachments delivered via spearphishing emails
+get users launch malicious Microsoft Word attachment delivered via spearphishing email
+get users launch malicious Microsoft Word attachments delivered via spearphishing emails
+get users launch malicious attachments delivered via spearphishing emails
+get victims launch malicious Microsoft Word attachments delivered via spearphishing emails
+get victims open malicious Microsoft Word PDF attachment sent via spearphishing
+get victims open malicious Microsoft Word attachment sent via spearphishing
+get victims open malicious files Windows Shortcuts and/or Microsoft Office documents , sent via email part spearphishing campaigns
+getFirefoxPassword function attempt locate Firefox passwords
+getInfoOSX function return OS X version well current user
+getInstalledAPP function run ls -la directory gather applications installed
+getProcessList function run ps aux get running processes
+given command
+given file types
+given pid
+global service provider 's IP
+group name logged user
+group permission settings victim
+group policy
+groups
+gsecdump WCE
+gsecdump modified version Mimikatz called Wrapikatz
+hard coded , domain specific credentials
+hard coded , domain specific credentials gathered earlier intrusion
+hard coded C2 servers
+hard coded list passwords
+hard coded server
+hard coded string Ã¢Â€Âœthis encrypt keyÃ¢Â€Â
+hard disk
+hard disk partitions
+hard drive content system configuration information
+hardcoded key
+hardcoded location
+hardware recording devices
+hardware tokens
+harvested credentials
+hash
+hash based detections
+hashed passwords
+hashed user credentials
+hashes
+hashes credentials
+hashes credentials sent system name services poisoned
+hcdLoader
+helper DLL
+hidden
+hidden -windowstyle hidden
+hidden LNK file
+hidden directory
+hidden directory named isto
+hidden encoded file
+hidden file
+hidden files
+hidden non printing characters
+hide DDE object different part document
+hijacked service
+history
+history , cookies , plug information
+hook
+hooked APIs
+host
+host IP address
+host IP information
+host based firewall iptables
+host based firewalls
+hosted " beacon " payload
+hostname , OS version number , platform , memory information , time elapsed since system startup , CPU information
+hostname CPU information
+hostname OS version
+hostname systeminfo
+hostname target computer
+hostname victim machine
+hostnames available systems network
+hosts
+hosts connected network
+hostÃ¢Â€Â™s IP address
+hot patching
+hundreds email communications
+iKitten
+icon
+identify installed software victim
+iexplore
+ifconfig
+ifconfig -a command
+ifconfig command
+iframes
+image
+image file
+image tags
+images
+images HAMMERTOSS uses receive commands
+images containers
+images embedded document lures activate payload user double clicks avoid sandboxes
+imitate Norton Antivirus
+implant
+implants
+implementation Mimikatz gather credentials memory
+implementation PsExec remote execution
+implementation SSP
+implementation netstat enumerate TCP UDP connections
+implementing IT disaster recovery plans contain procedures taking regular data backups used restore organizational data
+important strings
+important strings used C&C communication
+inbound HTTP requests
+incident response plan storage breach includes rotating keys
+incoming HTTP requests
+incoming connections
+incoming traffic upstream
+indicators compromise
+infected USB device
+infected device
+infected host
+infected host 's file system
+infected host configured proxy
+infected hosts
+infected system 's ARP table
+infected system 's Registry
+infected systems
+info local global group users , power users , administrators
+informatin
+information
+information Internet adapter configuration
+information Microsoft SharePoint
+information O ver > > directory
+information OS
+information OS , processor , BIOS
+information OS computer name
+information OS well system time
+information Outlook process
+information Registry
+information Registry key
+information TCP / IP , DNS , DHCP
+information TCP connection state
+information Terminal Services
+information Windows Registry
+information Windows directory
+information Windows domain
+information Windows services
+information accounts permissions
+information anti virus software victim
+information available drives , default browser , desktop file list , My Documents , Internet history , program files , root available drives
+information available remote systems
+information computer name , OS version , processor speed , memory size , CPU speed
+information connected Bluetooth devices
+information connected storage devices
+information connected users
+information credentials
+information credentials , certificates , cookies
+information current user
+information currently logged user
+information domain trusts
+information drives operating system victimÃ¢Â€Â™s machine
+information files
+information files directorie dir directorydirectory
+information files directory
+information files victim mobile device , including SD card size , installed app list , SMS content , contacts , calling history
+information first network interface cardÃ¢Â€Â™s configuration , including IP address , gateways , subnet mask , DHCP information , whether
+information first network interface cardÃ¢Â€Â™s configuration , including IP address , gateways , subnet mask , DHCP information , whether WINS available
+information gathered victim
+information groups
+information host
+information hostname free disk space
+information infected computer
+information infected machine
+information infected system
+information installed anti malware programs
+information installed applications uninstall certain applications
+information installed software
+information local groups members
+information local network connections
+information local network ipconfig directory > > directory
+information local system
+information local user accounts
+information logged user
+information logical drives , drive type , free space
+information mapped drives , OS version , computer name , memory size
+information network IP configurations using ipconfig routing tables using route
+information network adapters
+information network configuration
+information network configuration , including routing table , ARP cache , DNS cache
+information network connections
+information network including IP address DHCP server
+information network parameters
+information network settings Internet proxy settings
+information newly infected victims
+information operating system
+information operating system whether anti virus active
+information process creation
+information process details
+information processes
+information processes running local remote systems
+information processor , memory , video card
+information programs services victim configured automatically run startup
+information remote systems network
+information running processes
+information running processes environment variables
+information running processes victim
+information running services
+information service net start > > directory
+information services
+information shares remote hosts
+information stored Windows Address Book
+information system
+information system local drives
+information trusts , zones , domain
+information type version victim OS , well victim computer name CPU information
+information users
+information users remote hosts
+information victim
+information victim 's IP address
+information victim 's anti virus software
+information victim 's computer , including resolution workstation
+information victim 's name , build , version , serial number , memory usage
+information victim IP address
+information victim computer name , physical memory , country , date
+information victim network configuration
+information victim network connections
+information victim network interfaces addresses
+information victim proxy server
+information victim user
+information victim username
+information victim usernames
+initial access
+initial communication
+initial persistence
+inject specified DLL process would normally accessing network , including Outlook Express , Outlook , Internet Explorer , Firefox
+injecting Explorer processes
+input audio devices
+input prompt asking user 's login password
+insertion new devices
+installed drivers , programs previously executed users , programs services configured automatically run startup , files folders present user 's home folder , files folders present user 's My Documents , programs installed Program Files folder , recently accessed files , folders , programs
+installed keyboard layouts
+installed software system
+installed software victim
+installed version .NET
+installer
+installer properties
+installing Python 2.7 victim
+installing service
+instances outlook , iexplore , firefox
+integrity
+integrity existing BIOS device firmware
+integrity images containers used cloud deployments
+intended victim 's OWA portal
+interactive command shell
+interactive shell
+internal discovery systems
+internal documents
+internal network
+internal proxy nodes
+internal reconnaissance
+internal strings
+internal victim network
+intervals
+intrusions
+invalid digital certificates
+ipconfig
+ipconfig command
+ipconfig directory
+ipconfig directory command
+ipconfig directory route PRINT
+itÃ¢Â€Â™s
+itÃ¢Â€Â™s running virtual environment
+jRAT
+jRAT payloads
+jRATÃ¢Â€Â™s Java payload
+junk code
+junk data
+kernel level privileges
+kernel mode privileges
+kernel module loading
+key
+key 0x40
+key 12345678
+key Registry entries pointing malicious DLLs dropped disk
+key loggers
+key presses
+key salt values
+key stream
+key strokes
+key value wdm
+keyboard events
+keyboard layouts
+keychaindump project
+keychains system
+keylogger
+keylogger called GEARSHIFT
+keylogger component
+keylogger files screenshots
+keylogger intercepting credentials keystrokes
+keylogger module
+keylogger plug
+keylogger plugin
+keyloggers
+keyloggers also capable dumping credentials
+keylogging
+keylogging capabilities Windows , Linux , macOS systems
+keylogging screen captures
+keylogging tool records keystrokes encrypted files
+keylogging tools
+keylogging tools called KEYPUNCH LONGWATCH
+keys
+keys 88888888 babybear
+keys VPNs cryptocurrency wallets
+keys related SIP trust provider components
+keys system components
+keystrokes
+keystrokes directory
+keystrokes location user typing
+keystrokes targeted system
+keystrokes victim 's machine
+keystrokes victimÃ¢Â€Â™s machine
+keywords
+kill dates
+known APT C2 methods
+known credentials
+known host based firewalls
+known host based firewalls installed infected systems
+known signatures unpacking methods
+krbtgt account hash
+lPH * pattern
+language
+language used system
+large data sets
+large file may exceed maximum size anti virus programs scan
+lateral movement
+lateral movement propagation
+lateral movement tool
+lateral movement tool named Vminst , Cobalt Strike , shellcode
+launchctl
+launcher
+launching sandbox
+least privileges
+left right override character
+legitimate
+legitimate Citrix executable
+legitimate McAfee binary
+legitimate Russian program
+legitimate WMI service
+legitimate Windows Task Manager
+legitimate Windows executable
+legitimate access
+legitimate administrator activities
+legitimate document files
+legitimate file
+legitimate ntshrui
+legitimate service
+legitimate traffic
+legitimate website
+letmein
+letters C
+levels rights privileges
+leveraging module retrieves passwords stored system current logged user
+leveraging module scrapes email data Outlook
+library
+library used network exfiltration
+like Flash Player , Office , PDF documents
+like valid users
+link
+link document contained malicious macros
+link malicious content hosted uncommon Web server
+links
+links attachments
+links attachments attempting get user click
+links domains controlled threat actor
+links emails attachments
+links files
+links malicious HTML applications delivered via spearphishing emails
+links spearphishing emails
+list
+list SIDs
+list active connections open ports
+list active listening connections
+list active processes victim
+list commands executed compromised computer
+list encrypted C2 server names
+list files
+list files directories
+list files directories infected system
+list files directories well logical drives
+list files drive
+list hosts victim environment
+list install programs services systemÃ¢Â€Â™s machine
+list installed apps
+list known credentials gathered credential dumping
+list logical drives
+list network shares
+list ordered port numbers
+list processes
+list processes running system
+list processes running tasks system
+list processes using tasklist command
+list running processes
+list running processes system
+list running processes victim
+list running processes victim system
+list running processes victimÃ¢Â€Â™s machine
+list running services
+list running tasks
+list security solutions installed victim 's machine
+list smart card readers attached victim
+list targets
+list user accounts , privilege classes , time last logon
+list users
+list weak passwords
+listing network connections
+listing processes system
+listing running processes
+listing services system
+lists files
+lists running processes
+live feed desktop infected host
+loaded msiexec process hollowing hide execution
+loading Linux Kernel Module deleting hard disk well overwriting data null bytes
+loading malicious SIP DLLs
+local IP address
+local IP address victim
+local NetBIOS domain names
+local UPnP RPC proxies
+local admin group domain admin group Exchange Trusted Subsystem groups
+local admin password
+local administrator AD user accounts
+local domain account
+local domain user account information
+local domain users
+local files
+local files information
+local firewall rule exceptions
+local firewall settings
+local folders
+local group net localgroup administrator > > directory
+local groups
+local hostname , operating system details , CPU speed , total physical memory
+local information Linux hosts
+local listener
+local network
+local network configuration discovery
+local network connection discovery
+local network connections , including active TCP connections network statistics
+local processes
+local remote CAB file
+local remote shared drives folders SMB
+local remote system time
+local services
+local system
+local system administrator group membership
+local system domain accounts
+local system time
+local time target system
+local user accounts
+local users access kernel level privileges
+local users session information
+locally stored passwords
+locate Firefox passwords
+location
+location { 42aedc87 2188 41fd b9a3 0c966feabec1}\InprocServer32
+locked files ntds
+log files
+logged user
+logged username
+logged users across domain
+logging
+logging again;unset HISTFILE added user 's h_rc file
+logging victim server
+logical drives
+logical volumes
+login credentials
+login data database
+login password information
+logins passwords
+logs
+look legitimate
+ls -la directory
+ls -la ~directory\ Support / MobileSync / Backup/.
+lssas service
+lure users execute malicious dropper delivered via spearphishing attachment
+lures
+macOS ' mand file type
+macOS version IOPlatformUUID
+macOS version download payloads
+machine
+machine 's Master Boot Record
+machine 's hostname Top Level Domain
+machine name keyboard language
+machine type
+machines
+machines interest
+macro
+macro code
+macro execution
+macros
+macros , PowerShell scripts , COM scriptlets , VBS scripts
+macros Excel documents
+macros Word documents
+macros download Pupy
+mail
+mail , browser , instant messaging clients
+main CozyCar component
+main WINTERLOVE component
+main backdoor code
+main loader fileÃ¢Â€Â™s attributes
+main payload
+malicious CPL file
+malicious DLL
+malicious DLL included new service group
+malicious DLL module
+malicious DLL modules
+malicious DLLs
+malicious DMG file
+malicious Excel Web Query files
+malicious Excel attachment
+malicious Google Chrome extensions
+malicious HTML applications
+malicious JavaScript VBScript payloads
+malicious Microsoft Exchange transport agent
+malicious Microsoft Office attachments
+malicious Microsoft Office attachments delivered via spearphishing emails
+malicious Microsoft Office documents
+malicious Microsoft Office documents PDFs
+malicious Microsoft Office documents use Ã¢Â€ÂœattachedTemplateÃ¢Â€Â technique load template remote server
+malicious Microsoft Word PDF attachment
+malicious Microsoft Word PDF attachment sent via spearphishing
+malicious Microsoft Word attachment
+malicious Microsoft Word attachment delivered via spearphishing email
+malicious Microsoft Word attachment sent via spearphishing
+malicious Microsoft Word attachments
+malicious Microsoft Word attachments delivered via spearphishing emails
+malicious Microsoft Word documents
+malicious Microsoft Word documents , , files
+malicious Microsoft Word documents delivered via spearphishing emails
+malicious Office documents
+malicious PE executable PE DLL
+malicious SSPs
+malicious Safari browser extensions
+malicious Scheduled Task
+malicious Windows Installer files
+malicious Windows Installer packages
+malicious Word OLE compound documents
+malicious Word document
+malicious Word documents
+malicious Word documents DDE execution
+malicious attachments
+malicious attachments delivered via spearphishing emails
+malicious attachments links require users execute file macro infect victim machine
+malicious code
+malicious code downloaded victim
+malicious content
+malicious document
+malicious documents
+malicious driver
+malicious dropper
+malicious dropper delivered via spearphishing attachment
+malicious emails
+malicious executable
+malicious file
+malicious file , sspisrv ,
+malicious file named navlu decrypt run RAT
+malicious files
+malicious files Windows Shortcuts and/or Microsoft Office documents , sent via email part spearphishing campaigns
+malicious files contained archives
+malicious files containing PowerShell commands
+malicious installer files
+malicious library
+malicious link attachment
+malicious link attachment delivered spearphishing
+malicious links
+malicious links attachments
+malicious links attachments delivered spearphishing
+malicious links delivered via spearphishing emails
+malicious links macro enabled documents required targets click " enable content " button execute payload system
+malicious macro
+malicious macro scripts
+malicious macros
+malicious macros delivered payloads
+malicious macros embedded inside Office documents
+malicious macros embedded within Microsoft Excel documents
+malicious modules
+malicious obfuscated VBA macros
+malicious operations
+malicious payload
+malicious payloads
+malicious process
+malicious processes
+malicious programs
+malicious remote template URLs
+malicious scripts
+malicious software
+malicious thread
+malware
+malware 's full executable payload
+malware , CMD arguments , PowerShell scripts
+malware QUADAGENT OopsIE
+malware analysis sandbox environment
+malware analysts
+malware associated artifacts victim
+malware backdoors
+malware binaries victim
+malware capture screenshots victimÃ¢Â€Â™s machine
+malware collect victimÃ¢Â€Â™s OS version machine name
+malware collect victimÃ¢Â€Â™s username
+malware components
+malware components dropped system
+malware execute PowerShell scripts via DDE
+malware families
+malware leveraged WMI
+malware leveraged rundll32 Registry Run key
+malware like WhiskeyAlfa
+malware logic various configuration files
+malware persist even victim machine shuts
+malware persistence
+malware reconnaissance scripts
+malware researchers
+malware running
+malware running sandbox
+malware samples
+malware sandbox environment
+malware updates , modules perform malware logic various configuration files
+malware userÃ¢Â€Â™s machine
+malware variant
+malware variant , HIGHNOON ,
+malware variant called GOODLUCK
+malware variant called WIDETONE
+man middle
+man middle actions
+manufacturers supply chain defense industry
+many methods bypassing Windows User Account Control multiple versions operating system
+many process
+many process running environment
+many standard protocols , including HTTP , HTTPS , SMB
+map C$ enumerated hosts test scope current credentials / context
+mapped network shares
+masquerade file names system
+masquerade files popular anti virus software
+master boot record infected computer
+maximum size
+maximum size anti virus programs scan
+means regain access
+media
+meek domain fronting plugin Tor
+memory
+memory amsi
+memory dump data specific directory hosts victim environment
+memory properly formatted payment card data
+menuPass
+message body HTTP content
+message body HTTP traffic
+messages
+messages showed system setup process
+metadata files disk
+microphone data
+microphone input
+microphone recording
+microphone recordings
+millions dollars
+mobile device information , including IMEI , IMSI , SIM card serial number , phone number , Android version , information
+modification directory Hide500Users value
+modifications
+modifications W32Time parameters
+modifications W32Time parameters Registry
+modified TeamViewer client
+modified include malicious software
+modified version HTRAN
+modified version HTRAN obfuscated strings debug messages apparent attempt evade detection
+modified version Mimikatz
+modified version Mimikatz help gather credentials later used lateral movement
+modified version nbtscan
+modified version pentesting script wmiexec
+modified version pentesting script wmiexec , logs remote machine using WMI
+modified version pentesting tools wmiexec secretsdump.py
+modify delete subkeys
+modifying last write timestamp specified Registry key random date , well copying timestamp legitimate files dropped files
+modifying system configuration settings
+module
+module VNC
+module captures screenshots victim 's desktop
+module collect data removable drives
+module compressing data using ZIP
+module configuration
+module downloading executing DLLs leverages rundll32
+module enumerating recently accessed files
+module move data airgapped networks Internet connected systems using removable USB device
+module named BeetleJuice
+module retrieves passwords stored system current logged user
+module scrapes email data Outlook
+module steal credentials Web browsers victim machine
+module taking packet captures compromised hosts
+module tries obtain credentials LSASS , similar Mimikatz
+module tries obtain stored credentials web browsers
+modules
+modules , Get ComputerInfo , enumerating common system information
+modules , Get LocAdm enumerating permission groups
+modules allow use proxies command control
+modules executing commands SSH well memory VNC agent injection
+modules extract passwords common web browsers Firefox Chrome
+modules leverage API hooking carry tasks , netripper
+modules like Invoke SessionGopher
+modules searching passwords local remote files
+modules use schtasks carry malicious operations
+mounted volumes
+mouse click
+mouse logger take small screenshots around click send back server
+msbuild
+mshta
+msiexec
+mspaint shortcut
+msxsl
+multi factor authentication
+multiple URLs
+multiple backdoors per campaign
+multiple channels C2 , RomeoWhiskey Two , consists RAT channel parses data datagram form Proxy channel forms virtual point point sessions
+multiple compiled Python scripts
+multiple documents
+multiple documents DCCC DNC networks
+multiple methods
+multiple modules injecting processes , Invoke PSInject
+multiple network protocols
+multiple outputs
+multiple payloads
+multiple process injections
+multiple proxies
+multiple resources
+multiple techniques
+multiple types encryption encoding
+multiple types scripting
+multiple types spearphishing
+mutex name named pipe
+name
+name ID every process running system
+name created files / folders / mutexes
+name functions parts malware
+name local host , version GNU Compiler Collection , system information CPU , machine , operating system
+name logged user victim
+name service poisoning
+name services
+named hijacked scheduled tasks
+names
+native Windows Network Enumeration APIs
+native Windows cabinet creation tool , makecab ,
+native Windows task scheduler tool
+native spctl application
+nbtscan
+nbtstat
+nbtstat -n nbtstat -s commands
+nearby WiFi networks connected interfaces
+necessary requirements
+net
+net group " domain admins " directory
+net group command list accounts system
+net group directory net localgroup administrators , net group Ã¢Â€Âœdomain adminsÃ¢Â€Â directory net group Ã¢Â€ÂœExchange Trusted SubsystemÃ¢Â€Â directory
+net group directory series commands victim
+net share command
+net start
+net start commands
+net time
+net time command
+net use
+net use , net session , netstat commands
+net use command
+net use commands
+net use commands predefined list collection passwords
+net user
+net user , net user directory net group Ã¢Â€Âœdomain adminsÃ¢Â€Â directory net group Ã¢Â€ÂœExchange Trusted SubsystemÃ¢Â€Â directory
+net user command
+net user directory
+net user directory series commands victim
+net view command
+net view directory
+net view directory net view commands
+net view net view directory commands
+netsh
+netsh wlan show networks mode = bssid netsh wlan show interfaces commands
+netshcommands
+netstat
+netstat -an
+netstat -an , net use , net file , net session commands
+netstat -an victim
+netstat -ano
+netstat -ano command
+netstat -anpo tcp command
+netstat -aon
+netstat -oan
+netstat -r netstat -an commands
+netstat command
+netsvc group value data
+netsvc group value data located svchost group Registry key
+netview
+network
+network APIs
+network access control policies , using device certificates 802.1x standard
+network adapter information
+network adapter information domain / username information
+network adapter information domain / username information based current remote sessions
+network adapter interface information
+network adapterÃ¢Â€Â™s IP MAC address well IP addresses network adapterÃ¢Â€Â™s default gateway ,
+network based detection
+network communication
+network configuration data
+network configuration details
+network configuration information
+network configuration information like DNS servers network proxies used host
+network configuration settings
+network connection
+network connection information
+network connection netstat -ano > > directory
+network connections
+network drive
+network drives
+network information , including DNS , IP , proxies
+network information , including information trusts , zones , domain
+network interface settings
+network loader receive executable modules remote attackers run local victim
+network protocol
+network proxies
+network resources
+network scanning
+network scanning enumeration tools , including Ping
+network service discovery
+network services
+network share
+network share information
+network shares
+network shares net use
+network traffic
+networks
+new C2 server attempt transmission
+new Windows service
+new Windows services
+new account
+new autostart service
+new copy directory
+new domain user local user
+new drive
+new dynamic library
+new dynamic library included part update
+new file
+new hidden directory store components ' outputs dedicated sub folder
+new instance
+new list specific files steal
+new process
+new process execution
+new processes
+new schedule task
+new scheduler task
+new service
+new service establish
+new service establish persistence
+new service loads malicious driver system starts
+new service named NetAdapter
+new service named OfficeUpdateService
+new service named WmiApSrvEx
+new service named msamger
+new service named Ã¢Â€ÂœntssrvÃ¢Â€Â
+new service named Ã¢Â€ÂœntssrvÃ¢Â€Â execute payload
+new service persistence
+new services
+new services persistence
+new session
+new thread
+new thread log keystrokes
+new user
+new version
+new victims open file
+newly created accounts
+newly created process RegASM
+newly dropped file
+newly spawned process
+next actions
+next payload
+next system
+njRAT
+non descriptive names
+notification
+null session
+number
+number egress points
+number known techniques
+number modules , Invoke RunAs Invoke TokenManipulation , manipulating tokens
+number removable drives
+obfuscated JavaScript code
+obfuscated code
+obfuscated shellcode
+obfuscation
+obfuscation methods , including Base64 obfuscation VBScripts PowerShell commands
+obfuscation tool
+obfuscation tool called ConfuserEx
+obtain credentials LSASS , similar Mimikatz
+obtain machine 's hostname Top Level Domain
+obtain stored credentials web browsers
+odbcconf
+one
+one C2
+one byte xor 0x91
+one extensions configuration
+one list strings
+one tools
+ones
+ones associated The Bat ! , Yahoo ! , Mail.ru , Passport . Net , Google Talk , Netscape Navigator , Mozilla Firefox , Mozilla Thunderbird , Internet Explorer , Microsoft Outlook , WinInet Credential Cache , Lightweight Directory Access Protocol
+online billing / payment service
+onto Exchange servers
+onto infected machine
+opaque predicates techniques
+open development testing Web content
+open ports
+open ports victim
+open source ConfuserEx protector
+open source tool
+open source tool , Phishery ,
+open source tool Essential NetTools
+open source tool Responder
+open source tool called SoftPerfect Network Scanner
+open unprivileged access resources
+open windows
+operating system
+operating system configuration details
+operating system files disk structures
+operating system information discovery
+operating system recovery features
+operating system recovery features Windows backup catalog Windows Automatic Repair
+operating system version
+operating system version file system victim
+operating system version hostname
+operating system version information , processor information , system name , information installed disks
+operating system version victim
+operation
+operations
+operations sent millions dollars
+operations victim 's environment
+operator capture screenshots
+option selecting process tokens impersonate
+options directory directory
+organization
+organizational data
+organizations
+original , unencrypted files host
+original data files
+original decoy file
+original dropped file victim
+original system package
+originating Microsoft Corporation Broadcom Corporation
+outbound HTTP access
+outbound RDP connection
+outbound connections command control
+output
+output batch scripts
+output command execution
+output data
+output data generated command execution
+output running processes
+overlapped window listens keyboard events
+overwriting features disk structure MBR
+owner details
+owner organization information
+owners
+pack tools
+packet captures
+parameters
+parent domain local machine using directory
+parts actors ' toolset
+pass hash
+pass hash attacks
+pass hash tools
+pass ticket
+password
+password brute force attacks
+password filter
+password hash account
+password hashes
+password hashes SAM hive Registry
+password policy domain
+password policy information
+password protected RAR , WinImage , zip archives
+password protected RAR , WinImage , zip archives exfiltrated
+password spraying
+passwords
+passwords / tokens
+passwords accounts
+passwords cookies
+passwords saved browsers victims
+passwords saved victim email
+passwords saved victim web browsers
+passwords saved victim web browsers email
+passwords stored files
+passwords stored system current logged user
+patch management
+patch management system anti virus product commonly installed among targeted companies
+patch management system anti virus product commonly installed among targeted companies used distribute Wiper malware
+patches
+path shell32
+path store files scheduled exfiltration
+pay ransom
+payload
+payload commands
+payload configuration files
+payload file
+payload unique hash , including using different types packers
+payloads
+payloads payload components
+payloads task names
+payment card data
+payment service
+peer connections
+peer peer communication Windows named pipes encapsulated SMB protocol
+peer peer network
+penetration test team mimic known APT C2 methods
+perform tasks victim 's machine
+performance USB flash drives
+periodic screenshots
+permanent presence
+permission group information
+permission groups
+permissions
+permissions Web server process required using built accounts
+permissions cloud storage
+permissions remote logins
+persistenc directory directory directory ~directory ~directory
+persistence
+persistence SYSTEM privileges
+persistence file
+persistence mechanisms
+persistence module stores implant inside Registry , executes logon
+persistent launch agent
+persistent remote access account
+phishing documents , backdoors staging tools
+phishing emails
+phishing lure documents trick users opening infecting computers
+photos
+pictures
+pid
+ping
+ping Net
+ping command
+pipe
+pipes
+plain text credentials
+plaintext
+plaintext file
+plaintext network credentials
+platform images containers
+plist files
+plug
+plug downloaded
+plug victim spread local network using PsExec accessing admin shares
+plugin
+pop firewall software
+popular administration tool
+popular instant messaging applications , Web browsers , email clients
+port
+port 127
+port 3389
+port 443
+port 465
+port 46769
+port 52100 5876
+port 53
+port 587
+port 61061
+port 80
+port 80 443
+port 8000 443
+port 8080
+port 8088
+port 995
+port C2 traffic , includes commonly used ports 443 , 53 , 80 , 25 , 8080
+port C2 traffic , includes uncommonly used ports 995 , 1816 , 465 , 1521 , 3306 , many others
+port number
+port numbers
+port scanning TCP UDP ports
+port scans
+port status systems interest
+portion malware
+portopening TCP 443 " adp "
+portqry , renamed cmd file , winrar , HTRAN
+ports
+ports 1985 1986
+ports 20 , 22 , 80 , 443 , 8080 , 8443
+ports 25 80
+ports 443 , 8443 , 8080
+ports 443 53
+ports 4444 , 8531 , 50501
+ports 447 8082
+ports 53 , 80 , 443 , 8080
+ports 53 80
+ports 80 , 443 , 8080
+ports 80 443
+ports 8060 8888
+ports 808 880
+ports 8080 8000
+potential misuse adversaries
+powershell
+pr
+pre defined list usernames passwords
+predefined domain port 443 exfil gathered
+predefined list
+pressed keystrokes
+previously dropped executable
+principle least privilege
+printer
+private key session information
+privilege level compromised user
+privileged account use unauthenticated network share access
+privileges
+privileges given process
+privileges local system
+privileges root
+procedures taking regular data backups used restore organizational data
+process
+process ID parent processÃ¢Â€Â™s ID
+process discovery
+process hollowing
+process hollowing Regsvr32
+process hollowing iexplore
+process ids
+process information
+process injection
+process list
+process list Registry
+process listing
+process listings
+process lists
+process malware uses
+process malware uses debugged
+process memory
+process name
+process named " vmtoolsd "
+process privileges tokens
+process times
+process tokens
+process tokens impersonate
+processes
+processes , services organization
+processes Wireshark Sysinternals
+processes corresponding two components Sophos Anti Virus
+processes running machine
+processes running system
+processes running systems
+processes system
+processes using Windows API call CreateProcessA CreateProcessAsUserA
+processor type , operation system , computer name , uptime , whether system laptop PC
+product
+product names
+products
+profiler
+profiles
+program
+programming
+programming chain
+programming error
+programs
+programs actions
+programs services
+proper permissions
+proper permissions directories accessible Web server
+proper permissions set Registry hives prevent users modifying keys related SIP trust provider components
+proper permissions set Registry hives prevent users modifying keys system components may lead privilege escalation
+proper permissions set deny open unprivileged access resources
+protected credentials
+protected credentials stored and/or cached browsers user applications
+protobuf based protocol
+protocol
+protocols
+protocols like HTTP / HTTPS
+provider
+providers
+proxy
+proxy allow C2 even victim behind router
+proxy communications
+proxy credentials
+proxy details credentials
+proxy method
+proxy server
+proxy server victims C2 server
+proxy settings
+proxy tunnel
+ps aux
+public UAC bypass method
+public WAN IP address system
+public certificate
+public cloud based storage providers
+public key framework
+public tool BrowserPasswordDump10
+publicly available PowerShell based tool , WMImplant
+publicly available Web browser password recovery tool
+publicly available custom password retrieval tools
+publicly available tool
+publicly available tool SoftPerfect Network Scanner well custom tool called GOLDIRONY
+publicly available tools
+publicly facing server
+pubprn
+pwdump
+pyobfuscate , zlib compression , base64 encoding
+querying installed antivirus software
+quser
+random data
+random process victim system
+random value
+random values
+randomly generated data
+randomly generated string
+randomly selected file
+randomly selected file created prior 2013
+range characters gzip
+ransom
+ransom note
+ransom payment
+ransomware
+ransomware called Encryptor RaaS
+ransomware payload
+ransomware payload called Hermes
+rar
+raw TCP
+raw TCP UDP
+raw sockets
+read
+read , decoded , dropped disk macro
+readFiles function return detailed listing specified directory
+reboot persistence
+received commands
+recently accessed files
+reconnaissance
+reconnaissance framework , ScanBox ,
+reconnaissance module
+reconnaissance module used retrieve Windows domain membership information
+reconnaissance module used retrieve date time system
+reconnaissance module used retrieve information victim 's computer , including resolution workstation
+records
+recovery
+recursive directory listing volume drives available victim 's machine
+redundant access
+reflective DLL
+reflective DLL injection
+reg commands
+reg query
+reg query command
+reg query command Server
+reg query Ã¢Â€Âœ Server Â€Â victim
+regain access evicted victim network
+registered RPC interface information
+registered mail , browser , instant messaging clients
+registered owner details
+registered user primary owner name
+registry
+registry Run key
+registry key
+registry keys
+registry run keys
+registry value ntdll
+registry values file names
+regsvr32
+regsvr32 called Registry Run Keys / Startup Folder persistence mechanism
+regular data backups
+regular data backups used restore organizational data
+regular screenshots
+relay attacks
+rem reg query command
+remote Bash shell
+remote COM execution
+remote SMB , JBoss , Jenkins servers
+remote access
+remote access software
+remote access tool , ShiftyBug ,
+remote access webroot directories used serve Web content
+remote administration ability
+remote attackers
+remote code execution
+remote command execution
+remote command line
+remote command line interface
+remote command shell interface executing commands
+remote commands
+remote computer 's keystrokes
+remote desktop access
+remote desktop server
+remote desktop session
+remote desktop user
+remote desktop victim 's machine
+remote domain controllers
+remote execution
+remote execution PowerShell scripts
+remote file transmission
+remote files
+remote files onto victims
+remote host
+remote host access infected host
+remote hosts connected networks
+remote interaction
+remote login hard coded credentials
+remote machine
+remote module
+remote payloads
+remote scripts
+remote service manipulation
+remote shared drives accessible victim
+remote shell
+remote shells
+remote systems
+remote systems local network using net view net view directory commands
+remote systems network
+remote systems within network
+remote template function
+removable USB device
+removable drives
+removable media
+removable media device
+removable media drive
+removable storage devices
+removing applications deleting screenshots
+rename administratorÃ¢Â€Â™s account
+renamed cmd file
+renaming files mimicking legitimate administrator activities
+requests
+resolution workstation
+resources
+resources contain IP address Port Number pair connect C2
+response
+restart uninstall
+restricted network resources using detected hardware tokens
+restrictions
+results
+results command cmd directory ipconfig directory
+results command cmd directory net user { Username}.
+return oriented programming chain
+return oriented programming technique single byte XOR
+reverse SSH tunnel
+reverse command shell
+reverse proxy
+reverse shell
+reverse shell connection
+reverse shell utilizes statically linked Wine cmd code emulate Windows command prompt commands
+reverse shells
+right left override character
+rm -rf
+robust cyber threat intelligence capability
+rogue , high privileged domain user accounts
+root certificate
+rootkits
+rotating access keys within certain number days
+rotating keys test impact client applications
+route
+routing Firewall victimÃ¢Â€Â™s machine
+routing configuration information
+routing table , ARP cache , DNS cache
+rules
+run key Registry entries pointing malicious DLLs dropped disk
+run keys
+run program admin
+run virtual machine environment connected debugger
+rundll32
+rundll32 Registry Key value
+rundll32 Registry Run key value
+rundll32 Registry value added
+rundll32 commands rundll32 Ã¢Â€Âœdirectory
+running analysis processes AV software
+running process list
+running processes
+running processes system
+running processes using tasklist directory command
+running processes victimÃ¢Â€Â™s machine
+running services
+running services associated processes using tasklist directory command
+running services victim
+running system
+running tasks
+sample
+sample running sandbox
+samples
+sandbox analysis environments
+sandboxes
+sandboxing
+sc query victim
+scan new attached drives every seconds
+scheduled task
+scheduled task XML triggers
+scheduled task establish executing malicious payload every subsequent minute
+scheduled task execute file multiple times day
+scheduled task execute malware lateral movement
+scheduled task executes every minute
+scheduled task files
+scheduled task maintain persistence victimÃ¢Â€Â™s machine
+scheduled task named " MicrosoftEdge " establish persistence
+scheduled task named Ã¢Â€ÂœAdobeFlashSyncÃ¢Â€Â
+scheduled task raw XML
+scheduled task system
+scheduled tasks
+scheduled tasks run VBScript execute payload victim machines
+scheduled tasks typically named " Watchmon Service "
+schtasks
+schtasks directory directory command
+scope components generated Kerberos Golden Tickets DCSync
+scope current credentials / context
+screen
+screen capture
+screen captures
+screen captures victims
+screen captures victimÃ¢Â€Â™s machine
+screen capturing
+screen grabbing
+screen sharing victimÃ¢Â€Â™s machine
+screen shots
+screenshot
+screenshot desktop
+screenshot files
+screenshot module
+screenshot module used take screenshot remote system
+screenshot remote system
+screenshot saved clipboard
+screenshot user 's desktop
+screenshot victim
+screenshots
+screenshots compromised system
+screenshots desktop
+screenshots desktop target application windows
+screenshots desktop video recordings
+screenshots entire screen , separate window open
+screenshots files , keylogger data , files , recorded audio
+screenshots infected system
+screenshots system
+screenshots user 's desktop
+screenshots victim 's desktop
+screenshots victim 's machine
+screenshots victim machine
+screenshots victimsÃ¢Â€Â™ machine
+screenshots victimÃ¢Â€Â™s desktop
+screenshots victimÃ¢Â€Â™s machine
+screenshots victimÃ¢Â€Â™s machine JPEG BMP format
+screenshots victimÃ¢Â€Â™s machines
+screenshots victimÃ¢Â€Â™s screen
+screenshots windows interest
+script
+script appear contain Chinese characters
+script delete original decoy file cover tracks
+script enumerate drives , store list , upload generated files C2 server
+scripting
+scripting engine
+scripts
+scripts commands
+scripts payloads
+scripts used victim machines
+sctasks
+seamless communication
+search order
+search order hijacking Windows executable sysprep
+second
+second stage
+second stage implant
+second stage malware
+second stage payload
+second stage server
+second victim
+secondary fallback command control server
+secondary fallback command control server contacted primary command control server
+section
+secure file deletion
+secure shell
+security products
+security related processes
+security software
+security solutions
+security tools like Wireshark
+see known host based firewalls installed infected systems
+see malware running sandbox
+select event log entries
+selected victims
+self
+self extracting RAR archives , install HTTPBrowser PlugX victims network
+self registered Google Mail accounts
+self signed RPM package mimicking original system package RPM based systems
+send malicious emails victim organizations
+sending error codes Cookie headers
+serial numbers
+series discovery techniques
+series environment variables
+serve relays communication client C&C server
+server
+server response
+server variant Derusbi
+servers
+servers domain
+service
+service binaries
+service binaries , paths , configs
+service called Nwsapagent
+service configurations
+service discovery
+service execution tools PsExec
+service loads sspisrv driver
+service pack , system install date
+service parser function ProcessScCommand
+service pointing malicious DLL
+service pointing malicious DLL dropped disk
+service service permission information
+service tickets
+services
+services affected system
+services configurations
+services running order conduct execution
+services running system
+services system
+session
+session cookie theft
+set commands
+setuid flag
+several .LNK files
+several API functions
+several APIs
+several APIs associated
+several Registry entries
+several Registry keys
+several VBS scripts
+several Win32 API functions
+several Windows API calls
+several anti VM sandbox checks
+several anti emulation techniques
+several anti virus products
+several code packing methods Themida , Enigma , VMProtect , Obsidium
+several commands
+several different keyloggers
+several keys values
+several letters
+several malicious applications
+several malicious applications abused OAuth access tokens
+several references football
+several remote administration tools
+several scriptlets code
+several scriptlets code used victimÃ¢Â€Â™s machine , including use XOR RC4
+several tasks
+several tools
+shadow copies
+share access target device
+shared drives
+shared drives directories remote local systems
+shared drives local system
+shares
+shares available , including administrative shares C$ ADMIN$.
+shelf SmartAssembly .NET obfuscator
+shell
+shell VBS scripts well embedded macros
+shell access victimÃ¢Â€Â™s machine
+shell code
+shell command
+shell commands
+shell script downloads executes file
+shellcode
+shellcode retrieves additional payload
+shellcode used execution
+shells
+shortcut
+shortcut called " Anti virus service "
+shortcut file
+shortcuts
+shortened URL links
+showBackupIosFolder function check IOS device backups running ls -la ~directory\ Support / MobileSync / Backup/.
+side loading weakness
+side loading weakness used load portion malware
+signatures
+signed Microsoft DLL
+signed binary shellcode loader signed Dynamic Link Library
+signed credential dumping tool
+signed fake certificates masquerading originating Microsoft Corporation Broadcom Corporation
+similar filenames
+simple XOR cipher
+simple XOR cipher C2
+simple byte based XOR operation
+simple one byte XOR method
+single byte , 0x12
+single byte XOR
+single byte XOR key
+single byte XOR keys
+single byte XOR obfuscation
+single byte anti virus signatures
+single instance
+sites
+six byte eight byte keys
+small screenshots
+smart card readers
+social networking sites
+socket
+software
+software company AI Squared
+software exploit
+software files
+software packer
+software packer called
+sound
+sounds
+source code
+sources
+space
+spearphishing
+spearphishing attachments
+spearphishing emails
+spearphishing emails attachments
+spearphishing emails contained malicious Microsoft Office attachments
+spearphishing emails contained malicious Microsoft Office documents use Ã¢Â€ÂœattachedTemplateÃ¢Â€Â technique load template remote server
+spearphishing emails containing links domains controlled threat actor
+spearphishing emails containing links files
+spearphishing emails containing malicious Microsoft Office attachments
+spearphishing emails containing malicious links
+spearphishing emails malicious Microsoft Word attachments
+spearphishing links
+special characters
+special string
+specific Registry keys
+specific accounts
+specific antivirus tools
+specific antivirus tools installed system
+specific banking software machine
+specific commands
+specific directories victimÃ¢Â€Â™s machine
+specific file extensions file modification time
+specific files
+specific files file types
+specific files infected devices
+specific format C2 packet involving random values
+specific hives
+specific information attached USB devices
+specific information attached hard drive
+specific port 443
+specific process
+specific process running infected servers
+specific public Web pages
+specific region
+specific terms
+specified DLL
+specified Registry key value
+specified commands
+specified directory
+specified file
+specified files
+specified fileÃ¢Â€Â™s timestamps
+specified list extensions
+specified service
+spoofed service
+spwebmember
+sqlmap
+ssh
+sspisrv
+st file
+stage 2 payloads
+stage 3 malware
+standard Base64 + bzip2
+standard Base64 + reverse XOR + RSA-2048
+standard Windows library
+standard Zlib compression library
+standard assigned ports
+standard authentication system
+startup entries
+startup files
+startup folder
+startup programs
+state
+statically linked Wine cmd code
+statically programmed fragments strings
+steganographic methods
+steganography
+stick
+sticky keys
+sticky keys technique
+stolen USB files
+stolen VPN certificate
+stolen certificates
+stolen code signing certificates
+stolen credentials
+stolen data
+stolen data uploaded
+storage
+storage devices
+storage execution SIP DLLs
+storage providers
+stored Registry values
+stored credential
+stored credentials
+stored token
+strace , tool often used identify malware
+strategic web compromises
+strict Identity Access Management controls
+string
+string obfuscation routines
+strings
+strings , including XOR
+strings , internal files , configuration data
+strings debug messages
+strings malware
+strings payloads
+strings scripts
+stub loader loads executes shell code
+sub key
+subdirectories
+subkeys
+subnets
+subsequent payloads
+substitute cipher
+successful connection
+successful use known vulnerabilities
+sure HISTCONTROL environment variable set Ã¢Â€ÂœignoredupÃ¢Â€Â instead Ã¢Â€ÂœignorebothÃ¢Â€Â Ã¢Â€ÂœignorespaceÃ¢Â€Â.
+suspended svchost process
+svchost
+svchost process
+sysprep
+system
+system 's CPU architecture
+system 's MAC address
+system 's computer name
+system , security , terminal services , remote services , audit logs
+system configuration settings
+system directory , build number , serial number , version , manufacturer , model , total physical memory
+system drive information , computer name , size disk
+system event
+system event logs
+system file System32 directory
+system files
+system firewall
+system firewall settings
+system firmware
+system information
+system information , CPU speed
+system information , computer name , OS version , drive serial information
+system information , including battery status
+system information , including computer name , system manufacturer , IsDebuggerPresent state , execution path
+system information , including hostname OS version
+system information OS version disk space
+system information computer names
+system information files
+system locations
+system microphone audio
+system name , OS version including service pack , system install date
+system name OS version
+system network
+system network configuration details
+system processes
+system reboot
+system service COMSysApp
+system threads
+system time
+system time send back control server
+systemd service
+systeminfo
+systeminfo command
+systems
+systems network
+systems victim network
+systemÃ¢Â€Â™s hostname OS version
+systemÃ¢Â€Â™s processes
+systemÃ¢Â€Â™s webcam
+table
+tag
+tailored individual staging target
+takeScreenShot functions take screenshots using CGGetActiveDisplayList , CGDisplayCreateImage , NSImag methods
+tar compressed archive
+target 's IP address local network segment
+target files
+target login domain
+target systems
+target systemÃ¢Â€Â™s OS version
+targeted emails
+targeted files
+targeted organization FTP
+targeting smart card technologies proxy authentication connections restricted network resources using detected hardware tokens
+targets
+targets Windows Active Directory network
+tas schtasks directory directory
+task
+task files
+task reboot system one hour infection
+taskkill command
+tasklist
+tasklist command
+tasklist commands
+tasklist directory
+tasklist directory command
+tasklist wmic process get Capture , ExecutablePath commands
+tasks
+tasks offline sandbox detection , adding persistence , etc
+tasks victim 's machine
+tcping , similar Ping ,
+techniques
+temp file
+temperature
+temporary Windows service
+temporary access tokens
+temporary access tokens issued rather permanent credentials
+temporary credentials
+temporary file
+temporary files
+temporary files containing scripts
+temporary user
+terminal access
+terminal comman
+terminate processes corresponding two components Sophos Anti Virus
+tests
+tests determine privilege level compromised user
+text
+text current foreground window
+third parties
+thread attempt scan new attached drives every seconds
+thread execution hijacking
+threat actor
+three Registry keys
+three steps
+three steps required extract krbtgt account hash create / use Kerberos tickets
+ticket
+time
+time change attempts
+time file
+time machine built , time , time zone
+time zone information
+time zone information current timestamp victimÃ¢Â€Â™s machine
+timestamp
+timestamp file storing clientID
+timestamp files
+timestamps downloaded executables
+timestomping
+tmp files
+tmp prefetch files
+token
+token manipulation
+token privileges
+tokens
+tool
+tool , scr
+tool GET5 Penetrator
+tool acts proxy allow C2 even victim behind router
+tool called BruteForcer
+tool called CLASSFON
+tool called Imecab
+tool called MailSniper
+tool known DarkComet
+tool known RemoteExec
+tool obtain info local global group users , power users , administrators
+tool steals passwords saved victim email
+tool steals passwords saved victim web browsers
+tools
+tools , logs , files
+tools batch files
+tools capable obtaining credentials saved mail
+tools capable obtaining credentials web browsers
+tools including gsecdump WCE
+tools like Adfind
+tools named VALUEVAULT PICKPOCKET
+tools operations
+tools used password cracking , including Hydra
+total 64 MB garbage data
+traces fraudulent SWIFT transactions
+tracks
+traffic
+traffic " ZJ listen "
+traffic C2 server victim
+traffic malware remote operators
+transmission
+transmitting encoded information infected system Bluetooth protocol , acting Bluetooth beacon , identifying Bluetooth devices vicinity
+trivial decoding
+trusted domains
+trusted software rsyncd dbus inotifier
+tty_tickets line sudoers file
+tunneling proxying
+tunneling tools
+tunnels
+tunnels C2 servers
+two files , one file one dropped malicious email attachment
+types levels threat
+types levels threat may use software exploits 0-days particular organization
+typical shellcode loader
+unauthenticated , privileged console access
+unauthenticated network share access network / system isolation
+uncommon TCP " high port " " high port " communication
+uncommon TCP port
+uncommonly used ports 995 , 1816 , 465 , 1521 , 3306 , many others
+unencrypted private keys well private key pass phrases
+unique , custom de obfuscation technique
+unique form communication encryption
+unique form communication encryption known FakeTLS mimics TLS uses different encryption method , evading SSL man middle decryption attacks
+unique identifier
+universities
+unknown devices accessories
+unnamed task
+unnecessary access permissions overlap across multiple systems
+unregistered devices
+unused machine instructions
+unused regions
+update
+updates new malware
+uploader
+uploader known LUNCHMONEY exfiltrate files Dropbox
+upon users clicking malicious link attachment delivered spearphishing
+urllib library
+usable smart card
+usable smart card current inserted card reader
+use -WindowStyle Hidden conceal PowerShell windows
+use PowerShell
+use RAR passwords encrypt data prior exfiltration
+use RDP move laterally
+use RSA keys encrypting C2 traffic
+use XOR RC4
+use access compromise DNC network
+use following command + history set -o history start logging again;unset HISTFILE added user 's h_rc file ; andln -s directory ~directory write commands directory
+use macro run PowerShell command decode file contents
+use proxies command control
+use software packing tools
+use spaghetti code functions effort confuse disassembly programs
+use steganography
+use stolen credentials access data
+used RDP operations
+used download TEXTMATE Cobalt Strike Beacon payload onto victims
+used pass hash
+user
+user 's command history
+user 's login password
+user OAuth access tokens
+user account
+user account information
+user account net user > > directory
+user accounts
+user click
+user credentials
+user credentials , including passwords ,
+user directories victim
+user files
+user launch agents
+user launch agents named l st com le
+user logon tokens
+user name
+user name system
+user names
+user open
+user open links attachments
+user pressing " Take Screenshot " key , accessing screenshot saved clipboard
+user profile data
+user profiles
+user token
+user tokens
+username
+username password
+username running processes
+username victim
+usernames
+usernames hashed passwords
+usernames password hashes
+usernames passwords
+usernames passwords stored browsers
+users
+users click Microsoft Office attachments containing malicious macro scripts
+users click links emails attachments , enable content malicious attachments , execute malicious files contained archives
+users clicking embedded image
+users download run malware
+users enable macros launch malicious Microsoft Word documents delivered via spearphishing emails
+users execute malware via social media spearphishing emails
+users launch malicious Microsoft Office attachments delivered via spearphishing emails
+users launch malicious Microsoft Word attachment delivered via spearphishing email
+users launch malicious Microsoft Word attachments delivered via spearphishing emails
+users launch malicious attachments delivered via spearphishing emails
+users mounting executing malicious DMG file
+users open links attachments
+users opening malicious links attachments delivered spearphishing
+users remote systems
+users set Web servers enterprise network
+users system
+users victim environment
+using AES DES encrypt payloads payload components
+using AppCertDLLs Registry key
+using Forfiles stage documents
+using Group Policy configure block additions / modifications W32Time DLLs
+using Group Policy configure block modifications W32Time parameters Registry
+using IP whitelisting along user account management ensure data access restricted valid users expected IP ranges mitigate use stolen credentials access data
+using Mimikatz
+using PowerShell script launch shellcode retrieves additional payload
+using RC4 encryption
+using base64
+using certutil
+using commands wevtutil cl System wevtutil cl Security
+using first stage downloader contact C2 server obtain second stage implant
+using hard coded list passwords brute force user accounts
+using legitimate Kaspersky antivirus variants DLL acts stub loader loads executes shell code
+using multi factor authentication restrict access resources cloud storage APIs
+using temporary credentials accounts valid certain period time reduce effectiveness compromised accounts
+using tool , scr
+utility
+utilize encryption within network protocols
+valid , compromised email accounts
+valid AppleDeveloperID
+valid SSH accounts
+valid accounts
+valid accounts shared Managed Service Providers clients
+valid credentials
+valid credit card numbers
+valid users provide access system
+valid version Windows Address Book executable
+value
+value Windows Update Registry Run key
+value Ã¢Â€ÂœShellÃ¢Â€Â
+values
+variables
+variant
+variant Elise
+variant RATANKBA
+variation XOR cipher
+variations simple XOR encryption routine
+variety PowerShell scripts
+variety Web shells
+variety enumeration modules option use API calls carry tasks
+variety methods
+variety payloads
+variety publicly available tools like LaZagne , Mimikatz , Gpppassword , SniffPass , ProcDump
+variety tasks
+variety user files
+various DLL files
+various WMI queries
+various Windows API functions
+various XOR ciphers , well custom algorithm uses " srand " " rand " functions
+various XOR operations
+various XOR techniques
+various batch scripts
+various files
+various forms spearphishing
+various information
+various malware
+various methods process injection including hot patching
+various modules
+various modules emulating service execution tools PsExec
+various modules finding files interest hosts network shares
+various processes
+various scripts
+various social media channels
+various subdirectories
+various tasks
+various techniques
+various tools
+various types scripting
+various types scripts
+ver , systeminfo , gpresult commands
+ver command
+version
+version Windows earlier Windows XP
+versions Mimikatz PwDump6
+versions Windows Credential Dumper , HookChangePassword , Outlook Credential Dumper
+victim
+victim 's % TEMP% directory path version Internet Explorer
+victim 's IP address
+victim 's IP address domain information
+victim 's Internet Explorer version
+victim 's MBR
+victim 's computer name
+victim 's computer name , Windows version , system language
+victim 's current directory
+victim 's current time
+victim 's database systems
+victim 's desktop file
+victim 's domain NetBIOS name
+victim 's endpoint management platform , Altiris ,
+victim 's firewall anti virus
+victim 's local IP address , MAC address , external IP address
+victim 's local drives
+victim 's logical drives type , well total / free space fixed devices
+victim 's mapped drives
+victim 's operating system version keyboard layout
+victim 's processes
+victim 's processes searching explorer
+victim 's proxy configuration
+victim 's proxy information
+victim 's screen
+victim 's system name operating system version
+victim 's username
+victim 's username send C2 server
+victim 's web browser
+victim 's webcam
+victim IP address
+victim IP address , MAC address , well victim account domain name
+victim LAN IP address
+victim MAC address LAN IP
+victim OS version
+victim PC name OS version
+victim PC name operating system
+victim account credentials
+victim computer name
+victim computer name serial number
+victim credentials
+victim drive information
+victim drive information well list folders directory
+victim drives
+victim files
+victim host details
+victim host name serial number
+victim hostname , Windows version , RAM amount , number drives , screen resolution
+victim hostname , window resolution , Microsoft Windows version
+victim information
+victim internal external IPs
+victim machine
+victim machine function proxy server
+victim machine information like OS version , drivers , volume information
+victim networks
+victim operating system computer name
+victim proxy information
+victim storage volume serial number storage device name
+victim system information
+victim system information , including system name OS version
+victim time zone
+victim user name
+victim username
+victim username permissions
+victims
+victims ' conversations
+victims ' email accounts
+victims ' publicly accessible email web servers
+victims ,
+victims interest
+victims launch malicious Microsoft Word attachments delivered via spearphishing emails
+victims machine
+victims open malicious Microsoft Word PDF attachment sent via spearphishing
+victims open malicious Microsoft Word attachment sent via spearphishing
+victims open malicious files Windows Shortcuts and/or Microsoft Office documents , sent via email part spearphishing campaigns
+victimÃ¢Â€Â™s IP address
+victimÃ¢Â€Â™s IP address domain name
+victimÃ¢Â€Â™s OS version machine name
+victimÃ¢Â€Â™s machine
+victimÃ¢Â€Â™s screen
+victimÃ¢Â€Â™s username
+victimÃ¢Â€Â™s username whether user admin
+victimÃ¢Â€Â™s webcam
+video
+video device spying
+videos victims
+virtual point point sessions
+virus
+virus propagates infecting executables stored shared drives
+visual obfuscation techniques
+voice recording
+volume
+volume drives available victim 's machine
+volume information
+volumes
+volumes mapped system
+vssadmin , wbadmin , bcdedit
+vulnerabilities
+vulnerability
+vulnerable Outpost Sandbox avast
+vulnerable modification
+vulnerable systems
+vulnerable versions Flash
+watchdog functionality
+watering hole
+watering hole attack forbes
+watering hole attacks
+watering hole websites
+watering holes
+watering holes compromise victims
+watering holes schemes
+way
+way " beacon " payload communicates
+weaponized Microsoft Word documents abusing remote template function
+web browsers
+web injects browser redirection
+web logs
+web page
+web shells
+webcam
+webcam data
+webcam victimÃ¢Â€Â™s machine
+webcam viewing
+webpage
+webpage hosted Pastebin
+webroot directories
+webserver
+webshells
+website
+websites
+wevtutil
+whether C2 server wishes execute newly dropped file hidden window
+whether low integrity high integrity
+whitelisting
+whoami
+whoami command
+whoami commands
+whoami query user
+whoami query user commands
+wide variety ransomware , Locky , Jaff , Bart , Philadelphia , GlobeImposter ,
+window
+window names
+window titles
+windows
+windows perform Screen Capture
+winrar
+wipe every byte every sector every drive
+wipe files shares
+wmic
+words lists
+words Ã¢Â€Âœhacked , " " phish , " Ã¢Â€Âœmalware "
+wrapper DLL
+xCmd
+yty
+zip -r command
+zip files
+zlib
+zwShell
+Ã¢Â€Âœ WinlogonÃ¢Â€Â
+Ã¢Â€ÂœProgram FilesÃ¢Â€Â directories
+Ã¢Â€ÂœattachedTemplateÃ¢Â€Â technique
+Ã¢Â€ÂœdeleteÃ¢Â€Â command
+Ã¢Â€Âœenable contentÃ¢Â€Â execution
+Ã¢Â€Âœnet userÃ¢Â€Â commands

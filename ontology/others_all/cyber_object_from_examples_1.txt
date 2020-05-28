@@ -1,0 +1,1172 @@
+virtual machine environment
+0 characters
+0xaa key
+windows services system
+3-des
+30 minute delay execution
+32-byte long multi xor key
+36-character guid value
+36-character guid value used encryption key subsequent network communications
+3des rsa
+3des xor
+3para rat command control commands
+443
+4h rat
+7080 50000
+8-byte xor key
+8-byte xor key derived string hyf549jkmcxuis
+ability create hide users
+ability upgrade replace binary
+abuse outlook rules forms home pages
+access
+access across waves compromise
+access additional systems enterprise network resources
+access cloud instance metadata api
+access control lists
+access dccc network
+access email boxes additional targeted accounts
+access intended malware sample day 's tweet image file containing command
+access internet accessible resources outlook web access could used redundant access
+access keys
+access network
+access resources cloud storage apis
+access server
+access services running victim rdp
+access storage solutions
+access system
+access target email accounts including gmail yahoo mail
+access target systems
+access tokens
+access victim environment
+access victim machines
+access victim network
+access victim systems
+access windows registry used gather information
+accessible physical logical drives infected machine
+account discovery
+account hashes
+account information
+account listings victim
+account name logged user
+account names
+account password information
+account passwords
+accounts
+accounts support388945a0
+accounts system
+accounts victims including administrator accounts appeared tailored individual staging target
+actions
+active directory data
+active local network connections
+active logon session password hashes
+active network connections
+active processes
+active processes running victimã¢â€â™s machine
+active rdp sessions
+active screen victimã¢â€â™s machine
+active tcp connections local system
+active tcp connections network statistics
+active windows
+active windows machine
+activex
+activex objects
+actors behind ransomware manually copying files form computer computer instead self propagating
+actors spawn reverse shell victim
+ad updates
+adapter configuration
+add feature
+add scheduled task establish persistence
+add shortcut file startup folder achieve persistence
+adding downloaded payload key maintain persistence
+additional access
+additional code
+additional commands
+additional components
+additional file
+additional frameworks
+additional information
+additional malware
+additional modules
+additional payloads
+additional scripts
+address book information
+address c2 server
+address resolution protocol table
+admin c windows dwindows ewindows
+admin share
+admin338
+admin338 actors
+administrative access
+administrative panels
+administrative privileges
+administrative shares c admin
+administrative users dc servers
+administrator accounts
+administrators environment
+administratorã¢â€â™s account
+adobe flash player update installer
+advantage
+adversaries
+adversaries bypass standard authentication system use defined password accounts authenticating domain controller
+adversaries enumerate modify infected host 's file system
+adversaries execute shell commands infected host
+adversaries modify way beacon payload communicates
+adversaries search files
+adversary access privileged accounts access necessary replace system firmware
+adversary use proxy credentials subsequent requests enable outbound http access
+advstoreshell
+aes
+aes base64 encoding multiple keys
+aes caracachs rc4 basic xor constant 0xa7 techniques
+aes des
+aes preshared key
+aes xor
+aes256
+aes256 rsa-2048
+affix
+agent
+agent tesla
+algorithm
+allow penetration test team mimic known apt c2 methods
+already opened channel
+alternate data stream
+alternate data stream named kernel32
+alternative base64rc4 caesar cipher
+alternative instructions
+ammyy admin tool well teamviewer
+amsi
+amsi bypass patches memory amsi powershell scripts bypass windows antimalware products
+analysis
+analysis and/or reverse engineering
+analysis attack difficult
+analysis command protocol wire
+analysis daserf
+analysis difficult
+analysis processes
+android backdoors capable enumerating specific files infected devices
+android backdoors capable exfiltrating specific files directly infected devices
+another
+another dropper
+another layer encryption
+another malicious file
+another malicious file delivered victim
+another payload
+another process
+another server
+another utility
+another variant
+antak aspxspy web shells
+anti analysis checks
+anti malware processes
+anti malware programs
+anti malware services
+anti malware software researchers
+anti malware strings anti virus processes running system
+anti virus
+anti virus anti spyware firewall products
+anti virus anti spyware firewall products installed victimã¢â€â™s environment
+anti virus anti spyware tools
+anti virus detection
+anti virus found victim
+anti virus installed infected system
+anti virus processes
+anti virus products
+anti virus products installed victimã¢â€â™s machine
+anti virus software
+anti virus software firewall products
+anti virus software firewall products installed victimã¢â€â™s machine
+anti virus software installed system
+anti virus software running system
+anti vm checks
+antimalware processes
+antimalware running process
+antivirus software
+antivirus tools
+anything sudoers file
+aol instant messenger
+api
+api call changeserviceconfigw
+api call shellexecutew
+api calls
+api calls ntquerysystemtime getsystemtimeasfiletime gettickcount
+api function names
+api hooking
+api names
+api names strings
+api names strings contained payload
+apis calls various tasks related subverting amsi accessing executing commands rpc and/or named pipes
+apis strings typeframe variants
+appcertdlls registry key
+appcmd
+appear like legitimate windows services names windows management help service microsoft support windows advanced task manager
+applescript
+application check performance usb flash drives
+application context
+application defined windows hook
+application script / file
+application shim databases
+application windows
+applicationhost
+applications
+applications installed
+applications masquerading google defender google email protection google scanner gmail users
+applications ports
+applications ports windows firewall
+applocker
+appropriate change management
+apps
+apt c2 methods
+apt1
+apt12
+apt18 actors
+apt19
+apt28
+apt28 loader trojan
+apt29
+apt3
+apt3 downloader
+apt30
+apt32
+apt32 's backdoor
+apt32 's macos backdoor
+apt33
+apt37
+apt38
+apt39
+apt41
+apt41 malware tidyelf
+arbitrarily sized portions disk content
+arbitrary commands
+archive file types interest victim user 's directories
+archive stolen data
+archives
+archives containing lnk files password protected archives containing executables
+arp
+arp -a command
+arp -a nbtstat -n nbtscan net config commands
+arp configuration information
+arp scanning well port scanning
+artifacts
+asking victim pay ransom
+aspxtool version
+aspxtool version used threat group-3390
+assembly
+astaroth
+attachment file names
+attachment names
+attachments
+attack traffic
+attempting get user open links attachments including limited malicious microsoft word documents files
+attrib h
+attrib h icacls
+audio
+audio capture
+audio capturing utility
+audio feeds
+audio victim machine
+audio video calls
+auditcred
+authenticated sessions remote systems smb
+authentication
+authentication events
+authentication portals
+authentication window users enter credentials
+author modified code try hide dde object different part document
+autoit vbs scripts
+automated analysis emulators sandboxes
+automated collection
+automated screenshots infected machine
+automated scripts
+automatic execution every system startup
+automatically relaunching forwarding mechanisms recurring intervals
+autorun
+autorun file
+autorun functionality
+autostart registry key
+av detection
+av detection rates
+av evasion
+av evasion methods java bytecode obfuscation
+av products ' processes
+available drives victim 's machine
+available netbios name servers
+available netbios name servers network
+available services system
+avira anti virus
+avs
+avs registered system
+axiom
+axiom actors
+axiom group
+azorult
+babyshark
+back c2 infrastructure
+backconnect module tunneling network traffic victim 's computer
+backdoor 's configuration
+backdoor accounts
+backdoor command control channel
+backdoor files
+backdoor http
+backdoor known badflick capable generating reverse shell
+backdoor macro
+backdoor payload
+backdoor port 443
+backdoor quickride
+backdoor remote attackers adjust token privileges
+backdoor remote attackers change c2 servers
+backdoor remote attackers change frequency compromised hosts contact remote c2 infrastructure
+backdoor remote attackers clear system event logs
+backdoor remote attackers create service
+backdoor remote attackers delete files
+backdoor remote attackers download files
+backdoor remote attackers download files onto compromised host
+backdoor remote attackers inject files running processes
+backdoor remote attackers list contents drives search files
+backdoor remote attackers load call dll functions
+backdoor remote attackers obtain data local systems
+backdoor remote attackers open command line interface
+backdoor remote attackers read data files
+backdoor remote attackers retrieve files
+backdoor remote attackers retrieve information computer name os version processor speed memory size cpu speed
+backdoor remote attackers retrieve information hostname free disk space
+backdoor remote attackers retrieve ip addresses compromised machines
+backdoor remote attackers retrieve lists files
+backdoor remote attackers retrieve lists running processes
+backdoor remote attackers retrieve system information
+backdoor remote attackers retrieve system information cpu speed registry keys
+backdoor remote attackers start remote shell
+backdoor remote attackers steal system information
+backdoor remote attackers upload files
+backdoors
+backdoors custom communications protocol
+backdoors downloaders
+backspace
+backspace execute command line infected hosts
+backup rdp tunnel
+backup web shells
+backups
+backward compatibility setting
+badcall
+badnews
+badpatch
+bandook
+bankshot
+base directory contains files folders collected
+base64
+base64 encoded c2 communications
+base64 encoded document
+base64 encoded document embedded vbs script
+base64 encoded payload
+base64 encoded powershell commands
+base64 encoding
+base64 framework called dont kill cat
+base64 gzip compression
+base64 obfuscation vbscripts powershell commands
+base64 strings
+base64-encoded assembly
+base64-encoded commands files
+base64-encoded content
+base64-encoded content contained dropper document attached email
+base64-encoded file
+base64-encoded files victims
+base64-encoded network protocol
+base64-encoded powershell commands
+base64-encoded strings
+bash histories
+bash scripts
+basic commands
+basic obfuscation form spaghetti code
+bat
+bat vbs scripts
+batch file
+batch file configures comsysapp service autostart
+batch file mechanism
+batch file modifies registry keys launch dll svchost process
+batch script adds registry run key
+batch script execute set commands command prompt
+batch script uses rundll32 execute dll payload
+batch scripts
+batch scripts binaries
+battery status
+bbsrat
+beacon payload
+beacons
+behavior
+binaries hidden inside certificate files base64 information
+binaries like sethc utilman
+binary
+binary padding
+binary shellcode loader
+bios device firmware
+bios firmware
+bios manufacturer information
+bios modification
+bios version
+bios versions manufacturers number cpu cores total physical memory computer name
+bisonal
+bisonal 's dll file non malicious decoy file
+bitmap images
+bits jobs
+bitsadmin
+bitwise xor operations
+blackcoffee
+blackenergy
+blackenergy 2
+blackenergy 3 variant
+blackoasis 's first stage shellcode
+blend
+blob
+blocking
+blogpost
+blogs wordpress
+bluetooth beacon
+bluetooth devices vicinity
+bluetooth functionality
+bondupdater
+boostwrite
+boot record
+borland delphi mangle default pe compile timestamp file
+braintest
+branding
+briba
+bronze
+bronze butler
+browser attacks
+browser data
+browser password grabber modules including mimikatz
+browser pivoting
+browser root certificates
+browser usernames passwords
+browser web socket client
+browsing history
+browsing history cookies plug information
+brute force attack
+brute force password guessing
+brute force password hashes able leverage plain text credentials
+brute force techniques
+brute forcing
+build identifier well victim hard drive information
+built modules
+bypass uac escalation privileges
+bypass windows antimalware products
+bytes
+c class subnet ips victim 's interfaces
+c code
+c2
+c2 addresses
+c2 beacons
+c2 channel
+c2 commands
+c2 communications
+c2 configuration information
+c2 data
+c2 information
+c2 infrastructure
+c2 instructions
+c2 ip address port number
+c2 location
+c2 mechanism similar port knocking
+c2 network communications
+c2 payloads
+c2 protocol
+c2 response base64-encoded
+c2 responses
+c2 server
+c2 server locations
+c2 server names
+c2 traffic
+c2 traffic advstoreshell
+c2 traffic threat group-3390 tools
+cab file
+cab file gets encoded upon infection
+cached credentials
+cached password hashes
+cacls
+calisto
+camellia cipher
+capability modify beacon payload eliminate known signatures unpacking methods
+capture
+captured credential information
+caracachs encryption
+carbanak
+carbanak actors
+carbanak malware
+carbanak payloads
+carbon
+cardinal rat
+cardinal rat watchdog component
+cast-128 algorithm
+cat directory grep -c ã¢â€âœcpu familyã¢â€â 21 command
+catchamas
+cc communication using base64
+ccbkdr
+certain applications
+certain applications present including securecrt terminal services realvnc tightvnc ultravnc radmin mremote teamviewer filezilla pcanyware remote desktop
+certain attributes creation / modification timestamps
+certain detection tools
+certain extensions
+certain extensions defined list
+certain extensions names
+certain file extension
+certain files
+certain information
+certain keywords list obtained c2 text file
+certain operating system artifacts
+certain registry keys
+certain types files / directories
+certain values
+certificate
+certificate originally used hacking team
+certificates cookies
+certutil
+certutil -decode
+certutil bitsadmin
+certutil command
+cggetactivedisplaylist cgdisplaycreateimage nsimag methods
+channel
+chaos
+character insertion obfuscation technique
+character replacement powershell environment variables xor encoding
+chches
+chches samples
+child processes
+china chopper
+china chopper 's client component
+chinese characters
+chm files
+chm payload
+chopstick
+chopstick modules
+chunks
+cipher
+class
+class named mmdeviceenumerator
+cleanup activities
+cleanup module
+clear text credentials
+clear text value
+cleaver
+click enable content button execute payload system
+click image document drop malware disk
+client ip address
+clientid
+clientid file
+clipboard contents
+clipboard data
+clipboard pastes
+clipboard pastes collect
+cloud based remote access software
+cloud based remote access software called logmein
+cloud based services
+cloud resources
+cloud storage apis cloud box dropbox yandex
+cloudduke
+cmd
+cmd directory
+cmd process execute commands
+cmd reverse shell
+cmstp malicious inf
+cobalt group
+cobalt strike
+cobalt strike module
+code
+code clear event logs
+code compress files
+code delete files victimã¢â€â™s machine
+code execution
+code execution part
+code injection
+code obfuscation
+code open copy data clipboard
+code signing certificates
+cointicker
+collect passwords browsers
+collected data
+collected files
+collected files ' path
+collection
+collection codeexecution modules enable injecting code reflectively loading windows pe file process
+collection exfiltration modules access data local files volumes processes
+collection exfiltration modules harvest credentials group policy preferences windows vault credential objects using mimikatz
+collection privesc powerup modules discover replace / modify service binaries paths configs
+collection scriptmodification modules compress encode scripts payloads
+com hijacking
+com interface iwebbrowser2
+com objects
+com properties
+com scriptlet
+com scriptlet dynamically downloaded backdoor injected memory
+combination ntwdblib cliconfg
+comman net start directory
+command certutil -decode
+command cmd directory netsh firewall add portopening tcp 443 adp
+command cmstp directory directory directory
+command collect exfiltrate emails outlook
+command collect information anti virus software victim
+command collect victim mac address lan ip
+command collect victim pc name operating system
+command compile archive file types interest victim user 's directories
+command containing x
+command control
+command control infrastructure
+command control protocols like http https
+command control traffic
+command control urls
+command download execute file remotely hosted url using wininet http requests
+command download run executable
+command execution
+command history
+command ipconfig -all nbtstat -n nbtstat -s
+command ipconfig directory
+command line
+command line access
+command line arguments
+command line comman
+command line functions
+command line interaction
+command line interface
+command line interface reverse shell
+command line rundll32
+command line shells
+command line tunneler nachocheese
+command list processes
+command ls directory egrep -efedoradebiangentoomandrivamandrakemeegoredhatlsb-sun-suserelease
+command net localgroup administrators
+command net start
+command net start victim
+command net time ip address
+command net view directory
+command netstat -nao
+command output
+command perform screen captures
+command prompt
+command query user
+command reg add ã¢â€âœ winlogonã¢â€â
+command reg query ã¢â€âœ â€â
+command shell
+command shell interface executing commands
+command systeminfo
+command terminal
+command traffic
+command ã¢â€âdirectorydirectory directory directory daily directory 1200 directory microsoftedge directory ã¢â€âœdirector ã¢â€â
+commands
+commands / scripts
+commands control server
+commands custom backdoors
+commands discovery
+commands download payloads traverse compromised networks carry reconnaissance
+commands enumerating host
+commands files
+commands identify hostã¢â€â™s ip address find network configuration settings viewing connected sessions
+commands ipconfig directory arp -a route print
+commands list files directories well search files matching certain extensions defined list
+commands net group exchange trusted subsystem directory net group domain admins directory
+commands net group net localgroup
+commands net localgroup administrators net group domain controllers directory
+commands net localgroup administrators net group redacted directory specific permissions groups
+commands net localgroup net user net group
+commands net start tasklist
+commands net use net session
+commands net user
+commands net view
+commands netsh advfirewall firewall
+commands netsh interface show
+commands nltest directory
+commands payload
+commands second victim
+commands ssh well
+commands stolen data
+commands systeminfo net config workstation
+commands systeminfo net config workstation hostname ver set date directory
+commingling legitimate traffic communications traffic network streams appear legitimate
+commmands
+common binary packers upx aspack
+common function
+common methods
+common ports 80 443
+common software skype telegram steam
+common system information
+commonly used ports
+commonly used ports 443 53 80 25 8080
+communicating non standard ports including 7080 50000
+communicating uncommon tcp ports including 1177 8282
+communication c2 server
+communications
+communications payload
+communications primary command control server
+comnie
+comodo code signing certificates
+companies
+company hacking team
+compilation timestamp
+compiled html file contained command download run executable
+compiled html files
+complete contents ' pictures ' folder
+component based code vnc stream live feed desktop infected host
+components
+components ' outputs
+components disk structure like mbr disk partitions
+compress technique
+compressed encrypted rar files containing exfiltration
+compression
+compromise cleanup
+compromised accounts
+compromised and/or spoofed email accounts
+compromised credentials
+compromised host
+compromised networks
+compromised system
+compromised vpn accounts
+compromised wordpress blogs
+computer files
+computer name
+computer name bios model execution path
+computer name host name compromised system
+computer name information
+computer name language settings os version cpu information disk devices time elapsed since system start
+computer name os version default language identifier
+computer name os versioning information os install date
+computer name ram used operating system version
+computer name serial number main disk volume cpu information microsoft windows version
+computer name system manufacturer isdebuggerpresent state execution path
+computer name victim 's system
+computers
+comsysapp service
+concealed payloads
+concurrent remote desktop protocol
+configuration
+configuration data
+configuration data modules
+configuration files
+configuration files commands
+configuration information
+configuration settings aes rc4
+confuser protector
+connect windows shares lateral movement using generated list usernames center around permutations username administrator weak passwords
+connected devices
+connected network shares
+connected sessions
+connected usb devices
+connected webcam
+connection
+connection 19218460
+connection proceed
+connection test
+connections networks
+contact c2 server tcp using port 80
+container images
+container images signed trusted sources
+containing links domains controlled threat actor
+content
+content desktop
+content malicious attachments
+content operation
+content trust models require container images signed trusted sources
+contents directory
+contents drives
+contents file storing base64 encoded payload
+contents folders victim
+continued access via rdp
+control mouse keyboard
+control using cobalt strike module
+control victimsã¢â€â™ machines
+controls
+cookie values
+cookie values base64-encoded
+cookies
+copies
+copy cmd
+copy files network shares computers move laterally
+copy infected system 's rundll32 executable
+copy infected system 's rundll32 executable moved malware 's install directory renamed according predefined configuration file
+copy local lsass file
+copy lsass
+copy openssl library encrypt c2 traffic
+copy rundll32
+copy tor2web proxy
+copy victim 's active directory database
+copying files
+copykittens
+core windows os files
+coreshell
+coreshell c2 messages
+correct startup path
+correct startup path use persistence
+cosmicduke
+cosmicduke searches
+cozycar
+cozycar configuration file
+cpu information os information system language
+cpu information win32processor entry
+cpu speed computer name volume serial number ansi code page oem code page identifier os microsoft windows version memory information
+crackable ticket hashes
+create custom python scripts perform tasks offline sandbox detection adding persistence etc
+created accounts
+createprocess
+createprocess loadlibrary calls
+createprocessasuser
+createprocessw
+createtoolhelp32snapshot
+creating new services maintain persistence
+creating new session
+creation time kernel32
+credential dumping
+credential dumping tools
+credential dumping tools mimikatz lazagne
+credential information
+credential logger
+credential objects
+credential stealer
+credential stealer known zumkong harvest usernames passwords stored browsers
+credentials
+credentials belonging domain database servers
+credentials keystrokes
+credentials later used lateral movement
+credentials passed http smtp smb
+credentials passwords
+credentials stolen spearphishing email
+credentials stored compromised machines
+credentials stored files host various software programs including bat
+credentials stored inside internet explorer
+credentials stored web browsers
+credentials used part windows ntlm user authentication
+credentials victim
+credenumeratea api
+crimson
+critical values
+cron job
+cron tasks
+cronjob
+crontab
+crypto key information
+crypto key information stored registry
+cryptocurrency mining software
+cryptocurrency ransom
+cryptocurrency ransom paid
+cryptographic keys certificate file extensions
+curl set quarantine flag
+current content user clipboard
+current date time victim machine
+current date time zone information
+current date victim system
+current desktop
+current directory name well size file
+current domain information
+current domain victim system belongs
+current execution path
+current ip address
+current logged userã¢â€â™s username
+current netbios sessions
+current network connections
+current network connections host
+current network connections similar net use
+current one
+current parent process ids
+current privileges
+current processes
+current processes running
+current remote desktop sessions
+current running processes system
+current running username
+current system time
+current temperature hardware
+current time zone date information
+current time zone information
+current timestamp victim 's machine
+current user
+current user 's name sid
+current username
+current working directory
+currently logged users windows hosts
+currently running processes
+custom base64 encoding
+custom base64 encoding schemes
+custom base64 routine
+custom base64 routine used encode strings scripts
+custom batch scripts
+custom binary protocol
+custom binary protocol c2
+custom command
+custom command control protocol
+custom command control protocol communicates commonly used ports
+custom command control protocol communicates commonly used ports frequently encapsulated application layer protocols
+custom command control protocol encapsulated http https dns
+custom crypter leveraging microsoftã¢â€â™s cryptoapi
+custom cryptographic protocol
+custom decryption routine pulls key salt values artifacts wmi filter powershell profile
+custom dns tunneling protocol
+custom dns tunneling protocols c2
+custom encryption
+custom encryption algorithm
+custom encryption cipher
+custom encryption method
+custom keylogger
+custom mbr wiper
+custom mbr wiper named bootwreck
+custom network encryption software
+custom packer
+custom packet format tcp udp
+custom port scanner
+custom port scanner known bluetorch
+custom protocol
+custom protocol tcp
+custom scripts
+custom secure delete function
+custom ssl libraries
+custom stream cipher
+custom tcp protocol
+custom tool
+custom tool creating reverse shells
+custom udp protocol
+custom video recording capability
+custom ã¢â€âœredirectexeã¢â€â shim database
+customers deactivate unused regions
+cve-2013 3660 cve-2011 2005 cve-2010 4398 could allow local users access kernel level privileges
+cve-2014 4076 cve-2015 2387 cve-2015 1701 cve-2017 0263
+cve-2014 6324
+cve-2015 1701
+cve-2015 1701 cve-2015 2387
+cve-2015 4902
+cve-2016 4117
+cve-2016 7255
+cve-2017 0199 cve-2017 8759 cve-2017 11882
+cve-2017 11882 cve-2018 0802 cve-2012 0158
+cve-2017 8570 cve-2012 1856 cve-2014 4114 cve-2017 0199 cve-2015 1641
+daniel bohannonã¢â€â™s invoke obfuscation framework
+dark caracal
+dark caracal 's version bandook
+darkcomet
+darkhotel
+darkhydrus
+daserf
+daserf samples
+dashboard visibility
+data
+data access
+data access restricted valid users expected ip ranges mitigate use stolen credentials access data
+data c2 channel
+data captured rawpos
+data clipboard
+data collected local system
+data collected victim mobile device
+data command traffic
+data containing c2 configuration information
+data copied drive spaceship
+data dns queries
+data exfiltration
+data exfiltration accomplished following command line comman
+data gathered target
+data hexadecimal format c2 channel
+data including registry entries file paths
+data intended exfiltrated
+data local files volumes processes
+data received c2 servers
+data remsec
+data restored easily
+data sent server base64
+data separate main command control protocol
+data spaceship copies staging area
+data staged tmp files exfiltration
+data stored clipboard
+data stored victim hard drives
+data stores
+data transfers untrusted vpcs
+data using base64
+data victim
+data victimã¢â€â™s machine
+databases
+date file
+date time system
+day day activities
+dccc computer
+dccc network
+dcom
+dcshadow module
+dde
+dde object
+dde protocol
+ddkong
+dead drop resolver
+dealerschoice
+debugger
+decoding function
+decoy document
+decrypted malicious dll module
+decrypted payload
+decryption
+deep panda
+default browser path
+default file types
+default manufacturer 's passwords
+default pe compile timestamp file
+default program association registry
+default user access control settings
+defenses
+defensive measures
+defined password
+deleted files unrecoverable
+deletefilew api call
+deletfilefrompath function delete specified file using nsfilemanage method
+deleting executable
+deleting files payloads make analysis attack difficult
+deleting original launcher execution
+deleting scripts used
+deleting shadow copies ensure data restored easily
+deleting temporary files fulfill task
+deleting victim
+delivery service mcafee email protection
+delphi backdoor
+denis
+depending system 's cpu architecture
+derusbi
+derusbi variants
+des
+des algorithm
+des decoding
+desitnation
+desktop screenshots
+desktop video recording
+destination c2 traffic
+destination network traffic
+destover like implant
+destover like implant used lazarus group
+destover like variant
+destover like variant lists files gathers information drives
+destover like variant used lazarus group
+detailed information remote systems
+detailed listing specified directory
+details
+detect infected host configured proxy
+detect several anti virus products
+detect usable smart card current inserted card reader
+detect virtual pc sandboxie vmware
+detected hardware tokens
+detection
+detection based use tool
+detection memory
+determine installed version net querying registry
+device
+device certificates 8021x standard
+device instance id drive geometry
+dga
+dget
+dialog box
+different components machete
+different encryption method
+different types packers
+different types packers known custom
+different versions targeted victims versions may work together
+difficult adversaries advance operation exploitation undiscovered unpatched vulnerabilities using sandboxing
+digital certificate
+digital signature
+dipsind
+dipsind variant
+dir
+dir directory
+direct communication victims internet
+direct connection
+direct sql connection microsoft database controlled attackers
+director
+directories desktop program files userã¢â€â™s recently accessed files
+directories drop files
+directories format
+directories victim
+directory
+directory 's contents
+directory access controls
+directory called index
+directory contents
+directory directory
+directory file drive listings
+directory listing
+directory listing desktop temp directory
+directory logical drives
+directory named
+disable uac remote restrictions modifying registry
+disabling emond
+disabling system firewall turning windows security center
+disaster recovery plans contain procedures taking regular data backups used restore organizational data
+discovery commands net user net group net local group etc
+discovery information
+discovery permission groups net group directory
+discovery techniques
+discovery value dashboard event compromised account
+disk information
+disk space information
+disk volume information
+disks
+display names
+dll
+dll backdoor
+dll downdelph
+dll dropper
+dll file
+dll file gets executed service using svchost
+dll functions
+dll hijacking
+dll injection
+dll known sedll
+dll loading
+dll payload
+dll search order hijacking
+dll search order hijacking wrapper dll placed folder explorer loaded startup windows explorer process instead legitimate library
+dll side loading
+dll side loading malware
+dlls named pipes
+dmg
+dnc network
+dns
+dns based blocking communication command control server
+dns ip proxies
+dns requests udp port 53
+dns tunneling
+dns txt records
+document
+documents 15 mb
+documents based specific date range
+documents malicious executables
+documents matching certain extensions
+documents victim
+dogcall
+dok
+domain admins power users administrators groups
+domain controllers
+domain credentials
+domain database servers
+domain forest trusts
+domain fronting
+domain name
+domain names c2
+domain password policy
+domain trusts
+domain workgroup information
+domains
+downdelph
+download encrypted binary specified domain
+downloaded file
+downloaded payload
+downloader tools
+downloaders
+downloaders known hardtack shipbread pos malware known trinity
+downloading secondary payload
+downpaper
+dragonfly
+dragonfly 20
+drive attacks vulnerable browser plugins
+drive information
+drive type victim
+drive types
+driver services
+drivers
+drives
+drives connected system
+drives file extensions keywords match predefined list
+drives infected system
+drives remote desktop sessions
+dropbox api
+dropbox cloud storage service
+dropper called maocheng
+dropper document
+dropper program
+droppers
+dsquery

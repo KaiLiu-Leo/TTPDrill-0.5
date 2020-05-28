@@ -1,0 +1,55 @@
+what,where,why,how,when,text,id
+setting,Registry values,,,,ADVSTORESHELL is capable of setting and deleting Registry values., T1112 
+deleting,Registry values,,,,ADVSTORESHELL is capable of setting and deleting Registry values., T1112 
+uses,Port 22 malware variant,,,,APT19 uses a Port 22 malware variant to modify several Registry keys., T1112 
+modify,several Registry keys,,,,APT19 uses a Port 22 malware variant to modify several Registry keys., T1112 
+modified,Windows Registry,store backdoor 's configuration,,,APT32's backdoor has modified the Windows Registry to store the backdoor's configuration., T1112 
+store,backdoor 's configuration,,,,APT32's backdoor has modified the Windows Registry to store the backdoor's configuration., T1112 
+uses,APT38,,,,APT38 uses a tool called CLEANTOAD that has the capability to modify Registry keys., T1112 
+called,tool,,,,APT38 uses a tool called CLEANTOAD that has the capability to modify Registry keys., T1112 
+modify,Registry keys,,,,APT38 uses a tool called CLEANTOAD that has the capability to modify Registry keys., T1112 
+used,malware variant called GOODLUCK,,,,APT41 used a malware variant called GOODLUCK to modify the registry in order to steal credentials., T1112 
+called,malware variant,,,,APT41 used a malware variant called GOODLUCK to modify the registry in order to steal credentials., T1112 
+modify,registry,order steal credentials,,,APT41 used a malware variant called GOODLUCK to modify the registry in order to steal credentials., T1112 
+steal,credentials,,,,APT41 used a malware variant called GOODLUCK to modify the registry in order to steal credentials., T1112 
+deleting,"Registry keys , sub keys , values",,,,"BACKSPACE is capable of deleting Registry keys, sub-keys, and values on a victim system.", T1112 
+modifies,firewall Registry key,,,,BADCALL modifies the firewall Registry key     ., T1112 
+writes,data,,Registry key,,Bankshot writes data into the Registry key   ., T1112 
+sets,Cardinal RAT,,,,Cardinal RAT sets       to point to its executable., T1112 
+,,,,,Cardinal RAT sets       to point to its executable., T1112 
+creates,three Registry keys,establish persistence adding New Service,,,Catchamas creates three Registry keys to establish persistence by adding a New Service., T1112 
+establish,persistence,,adding New Service,,Catchamas creates three Registry keys to establish persistence by adding a New Service., T1112 
+adding,New Service,,,,Catchamas creates three Registry keys to establish persistence by adding a New Service., T1112 
+,,,,,CHOPSTICK may store RC4 encrypted configuration information in the Windows Registry., T1112 
+store,RC4 encrypted configuration information,,,,CHOPSTICK may store RC4 encrypted configuration information in the Windows Registry., T1112 
+encrypted,configuration information,,,,CHOPSTICK may store RC4 encrypted configuration information in the Windows Registry., T1112 
+adds,DarkComet,,,,DarkComet adds a Registry value for its installation routine to the Registry Key    System Enable LUA=â0â and  DC3_FEXEC., T1112 
+Enable,LUA = â0â DC3_FEXEC,,,,DarkComet adds a Registry value for its installation routine to the Registry Key    System Enable LUA=â0â and  DC3_FEXEC., T1112 
+modified,Registry,perform multiple techniques use Reg,,,Dragonfly 2.0 modified the Registry to perform multiple techniques through the use of Reg., T1112 
+perform,multiple techniques,,use Reg,,Dragonfly 2.0 modified the Registry to perform multiple techniques through the use of Reg., T1112 
+adds,configuration,,XML format,,Exaramel for Windows adds the configuration to the Registry in XML format., T1112 
+deletes,Registry key rundll32 . open,,,,FELIXROOT deletes the Registry key   rundll32. open., T1112 
+deleted,Registry keys,,,,FIN8 has deleted Registry keys during post compromise cleanup activities., T1112 
+deactivate,Gorgon Group malware,,editing several keys values,,Gorgon Group malware can deactivate security mechanisms in Microsoft Office by editing several keys and values under   ., T1112 
+editing,several keys values,,,,Gorgon Group malware can deactivate security mechanisms in Microsoft Office by editing several keys and values under   ., T1112 
+modifies,GreyEnergy,,,,GreyEnergy modifies conditions in the Registry and adds keys., T1112 
+adds,keys,,,,GreyEnergy modifies conditions in the Registry and adds keys., T1112 
+uses,batch file modifies Registry keys launch DLL svchost process,,,,Honeybee uses a batch file that modifies Registry keys to launch a DLL into the svchost  process., T1112 
+modifies,Registry keys,,,,Honeybee uses a batch file that modifies Registry keys to launch a DLL into the svchost  process., T1112 
+launch,DLL,,,,Honeybee uses a batch file that modifies Registry keys to launch a DLL into the svchost  process., T1112 
+modified,HOPLIGHT,run specific commands create persistence system,,,HOPLIGHT has modified Managed Object Format   files within the Registry to run specific commands and create persistence on the system., T1112 
+run,specific commands,,,,HOPLIGHT has modified Managed Object Format   files within the Registry to run specific commands and create persistence on the system., T1112 
+create,persistence,,,,HOPLIGHT has modified Managed Object Format   files within the Registry to run specific commands and create persistence on the system., T1112 
+creates,Registry subkey,register created service,,,"Hydraq creates a Registry subkey to register its created service, and can also uninstall itself later by deleting this value.", T1112 
+register,Hydraq,,,,"Hydraq creates a Registry subkey to register its created service, and can also uninstall itself later by deleting this value.", T1112 
+uninstall,Hydraq,,deleting value,,"Hydraq creates a Registry subkey to register its created service, and can also uninstall itself later by deleting this value.", T1112 
+deleting,value,,,,"Hydraq creates a Registry subkey to register its created service, and can also uninstall itself later by deleting this value.", T1112 
+enables,modify delete subkeys,,,,Hydraq's backdoor also enables remote attackers to modify and delete subkeys., T1112 
+modify,subkeys,,,,Hydraq's backdoor also enables remote attackers to modify and delete subkeys., T1112 
+create,specified Registry key value,,,,"InvisiMole has a command to create, set, copy, or delete a specified Registry key or value.", T1112 
+set,specified Registry key value,,,,"InvisiMole has a command to create, set, copy, or delete a specified Registry key or value.", T1112 
+delete,specified Registry key value,,,,"InvisiMole has a command to create, set, copy, or delete a specified Registry key or value.", T1112 
+create,Registry entries,storing data DataPath,,,KEYMARBLE has a command to create Registry entries for storing data under   DataPath., T1112 
+storing,data,,,,KEYMARBLE has a command to create Registry entries for storing data under   DataPath., T1112 
+modified,Registry key â Session ,,,,LoJax has modified the Registry key â  Session   from âautocheck autochk â to âautocheck autoche, T1112 
+,,,,,LoJax has modified the Registry key â  Session   from âautocheck autochk â to âautocheck autoche, T1112 
